@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 1,
+    "done": 2,
     "pending": 400,
-    "last_sync": "2026-06-01T15:43:29.712658",
-    "reviewing": 3
+    "last_sync": "2026-06-01T08:05:41.229527",
+    "reviewing": 2
   },
   "articles": [
     {
@@ -3622,7 +3622,7 @@
       "date": "2023-03-02T16:20:54",
       "modified": "2023-03-02T16:20:54",
       "link": "https://104.154.140.219/%e3%80%90%e5%a5%bd%e7%89%a9%e6%8e%a8%e8%96%a6%e3%80%91%e6%88%91%e9%81%87%e8%a6%8b%e4%ba%86%e8%82%8c%e8%86%9a%e7%9a%84%e9%9d%88%e9%ad%82%e4%bc%b4%e4%be%b6-somei/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已改結構 2026-06-01"
     },
     {
