@@ -58,11 +58,15 @@
 
   .article-row { flex-wrap: wrap; }
   .article-row-top { display: flex; align-items: center; gap: 12px; width: 100%; }
-  .note-row { width: 100%; display: flex; align-items: center; gap: 8px; margin-top: 8px; padding-top: 8px; border-top: 1px solid #f0f0f0; }
-  .note-row label { font-size: 12px; color: #888; white-space: nowrap; }
-  .note-input { flex: 1; font-size: 13px; padding: 6px 10px; border: 1px solid #d0d0d0; border-radius: 8px; background: #fafafa; color: #333; outline: none; }
+  .note-row { width: 100%; display: flex; flex-direction: column; gap: 8px; margin-top: 8px; padding-top: 8px; border-top: 1px solid #f0f0f0; }
+  .note-row label { font-size: 12px; color: #888; }
+  .note-row-bottom { display: flex; gap: 8px; align-items: flex-end; }
+  .note-input { flex: 1; font-size: 13px; padding: 8px 10px; border: 1px solid #d0d0d0; border-radius: 8px; background: #fafafa; color: #333; outline: none; resize: vertical; min-height: 72px; line-height: 1.5; font-family: inherit; }
   .note-input:focus { border-color: #007aff; background: #fff; }
   .note-input.has-note { border-color: #ff9500; background: #fffbf0; }
+  .btn-save-note { padding: 7px 16px; border-radius: 8px; font-size: 13px; font-weight: 500; background: #007aff; color: #fff; border: none; cursor: pointer; white-space: nowrap; }
+  .btn-save-note:hover { background: #0062cc; }
+  .btn-save-note.saved { background: #34c759; }
 
   .empty { text-align: center; padding: 60px; color: #999; }
 
@@ -183,11 +187,11 @@ function render() {
       ${a.status !== 'pending' ? `
       <div class="note-row">
         <label>審核備註：</label>
-        <input class="note-input ${a.note ? 'has-note' : ''}" id="note-input-${a.id}"
-          value="${a.note ? a.note.replace(/"/g, '&quot;') : ''}"
-          placeholder="有問題請寫在這裡，例如：圖片第 3 張跑版、第 2 段連結失效…"
-          onblur="saveNote(${a.id})"
-          onkeydown="if(event.key==='Enter')saveNote(${a.id})">
+        <div class="note-row-bottom">
+          <textarea class="note-input ${a.note ? 'has-note' : ''}" id="note-input-${a.id}"
+            placeholder="有問題請寫在這裡，例如：&#10;・圖片第 3 張跑版&#10;・第 2 段連結失效">${a.note ? a.note.replace(/</g, '&lt;') : ''}</textarea>
+          <button class="btn-save-note" id="save-btn-${a.id}" onclick="saveNote(${a.id})">儲存</button>
+        </div>
       </div>` : ''}
     </div>
   `).join('');
@@ -220,10 +224,18 @@ function showToast(msg) {
 
 async function saveNote(id) {
   const input = document.getElementById(`note-input-${id}`);
+  const btn = document.getElementById(`save-btn-${id}`);
   const a = articles.find(x => x.id === id);
   a.note = input.value;
-  render();
+  input.classList.toggle('has-note', !!a.note);
+  if (btn) { btn.textContent = '儲存中…'; btn.disabled = true; }
   await save(id, 'note', a.note);
+  if (btn) {
+    btn.textContent = '已儲存 ✓';
+    btn.classList.add('saved');
+    setTimeout(() => { btn.textContent = '儲存'; btn.classList.remove('saved'); btn.disabled = false; }, 2000);
+  }
+  showToast('備註已儲存');
 }
 
 document.getElementById('search').addEventListener('input', render);
