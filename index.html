@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>文章格式改寫進度追蹤</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #f5f5f7; color: #1d1d1f; }
+
+  header { background: #fff; border-bottom: 1px solid #e0e0e0; padding: 20px 32px; position: sticky; top: 0; z-index: 10; }
+  header h1 { font-size: 20px; font-weight: 600; margin-bottom: 12px; }
+
+  .stats { display: flex; gap: 24px; align-items: center; flex-wrap: wrap; }
+  .stat { text-align: center; }
+  .stat .num { font-size: 28px; font-weight: 700; line-height: 1; }
+  .stat .label { font-size: 12px; color: #666; margin-top: 2px; }
+  .stat.done .num { color: #34c759; }
+  .stat.reviewing .num { color: #007aff; }
+  .stat.pending .num { color: #ff9500; }
+  .stat.total .num { color: #1d1d1f; }
+
+  .progress-bar { flex: 1; min-width: 200px; }
+  .progress-track { background: #e0e0e0; border-radius: 8px; height: 12px; overflow: hidden; display: flex; }
+  .progress-fill-done { background: #34c759; height: 100%; transition: width 0.4s; }
+  .progress-fill-reviewing { background: #007aff; height: 100%; transition: width 0.4s; }
+  .progress-label { font-size: 12px; color: #666; margin-top: 4px; text-align: right; }
+
+  .toolbar { padding: 16px 32px; display: flex; gap: 12px; align-items: center; background: #f5f5f7; flex-wrap: wrap; }
+  .toolbar input { padding: 8px 12px; border: 1px solid #d0d0d0; border-radius: 8px; font-size: 14px; width: 280px; background: #fff; }
+  .toolbar select { padding: 8px 12px; border: 1px solid #d0d0d0; border-radius: 8px; font-size: 14px; background: #fff; cursor: pointer; }
+  .toolbar .count { margin-left: auto; font-size: 13px; color: #666; }
+
+  .list { padding: 0 32px 32px; }
+  .article-row { background: #fff; border-radius: 10px; padding: 14px 18px; margin-bottom: 8px; display: flex; align-items: center; gap: 12px; box-shadow: 0 1px 3px rgba(0,0,0,0.06); }
+  .article-row:hover { box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+  .article-row.is-reviewing { border-left: 3px solid #007aff; }
+  .article-row.is-done { border-left: 3px solid #34c759; }
+  .article-row.is-pending { border-left: 3px solid #e0e0e0; }
+
+  .badge { padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 500; white-space: nowrap; cursor: pointer; border: none; }
+  .badge.done { background: #d1fae5; color: #065f46; }
+  .badge.reviewing { background: #dbeafe; color: #1e40af; }
+  .badge.pending { background: #fff3cd; color: #92400e; }
+
+  .btn-url { padding: 4px 10px; border-radius: 8px; font-size: 12px; background: #f0f0f5; color: #555; border: none; cursor: pointer; white-space: nowrap; text-decoration: none; display: inline-block; }
+  .btn-url:hover { background: #e0e0ea; color: #007aff; }
+
+  .btn-copy { padding: 4px 8px; border-radius: 8px; font-size: 11px; background: transparent; color: #999; border: 1px solid #d0d0d0; cursor: pointer; white-space: nowrap; }
+  .btn-copy:hover { background: #f0f0f5; color: #333; }
+  .btn-copy.copied { color: #34c759; border-color: #34c759; }
+
+  .article-id { font-size: 12px; color: #999; min-width: 52px; }
+  .article-title { flex: 1; font-size: 14px; line-height: 1.5; }
+  .article-title a { color: #1d1d1f; text-decoration: none; }
+  .article-title a:hover { color: #007aff; }
+  .article-date { font-size: 12px; color: #999; white-space: nowrap; }
+
+  .article-note { font-size: 12px; color: #888; max-width: 140px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; cursor: pointer; }
+  .note-input { font-size: 12px; padding: 4px 8px; border: 1px solid #d0d0d0; border-radius: 6px; width: 140px; display: none; }
+  .note-input.visible { display: block; }
+
+  .empty { text-align: center; padding: 60px; color: #999; }
+
+  .toast { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); background: #333; color: #fff; padding: 8px 20px; border-radius: 20px; font-size: 13px; opacity: 0; transition: opacity 0.2s; pointer-events: none; }
+  .toast.show { opacity: 1; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>苼莛生技雜誌 — 文章格式改寫進度</h1>
+  <div class="stats">
+    <div class="stat total"><div class="num" id="stat-total">—</div><div class="label">總文章數</div></div>
+    <div class="stat done"><div class="num" id="stat-done">—</div><div class="label">✓ 已完成</div></div>
+    <div class="stat reviewing"><div class="num" id="stat-reviewing">—</div><div class="label">● 待審核</div></div>
+    <div class="stat pending"><div class="num" id="stat-pending">—</div><div class="label">○ 待處理</div></div>
+    <div class="progress-bar">
+      <div class="progress-track">
+        <div class="progress-fill-done" id="progress-done" style="width:0%"></div>
+        <div class="progress-fill-reviewing" id="progress-reviewing" style="width:0%"></div>
+      </div>
+      <div class="progress-label" id="progress-label">0%</div>
+    </div>
+  </div>
+</header>
+
+<div class="toolbar">
+  <input type="text" id="search" placeholder="搜尋文章標題...">
+  <select id="filter">
+    <option value="all">全部</option>
+    <option value="reviewing">待審核</option>
+    <option value="pending">待處理</option>
+    <option value="done">已完成</option>
+  </select>
+  <span class="count" id="visible-count"></span>
+</div>
+
+<div class="list" id="list"></div>
+<div class="toast" id="toast"></div>
+
+<script>
+let articles = [];
+let data = {};
+
+async function load() {
+  const res = await fetch('articles.json?t=' + Date.now());
+  data = await res.json();
+  articles = data.articles;
+  render();
+}
+
+function save() {
+  data.meta.done = articles.filter(a => a.status === 'done').length;
+  data.meta.reviewing = articles.filter(a => a.status === 'reviewing').length;
+  data.meta.pending = articles.filter(a => a.status === 'pending').length;
+  data.meta.last_sync = new Date().toISOString();
+
+  const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'articles.json';
+  a.click();
+  URL.revokeObjectURL(a.href);
+}
+
+function statusLabel(s) {
+  if (s === 'done') return '✓ 已完成';
+  if (s === 'reviewing') return '● 待審核';
+  return '○ 待處理';
+}
+
+function nextStatus(s) {
+  if (s === 'pending') return 'reviewing';
+  if (s === 'reviewing') return 'done';
+  return 'pending';
+}
+
+function render() {
+  const q = document.getElementById('search').value.toLowerCase();
+  const filter = document.getElementById('filter').value;
+
+  const visible = articles.filter(a => {
+    const matchText = a.title.toLowerCase().includes(q) || String(a.id).includes(q);
+    const matchStatus = filter === 'all' || a.status === filter;
+    return matchText && matchStatus;
+  });
+
+  const total = articles.length;
+  const done = articles.filter(a => a.status === 'done').length;
+  const reviewing = articles.filter(a => a.status === 'reviewing').length;
+  const pending = total - done - reviewing;
+  const pctDone = (done / total * 100).toFixed(1);
+  const pctReviewing = (reviewing / total * 100).toFixed(1);
+
+  document.getElementById('stat-total').textContent = total;
+  document.getElementById('stat-done').textContent = done;
+  document.getElementById('stat-reviewing').textContent = reviewing;
+  document.getElementById('stat-pending').textContent = pending;
+  document.getElementById('progress-done').style.width = pctDone + '%';
+  document.getElementById('progress-reviewing').style.width = pctReviewing + '%';
+  document.getElementById('progress-label').textContent = `已完成 ${pctDone}%，待審核 ${pctReviewing}%`;
+  document.getElementById('visible-count').textContent = `顯示 ${visible.length} 筆`;
+
+  const list = document.getElementById('list');
+  if (visible.length === 0) {
+    list.innerHTML = '<div class="empty">沒有符合條件的文章</div>';
+    return;
+  }
+
+  list.innerHTML = visible.map(a => `
+    <div class="article-row is-${a.status}" id="row-${a.id}">
+      <span class="article-id">#${a.id}</span>
+      <div class="article-title">
+        <a href="${a.link}" target="_blank">${a.title}</a>
+      </div>
+      <button class="btn-copy" id="copy-${a.id}" onclick="copyUrl(${a.id}, '${a.link}')">複製連結</button>
+      <a class="btn-url" href="${a.link}" target="_blank">開啟 ↗</a>
+      <span class="article-note" id="note-text-${a.id}" onclick="editNote(${a.id})" title="${a.note || '點擊加備註'}">${a.note || '＋備註'}</span>
+      <input class="note-input" id="note-input-${a.id}" value="${a.note || ''}" placeholder="備註..." onblur="saveNote(${a.id})" onkeydown="if(event.key==='Enter')saveNote(${a.id})">
+      <span class="article-date">${a.date.slice(0,10)}</span>
+      <button class="badge ${a.status}" onclick="toggle(${a.id})">${statusLabel(a.status)}</button>
+    </div>
+  `).join('');
+}
+
+function toggle(id) {
+  const a = articles.find(x => x.id === id);
+  a.status = nextStatus(a.status);
+  save();
+  render();
+}
+
+function copyUrl(id, url) {
+  navigator.clipboard.writeText(url).then(() => {
+    const btn = document.getElementById(`copy-${id}`);
+    btn.textContent = '已複製！';
+    btn.classList.add('copied');
+    showToast('連結已複製到剪貼簿');
+    setTimeout(() => { btn.textContent = '複製連結'; btn.classList.remove('copied'); }, 2000);
+  });
+}
+
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 2000);
+}
+
+function editNote(id) {
+  document.getElementById(`note-text-${id}`).style.display = 'none';
+  const input = document.getElementById(`note-input-${id}`);
+  input.classList.add('visible');
+  input.focus();
+}
+
+function saveNote(id) {
+  const input = document.getElementById(`note-input-${id}`);
+  const a = articles.find(x => x.id === id);
+  a.note = input.value;
+  save();
+  render();
+}
+
+document.getElementById('search').addEventListener('input', render);
+document.getElementById('filter').addEventListener('change', render);
+
+load();
+</script>
+</body>
+</html>
