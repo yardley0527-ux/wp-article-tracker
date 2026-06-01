@@ -56,9 +56,13 @@
   .article-title a:hover { color: #007aff; }
   .article-date { font-size: 12px; color: #999; white-space: nowrap; }
 
-  .article-note { font-size: 12px; color: #888; max-width: 140px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; cursor: pointer; }
-  .note-input { font-size: 12px; padding: 4px 8px; border: 1px solid #d0d0d0; border-radius: 6px; width: 140px; display: none; }
-  .note-input.visible { display: block; }
+  .article-row { flex-wrap: wrap; }
+  .article-row-top { display: flex; align-items: center; gap: 12px; width: 100%; }
+  .note-row { width: 100%; display: flex; align-items: center; gap: 8px; margin-top: 8px; padding-top: 8px; border-top: 1px solid #f0f0f0; }
+  .note-row label { font-size: 12px; color: #888; white-space: nowrap; }
+  .note-input { flex: 1; font-size: 13px; padding: 6px 10px; border: 1px solid #d0d0d0; border-radius: 8px; background: #fafafa; color: #333; outline: none; }
+  .note-input:focus { border-color: #007aff; background: #fff; }
+  .note-input.has-note { border-color: #ff9500; background: #fffbf0; }
 
   .empty { text-align: center; padding: 60px; color: #999; }
 
@@ -166,16 +170,25 @@ function render() {
 
   list.innerHTML = visible.map(a => `
     <div class="article-row is-${a.status}" id="row-${a.id}">
-      <span class="article-id">#${a.id}</span>
-      <div class="article-title">
-        <a href="${a.link}" target="_blank">${a.title}</a>
+      <div class="article-row-top">
+        <span class="article-id">#${a.id}</span>
+        <div class="article-title">
+          <a href="${a.link}" target="_blank">${a.title}</a>
+        </div>
+        <button class="btn-copy" id="copy-${a.id}" onclick="copyUrl(${a.id}, '${a.link}')">複製連結</button>
+        <a class="btn-url" href="${a.link}" target="_blank">開啟 ↗</a>
+        <span class="article-date">${a.date.slice(0,10)}</span>
+        <button class="badge ${a.status}" onclick="toggle(${a.id})">${statusLabel(a.status)}</button>
       </div>
-      <button class="btn-copy" id="copy-${a.id}" onclick="copyUrl(${a.id}, '${a.link}')">複製連結</button>
-      <a class="btn-url" href="${a.link}" target="_blank">開啟 ↗</a>
-      <span class="article-note" id="note-text-${a.id}" onclick="editNote(${a.id})" title="${a.note || '點擊加備註'}">${a.note || '＋備註'}</span>
-      <input class="note-input" id="note-input-${a.id}" value="${a.note || ''}" placeholder="備註..." onblur="saveNote(${a.id})" onkeydown="if(event.key==='Enter')saveNote(${a.id})">
-      <span class="article-date">${a.date.slice(0,10)}</span>
-      <button class="badge ${a.status}" onclick="toggle(${a.id})">${statusLabel(a.status)}</button>
+      ${a.status !== 'pending' ? `
+      <div class="note-row">
+        <label>審核備註：</label>
+        <input class="note-input ${a.note ? 'has-note' : ''}" id="note-input-${a.id}"
+          value="${a.note ? a.note.replace(/"/g, '&quot;') : ''}"
+          placeholder="有問題請寫在這裡，例如：圖片第 3 張跑版、第 2 段連結失效…"
+          onblur="saveNote(${a.id})"
+          onkeydown="if(event.key==='Enter')saveNote(${a.id})">
+      </div>` : ''}
     </div>
   `).join('');
 }
@@ -203,13 +216,6 @@ function showToast(msg) {
   t.textContent = msg;
   t.classList.add('show');
   setTimeout(() => t.classList.remove('show'), 2000);
-}
-
-function editNote(id) {
-  document.getElementById(`note-text-${id}`).style.display = 'none';
-  const input = document.getElementById(`note-input-${id}`);
-  input.classList.add('visible');
-  input.focus();
 }
 
 async function saveNote(id) {
