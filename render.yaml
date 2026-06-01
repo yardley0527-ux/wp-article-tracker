@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: wp-article-tracker
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    envVars:
+      - key: GITHUB_TOKEN
+        sync: false
+      - key: GITHUB_REPO
+        value: yardley0527-ux/wp-article-tracker

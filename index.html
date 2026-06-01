@@ -104,24 +104,20 @@ let articles = [];
 let data = {};
 
 async function load() {
-  const res = await fetch('articles.json?t=' + Date.now());
+  const res = await fetch('/api/articles?t=' + Date.now());
   data = await res.json();
   articles = data.articles;
   render();
 }
 
-function save() {
-  data.meta.done = articles.filter(a => a.status === 'done').length;
-  data.meta.reviewing = articles.filter(a => a.status === 'reviewing').length;
-  data.meta.pending = articles.filter(a => a.status === 'pending').length;
-  data.meta.last_sync = new Date().toISOString();
-
-  const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
-  const a = document.createElement('a');
-  a.href = URL.createObjectURL(blob);
-  a.download = 'articles.json';
-  a.click();
-  URL.revokeObjectURL(a.href);
+async function save(id, field, value) {
+  const body = {};
+  body[field] = value;
+  await fetch(`/api/articles/${id}`, {
+    method: 'PATCH',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(body)
+  });
 }
 
 function statusLabel(s) {
@@ -184,11 +180,12 @@ function render() {
   `).join('');
 }
 
-function toggle(id) {
+async function toggle(id) {
   const a = articles.find(x => x.id === id);
   a.status = nextStatus(a.status);
-  save();
   render();
+  await save(id, 'status', a.status);
+  showToast('狀態已更新');
 }
 
 function copyUrl(id, url) {
@@ -215,12 +212,12 @@ function editNote(id) {
   input.focus();
 }
 
-function saveNote(id) {
+async function saveNote(id) {
   const input = document.getElementById(`note-input-${id}`);
   const a = articles.find(x => x.id === id);
   a.note = input.value;
-  save();
   render();
+  await save(id, 'note', a.note);
 }
 
 document.getElementById('search').addEventListener('input', render);
