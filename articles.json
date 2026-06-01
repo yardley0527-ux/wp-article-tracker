@@ -2,9 +2,9 @@
   "meta": {
     "total": 404,
     "done": 4,
-    "pending": 395,
-    "last_sync": "2026-06-01T16:30:22.271201",
-    "reviewing": 5
+    "pending": 390,
+    "last_sync": "2026-06-01T16:38:36.212865",
+    "reviewing": 10
   },
   "articles": [
     {
@@ -3532,8 +3532,8 @@
       "date": "2023-03-22T17:17:02",
       "modified": "2023-03-22T17:17:02",
       "link": "https://104.154.140.219/%e3%80%90%e5%a5%bd%e7%89%a9%e6%8e%a8%e8%96%a6%e3%80%91%e7%be%8e%e7%99%bd%e6%9c%89%e6%84%9f%e5%8f%88%e5%ae%89%e5%bf%83%ef%bc%81%e7%b6%ad%e4%bb%96%e5%91%bd-c-%e7%99%bd%e5%a4%a9%e6%93%a6%e6%95%88/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "已改結構 2026-06-01"
     },
     {
       "id": 1146,
@@ -3541,8 +3541,8 @@
       "date": "2023-03-17T14:36:55",
       "modified": "2023-03-17T14:36:55",
       "link": "https://104.154.140.219/%e6%89%93%e9%80%a0%e6%b0%b4%e7%85%ae%e8%9b%8b%e8%82%8c%e4%b8%8d%e6%98%af%e5%a4%a2%ef%bc%81%e9%85%b8%e9%a1%9e%e7%85%a5%e8%86%9a%e7%82%ba%e7%9a%ae%e8%86%9a%e6%89%93%e5%a5%bd%e5%9c%b0%e5%9f%ba%e3%80%80/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "已改結構 2026-06-01"
     },
     {
       "id": 4715,
@@ -3550,8 +3550,8 @@
       "date": "2023-03-17T10:06:40",
       "modified": "2023-03-17T10:06:40",
       "link": "https://104.154.140.219/%e5%b1%85%e5%ae%b6%e7%85%a5%e8%86%9a%e9%a4%8a%e6%88%90%e7%84%a1%e6%9a%87%e8%82%8c%ef%bc%81mit%e3%80%8c%e6%9c%ac%e8%b3%aa%e7%a0%94%e7%a9%b6%e3%80%8d-%e7%b4%94%e9%ae%ae%e5%93%b2%e5%ad%b8/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "已改結構 2026-06-01"
     },
     {
       "id": 1097,
@@ -3559,8 +3559,8 @@
       "date": "2023-03-15T14:13:50",
       "modified": "2023-03-15T14:13:50",
       "link": "https://104.154.140.219/%e3%80%8c%e6%97%a9c%e6%99%9aa%e3%80%8d%e4%bf%9d%e9%a4%8a%e6%94%bb%e7%95%a5%e5%85%a8%e5%85%ac%e9%96%8b/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "已改結構 2026-06-01"
     },
     {
       "id": 1055,
@@ -3568,8 +3568,8 @@
       "date": "2023-03-15T10:32:53",
       "modified": "2023-03-15T10:32:53",
       "link": "https://104.154.140.219/%e8%85%b8%e9%81%93%e5%81%a5%e5%ba%b7%e7%89%bd%e4%b8%80%e9%ab%ae%e8%80%8c%e5%8b%95%e5%85%a8%e8%ba%ab%ef%bc%81/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "已改結構 2026-06-01"
     },
     {
       "id": 1037,
