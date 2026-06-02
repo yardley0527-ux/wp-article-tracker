@@ -2,9 +2,9 @@
   "meta": {
     "total": 404,
     "done": 4,
-    "pending": 377,
-    "last_sync": "2026-06-02T02:02:25.724225",
-    "reviewing": 23
+    "pending": 375,
+    "last_sync": "2026-06-02T02:03:13.834271",
+    "reviewing": 25
   },
   "articles": [
     {
@@ -102,8 +102,9 @@
       "date": "2026-05-12T09:13:16",
       "modified": "2026-05-12T09:13:24",
       "link": "https://104.154.140.219/tranexamic-acid-for-pie/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "updated_at": "2026-06-02T10:03:13"
     },
     {
       "id": 18754,
@@ -111,8 +112,9 @@
       "date": "2026-05-11T07:58:53",
       "modified": "2026-05-11T07:59:33",
       "link": "https://104.154.140.219/apple-cider-vinegar/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "updated_at": "2026-06-02T10:03:13"
     },
     {
       "id": 18741,
