@@ -52,8 +52,9 @@
       "date": "2026-05-20T09:58:32",
       "modified": "2026-05-20T09:58:41",
       "link": "https://104.154.140.219/egt/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "updated_at": "2026-06-02T10:02:03"
     },
     {
       "id": 18836,
@@ -61,8 +62,9 @@
       "date": "2026-05-19T02:18:28",
       "modified": "2026-05-19T02:18:36",
       "link": "https://104.154.140.219/cervical-cancer/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "updated_at": "2026-06-02T10:02:03"
     },
     {
       "id": 18822,
@@ -70,8 +72,9 @@
       "date": "2026-05-15T10:10:09",
       "modified": "2026-05-15T10:10:17",
       "link": "https://104.154.140.219/gsh/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "updated_at": "2026-06-02T10:02:03"
     },
     {
       "id": 18808,
@@ -79,8 +82,9 @@
       "date": "2026-05-14T09:31:43",
       "modified": "2026-05-14T09:32:34",
       "link": "https://104.154.140.219/5-whitening-ingredients/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "updated_at": "2026-06-02T10:02:03"
     },
     {
       "id": 18790,
@@ -88,8 +92,9 @@
       "date": "2026-05-13T08:59:22",
       "modified": "2026-05-13T08:59:29",
       "link": "https://104.154.140.219/glutathione-research/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "updated_at": "2026-06-02T10:02:03"
     },
     {
       "id": 18775,
