@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 15,
+    "done": 16,
     "pending": 355,
-    "reviewing": 34,
-    "last_sync": "2026-06-03T07:24:46.426682"
+    "reviewing": 33,
+    "last_sync": "2026-06-03T07:24:48.041125"
   },
   "articles": [
     {
@@ -3562,7 +3562,7 @@
       "date": "2023-03-30T09:59:43",
       "modified": "2026-06-02T09:30:33",
       "link": "https://104.154.140.219/%e3%80%90%ce%b3-pga%e8%81%9a%e9%ba%a9%e8%83%ba%e9%85%b8%e9%88%89%e3%80%91%e6%af%94%e7%8e%bb%e5%b0%bf%e9%85%b8%e5%bc%b710%e5%80%8d%e7%9a%84%e4%bf%9d%e6%bf%95%e7%8e%8b%e8%80%85%ef%bc%81/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已改結構 2026-06-01",
       "rewritten_at": "2026-06-02"
     },
