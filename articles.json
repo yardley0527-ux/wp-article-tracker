@@ -1,8 +1,8 @@
 {
   "meta": {
     "total": 404,
-    "done": 4,
-    "pending": 370,
+    "done": 5,
+    "pending": 369,
     "reviewing": 30,
     "last_sync": "2026-06-02T17:45:34.579299"
   },
@@ -172,8 +172,9 @@
       "date": "2026-04-23T07:09:29",
       "modified": "2026-04-23T07:13:33",
       "link": "https://104.154.140.219/edema-relief/",
-      "status": "pending",
-      "note": ""
+      "status": "done",
+      "note": "",
+      "rewritten_at": "2026-06-03"
     },
     {
       "id": 18634,
