@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 18,
+    "done": 19,
     "pending": 350,
-    "reviewing": 36,
-    "last_sync": "2026-06-03T08:08:17.970340"
+    "reviewing": 35,
+    "last_sync": "2026-06-03T08:08:48.072822"
   },
   "articles": [
     {
@@ -237,9 +237,10 @@
       "date": "2026-04-15T05:27:30",
       "modified": "2026-04-15T05:28:19",
       "link": "https://104.154.140.219/curcumin-research/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "rewritten_at": "2026-06-03"
+      "rewritten_at": "2026-06-03",
+      "approved_at": "2026-06-03 08:08"
     },
     {
       "id": 18562,
