@@ -1,8 +1,8 @@
 {
   "meta": {
     "total": 404,
-    "done": 5,
-    "pending": 369,
+    "done": 9,
+    "pending": 365,
     "reviewing": 30,
     "last_sync": "2026-06-02T17:45:34.579299"
   },
@@ -182,8 +182,9 @@
       "date": "2026-04-22T08:52:04",
       "modified": "2026-04-22T08:52:06",
       "link": "https://104.154.140.219/edema-symptoms-and-causes/",
-      "status": "pending",
-      "note": ""
+      "status": "done",
+      "note": "",
+      "rewritten_at": "2026-06-03"
     },
     {
       "id": 18622,
@@ -191,8 +192,9 @@
       "date": "2026-04-21T04:58:31",
       "modified": "2026-04-21T04:58:39",
       "link": "https://104.154.140.219/top-10-fruits/",
-      "status": "pending",
-      "note": ""
+      "status": "done",
+      "note": "",
+      "rewritten_at": "2026-06-03"
     },
     {
       "id": 18609,
@@ -200,8 +202,9 @@
       "date": "2026-04-17T06:29:14",
       "modified": "2026-04-17T06:31:04",
       "link": "https://104.154.140.219/top-5-b-complex-supplements/",
-      "status": "pending",
-      "note": ""
+      "status": "done",
+      "note": "",
+      "rewritten_at": "2026-06-03"
     },
     {
       "id": 18595,
@@ -209,8 +212,9 @@
       "date": "2026-04-16T09:16:10",
       "modified": "2026-04-16T09:16:11",
       "link": "https://104.154.140.219/methyl-adaptogens/",
-      "status": "pending",
-      "note": ""
+      "status": "done",
+      "note": "",
+      "rewritten_at": "2026-06-03"
     },
     {
       "id": 18578,
