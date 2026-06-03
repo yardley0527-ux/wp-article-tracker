@@ -57,10 +57,16 @@ def get_articles():
 def update_article(article_id):
     data, sha = gh_get()
     body = request.get_json()
+    now = datetime.utcnow().strftime('%Y-%m-%d %H:%M')
     for a in data['articles']:
         if a['id'] == article_id:
-            if 'status' in body: a['status'] = body['status']
-            if 'note'   in body: a['note']   = body['note']
+            if 'status' in body:
+                a['status'] = body['status']
+                if body['status'] == 'done':
+                    a['approved_at'] = now
+                elif body['status'] != 'done':
+                    a.pop('approved_at', None)
+            if 'note' in body: a['note'] = body['note']
             break
     else:
         return jsonify({'error': 'not found'}), 404

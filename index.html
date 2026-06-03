@@ -183,6 +183,7 @@ function render() {
         <a class="btn-url" href="${a.link}" target="_blank">開啟 ↗</a>
         <span class="article-date">${a.date.slice(0,10)}</span>
         <button class="badge ${a.status}" onclick="toggle(${a.id})">${statusLabel(a.status)}</button>
+        ${a.status === 'done' && a.approved_at ? `<span class="article-date" title="人工審核時間">✓ ${a.approved_at}</span>` : ''}
       </div>
       ${a.status !== 'pending' ? `
       <div class="note-row">
