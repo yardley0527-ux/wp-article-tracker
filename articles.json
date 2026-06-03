@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 22,
+    "done": 23,
     "pending": 350,
-    "reviewing": 32,
-    "last_sync": "2026-06-03T08:09:26.067747"
+    "reviewing": 31,
+    "last_sync": "2026-06-03T08:09:57.016608"
   },
   "articles": [
     {
@@ -33,10 +33,11 @@
       "date": "2026-05-25T02:20:42",
       "modified": "2026-06-02T09:19:18",
       "link": "https://104.154.140.219/complementary-therapies-in-medicine/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "updated_at": "2026-06-02T10:00:46",
-      "rewritten_at": "2026-06-02"
+      "rewritten_at": "2026-06-02",
+      "approved_at": "2026-06-03 08:09"
     },
     {
       "id": 18872,
