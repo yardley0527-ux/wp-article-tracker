@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 17,
-    "pending": 355,
-    "reviewing": 32,
+    "pending": 350,
+    "reviewing": 37,
     "last_sync": "2026-06-03T07:24:49.700475"
   },
   "articles": [
@@ -337,8 +337,9 @@
       "date": "2026-03-20T07:17:05",
       "modified": "2026-03-20T07:17:14",
       "link": "https://104.154.140.219/dave-pascoe/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-03"
     },
     {
       "id": 18401,
@@ -346,8 +347,9 @@
       "date": "2026-03-19T07:39:21",
       "modified": "2026-03-19T07:39:27",
       "link": "https://104.154.140.219/diet-in-centenarians/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-03"
     },
     {
       "id": 18386,
@@ -355,8 +357,9 @@
       "date": "2026-03-18T07:40:14",
       "modified": "2026-03-18T07:40:21",
       "link": "https://104.154.140.219/8-vitamin-b-rich-foods/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-03"
     },
     {
       "id": 18373,
@@ -364,8 +367,9 @@
       "date": "2026-03-17T06:45:25",
       "modified": "2026-03-17T06:45:32",
       "link": "https://104.154.140.219/best-fiber-supplements-of-2025/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-03"
     },
     {
       "id": 18356,
@@ -373,8 +377,9 @@
       "date": "2026-03-16T02:50:51",
       "modified": "2026-03-16T02:51:32",
       "link": "https://104.154.140.219/seven-best-foods-for-your-teeth/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-03"
     },
     {
       "id": 18341,
