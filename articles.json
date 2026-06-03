@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 4,
-    "pending": 365,
-    "reviewing": 35,
+    "pending": 360,
+    "reviewing": 40,
     "last_sync": "2026-06-03T00:00:00"
   },
   "articles": [
@@ -237,8 +237,9 @@
       "date": "2026-04-15T05:27:30",
       "modified": "2026-04-15T05:28:19",
       "link": "https://104.154.140.219/curcumin-research/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-03"
     },
     {
       "id": 18562,
@@ -246,8 +247,9 @@
       "date": "2026-04-02T10:57:10",
       "modified": "2026-04-02T10:57:19",
       "link": "https://104.154.140.219/daily-ingestion-of-kpe-safely-reduces-body-fat/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-03"
     },
     {
       "id": 18543,
@@ -255,8 +257,9 @@
       "date": "2026-04-02T02:31:02",
       "modified": "2026-04-02T02:31:12",
       "link": "https://104.154.140.219/the-effect-of-turmeric/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-03"
     },
     {
       "id": 18525,
@@ -264,8 +267,9 @@
       "date": "2026-04-01T02:28:01",
       "modified": "2026-04-01T02:28:11",
       "link": "https://104.154.140.219/colorectal-cancer/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-03"
     },
     {
       "id": 18509,
@@ -273,8 +277,9 @@
       "date": "2026-03-31T03:03:45",
       "modified": "2026-03-31T03:03:54",
       "link": "https://104.154.140.219/natural-vitamin-b-complex/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-03"
     },
     {
       "id": 18496,
