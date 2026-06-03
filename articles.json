@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 23,
+    "done": 24,
     "pending": 350,
-    "reviewing": 31,
-    "last_sync": "2026-06-03T08:09:57.016608"
+    "reviewing": 30,
+    "last_sync": "2026-06-03T08:10:10.824479"
   },
   "articles": [
     {
@@ -45,10 +45,11 @@
       "date": "2026-05-22T02:44:18",
       "modified": "2026-06-02T09:21:13",
       "link": "https://104.154.140.219/gynecological-conditions/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "updated_at": "2026-06-02T10:00:46",
-      "rewritten_at": "2026-06-02"
+      "rewritten_at": "2026-06-02",
+      "approved_at": "2026-06-03 08:10"
     },
     {
       "id": 18855,
