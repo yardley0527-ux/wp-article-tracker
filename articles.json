@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 19,
+    "done": 20,
     "pending": 350,
-    "reviewing": 35,
-    "last_sync": "2026-06-03T08:09:01.283775"
+    "reviewing": 34,
+    "last_sync": "2026-06-03T08:09:02.946832"
   },
   "articles": [
     {
@@ -248,9 +248,10 @@
       "date": "2026-04-02T10:57:10",
       "modified": "2026-04-02T10:57:19",
       "link": "https://104.154.140.219/daily-ingestion-of-kpe-safely-reduces-body-fat/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "rewritten_at": "2026-06-03"
+      "rewritten_at": "2026-06-03",
+      "approved_at": "2026-06-03 08:09"
     },
     {
       "id": 18543,
