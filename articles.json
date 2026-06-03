@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 7,
+    "done": 8,
     "pending": 355,
-    "reviewing": 42,
-    "last_sync": "2026-06-03T07:21:42.836911"
+    "reviewing": 41,
+    "last_sync": "2026-06-03T07:21:59.701809"
   },
   "articles": [
     {
@@ -3642,7 +3642,7 @@
       "date": "2023-03-15T10:32:19",
       "modified": "2026-06-02T09:36:59",
       "link": "https://104.154.140.219/%e6%86%82%e9%ac%b1%e3%80%81%e5%a4%b1%e7%9c%a0%e7%ab%9f%e6%98%af%e8%85%b8%e9%81%93%e6%83%b9%e7%9a%84%e7%a6%8d%ef%bc%9f%e8%a3%bd%e9%80%a0%e3%80%8c%e8%a1%80%e6%b8%85%e7%b4%a0%e3%80%8d/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已改結構 2026-06-01",
       "rewritten_at": "2026-06-02"
     },
