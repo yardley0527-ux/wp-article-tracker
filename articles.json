@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 49,
+    "done": 50,
     "pending": 338,
-    "reviewing": 17,
-    "last_sync": "2026-06-04T06:44:55.363360"
+    "reviewing": 16,
+    "last_sync": "2026-06-04T06:44:57.901861"
   },
   "articles": [
     {
@@ -105,10 +105,11 @@
       "date": "2026-05-13T08:59:22",
       "modified": "2026-06-02T09:22:44",
       "link": "https://104.154.140.219/glutathione-research/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "updated_at": "2026-06-02T10:02:03",
-      "rewritten_at": "2026-06-02"
+      "rewritten_at": "2026-06-02",
+      "approved_at": "2026-06-04 06:44"
     },
     {
       "id": 18775,
