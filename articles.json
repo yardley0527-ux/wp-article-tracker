@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 63,
+    "done": 64,
     "pending": 338,
-    "reviewing": 3,
-    "last_sync": "2026-06-04T06:46:57.978746"
+    "reviewing": 2,
+    "last_sync": "2026-06-04T06:47:22.526478"
   },
   "articles": [
     {
@@ -58,10 +58,11 @@
       "date": "2026-05-20T09:58:32",
       "modified": "2026-06-02T09:21:24",
       "link": "https://104.154.140.219/egt/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "updated_at": "2026-06-02T10:02:03",
-      "rewritten_at": "2026-06-02"
+      "rewritten_at": "2026-06-02",
+      "approved_at": "2026-06-04 06:47"
     },
     {
       "id": 18836,
