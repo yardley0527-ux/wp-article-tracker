@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 34,
+    "done": 35,
     "pending": 344,
-    "reviewing": 26,
-    "last_sync": "2026-06-04T05:12:42.929760"
+    "reviewing": 25,
+    "last_sync": "2026-06-04T05:12:58.573625"
   },
   "articles": [
     {
@@ -421,9 +421,10 @@
       "date": "2026-03-10T05:41:25",
       "modified": "2026-03-10T05:42:07",
       "link": "https://104.154.140.219/effects-of-oral-collagen-for-skin-anti-aging/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "reviewed_at": "2026-06-04T12:22:58.337554"
+      "reviewed_at": "2026-06-04T12:22:58.337554",
+      "approved_at": "2026-06-04 05:12"
     },
     {
       "id": 18295,
