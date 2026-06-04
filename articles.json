@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 58,
-    "pending": 338,
-    "reviewing": 8,
+    "pending": 330,
+    "reviewing": 16,
     "last_sync": "2026-06-04T06:47:22.526478"
   },
   "articles": [
@@ -549,21 +549,23 @@
     },
     {
       "id": 18123,
-      "title": "挑選益生菌先看「身分證」！營養師揭密：菌株編號才是專利功效的關鍵",
+      "title": "挑選益生菌先看什麼？菌株編號才是專利功效的關鍵，營養師教你看懂",
       "date": "2026-02-06T10:56:37",
       "modified": "2026-02-06T10:56:39",
       "link": "https://104.154.140.219/probiotic-strains/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-04T15:03:23.775132"
     },
     {
       "id": 18102,
-      "title": " 你適合吃哪一種益生菌？營養師說關鍵其實在這個",
+      "title": "你適合哪種益生菌？不同需求對應不同菌株，營養師說關鍵在這個",
       "date": "2026-02-06T02:51:06",
       "modified": "2026-02-06T02:51:12",
       "link": "https://104.154.140.219/probiotics-prebiotics-and-postbiotics/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-04T15:03:23.775140"
     },
     {
       "id": 18083,
@@ -571,53 +573,59 @@
       "date": "2026-02-04T09:48:47",
       "modified": "2026-02-10T09:04:30",
       "link": "https://104.154.140.219/benefits-of-probiotics/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-04T15:03:23.775141"
     },
     {
       "id": 18060,
-      "title": "醫美級透白！皮膚科醫生一致好評，越桔熊果素幫你『關掉暗沉』",
+      "title": "越桔熊果素真的能美白嗎？皮膚科認可的抑黑機制與使用效果完整解析",
       "date": "2026-02-02T09:43:04",
       "modified": "2026-02-02T09:43:12",
       "link": "https://104.154.140.219/arbutin/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-04T15:03:23.775142"
     },
     {
       "id": 18036,
-      "title": "歐美頂流抗衰新寵PQQ賦能抗老 重塑原生亮白肌密",
+      "title": "PQQ真的能抗衰老嗎？歐美最新抗老新寵的機制與效果完整解析",
       "date": "2026-01-23T11:23:28",
       "modified": "2026-01-23T11:23:36",
       "link": "https://104.154.140.219/pqq/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-04T15:03:23.775143"
     },
     {
       "id": 18012,
-      "title": "好萊塢紅毯發光肌！歐美名媛的逆齡黑科技首選「麥角硫因」抗老全攻略",
+      "title": "麥角硫因真的是逆齡抗老新星嗎？歐美名媛愛用的科學機制與皮膚效果完整解析",
       "date": "2026-01-23T02:32:20",
       "modified": "2026-01-23T02:32:28",
       "link": "https://104.154.140.219/ergothioneine/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-04T15:03:23.775144"
     },
     {
       "id": 17989,
-      "title": "逆齡關鍵維生素 K 食物 Top 10！補骨護血管，開啟身體抗老開關",
+      "title": "維生素K食物有哪些？Top 10補充清單，補骨護血管的逆齡關鍵這樣吃",
       "date": "2026-01-22T02:29:02",
       "modified": "2026-01-22T02:29:03",
       "link": "https://104.154.140.219/top-10-vitamin-k-rich-foods/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-04T15:03:23.775145"
     },
     {
       "id": 17967,
-      "title": "口服美白新突破！營養師：想白得最快、最安心，你只需要「穀胱甘肽」",
+      "title": "口服穀胱甘肽真的能美白嗎？營養師解析機制與效果，想白得快先看這篇",
       "date": "2026-01-20T07:27:32",
       "modified": "2026-01-22T10:12:53",
       "link": "https://104.154.140.219/glutathione/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-04T15:03:23.775145"
     },
     {
       "id": 17950,
