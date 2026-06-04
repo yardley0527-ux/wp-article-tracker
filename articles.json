@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 24,
-    "pending": 343,
-    "reviewing": 37,
+    "pending": 342,
+    "reviewing": 38,
     "last_sync": "2026-06-03T08:10:10.824479"
   },
   "articles": [
@@ -459,12 +459,13 @@
     },
     {
       "id": 18211,
-      "title": "2026女性關鍵營養研究：「葡萄糖酸鋅」從根源改善落髮與痘痘危機",
+      "title": "葡萄糖酸鋅真的能改善落髮與痘痘嗎？2026女性補鋅完整指南",
       "date": "2026-02-25T06:29:18",
       "modified": "2026-02-25T06:29:27",
       "link": "https://104.154.140.219/zinc-gluconate/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-04T13:44:22.727400"
     },
     {
       "id": 18191,
