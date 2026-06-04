@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 59,
+    "done": 60,
     "pending": 338,
-    "reviewing": 7,
-    "last_sync": "2026-06-04T06:46:23.390249"
+    "reviewing": 6,
+    "last_sync": "2026-06-04T06:46:24.984981"
   },
   "articles": [
     {
@@ -508,9 +508,10 @@
       "date": "2026-02-24T02:42:15",
       "modified": "2026-02-24T02:42:20",
       "link": "https://104.154.140.219/pomegranate/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "reviewed_at": "2026-06-04T14:16:52.339689"
+      "reviewed_at": "2026-06-04T14:16:52.339689",
+      "approved_at": "2026-06-04 06:46"
     },
     {
       "id": 18173,
