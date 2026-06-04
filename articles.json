@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 46,
+    "done": 47,
     "pending": 338,
-    "reviewing": 20,
-    "last_sync": "2026-06-04T05:14:58.149458"
+    "reviewing": 19,
+    "last_sync": "2026-06-04T06:44:52.183725"
   },
   "articles": [
     {
@@ -69,10 +69,11 @@
       "date": "2026-05-19T02:18:28",
       "modified": "2026-06-02T09:21:30",
       "link": "https://104.154.140.219/cervical-cancer/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "updated_at": "2026-06-02T10:02:03",
-      "rewritten_at": "2026-06-02"
+      "rewritten_at": "2026-06-02",
+      "approved_at": "2026-06-04 06:44"
     },
     {
       "id": 18822,
