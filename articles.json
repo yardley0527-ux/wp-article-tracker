@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 43,
+    "done": 44,
     "pending": 344,
-    "reviewing": 17,
-    "last_sync": "2026-06-04T05:14:28.530903"
+    "reviewing": 16,
+    "last_sync": "2026-06-04T05:14:37.435226"
   },
   "articles": [
     {
@@ -298,9 +298,10 @@
       "date": "2026-03-27T10:34:34",
       "modified": "2026-03-27T10:34:45",
       "link": "https://104.154.140.219/breast-cancer-and-omega-3/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "rewritten_at": "2026-06-03"
+      "rewritten_at": "2026-06-03",
+      "approved_at": "2026-06-04 05:14"
     },
     {
       "id": 18480,
