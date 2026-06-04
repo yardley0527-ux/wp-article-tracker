@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 57,
+    "done": 58,
     "pending": 338,
-    "reviewing": 9,
-    "last_sync": "2026-06-04T06:45:57.314659"
+    "reviewing": 8,
+    "last_sync": "2026-06-04T06:46:21.109211"
   },
   "articles": [
     {
@@ -486,9 +486,10 @@
       "date": "2026-02-26T08:26:12",
       "modified": "2026-03-24T06:35:22",
       "link": "https://104.154.140.219/the-5-best-probiotics-of-2025/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "reviewed_at": "2026-06-04T13:49:20.694616"
+      "reviewed_at": "2026-06-04T13:49:20.694616",
+      "approved_at": "2026-06-04 06:46"
     },
     {
       "id": 18211,
