@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 29,
+    "done": 30,
     "pending": 344,
-    "reviewing": 31,
-    "last_sync": "2026-06-04T05:11:09.524778"
+    "reviewing": 30,
+    "last_sync": "2026-06-04T05:11:20.202620"
   },
   "articles": [
     {
@@ -161,10 +161,11 @@
       "date": "2026-04-29T06:48:51",
       "modified": "2026-06-02T09:21:44",
       "link": "https://104.154.140.219/milk-exosomes/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "updated_at": "2026-06-02T10:05:43",
-      "rewritten_at": "2026-06-02"
+      "rewritten_at": "2026-06-02",
+      "approved_at": "2026-06-04 05:11"
     },
     {
       "id": 18685,
