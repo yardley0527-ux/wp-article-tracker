@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 35,
+    "done": 36,
     "pending": 344,
-    "reviewing": 25,
-    "last_sync": "2026-06-04T05:12:58.573625"
+    "reviewing": 24,
+    "last_sync": "2026-06-04T05:13:10.516866"
   },
   "articles": [
     {
@@ -411,9 +411,10 @@
       "date": "2026-03-11T05:27:12",
       "modified": "2026-03-11T05:28:21",
       "link": "https://104.154.140.219/cfu/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "reviewed_at": "2026-06-04T12:06:07.317888"
+      "reviewed_at": "2026-06-04T12:06:07.317888",
+      "approved_at": "2026-06-04 05:13"
     },
     {
       "id": 18309,
