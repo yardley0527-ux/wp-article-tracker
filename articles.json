@@ -1,9 +1,9 @@
 {
   "meta": {
     "total": 404,
-    "done": 64,
+    "done": 58,
     "pending": 338,
-    "reviewing": 2,
+    "reviewing": 8,
     "last_sync": "2026-06-04T06:47:22.526478"
   },
   "articles": [
@@ -487,9 +487,9 @@
       "date": "2026-02-26T08:26:12",
       "modified": "2026-03-24T06:35:22",
       "link": "https://104.154.140.219/the-5-best-probiotics-of-2025/",
-      "status": "done",
+      "status": "reviewing",
       "note": "",
-      "reviewed_at": "2026-06-04T13:49:20.694616",
+      "reviewed_at": "2026-06-04T14:51:11.909550",
       "approved_at": "2026-06-04 06:46"
     },
     {
@@ -498,9 +498,9 @@
       "date": "2026-02-25T06:29:18",
       "modified": "2026-02-25T06:29:27",
       "link": "https://104.154.140.219/zinc-gluconate/",
-      "status": "done",
+      "status": "reviewing",
       "note": "",
-      "reviewed_at": "2026-06-04T13:49:20.694625",
+      "reviewed_at": "2026-06-04T14:51:11.909567",
       "approved_at": "2026-06-04 06:46"
     },
     {
@@ -509,9 +509,9 @@
       "date": "2026-02-24T02:42:15",
       "modified": "2026-02-24T02:42:20",
       "link": "https://104.154.140.219/pomegranate/",
-      "status": "done",
+      "status": "reviewing",
       "note": "",
-      "reviewed_at": "2026-06-04T14:16:52.339689",
+      "reviewed_at": "2026-06-04T14:51:11.909570",
       "approved_at": "2026-06-04 06:46"
     },
     {
@@ -520,9 +520,9 @@
       "date": "2026-02-13T10:43:36",
       "modified": "2026-02-13T10:43:44",
       "link": "https://104.154.140.219/how-to-choose-the-right-probiotics/",
-      "status": "done",
+      "status": "reviewing",
       "note": "",
-      "reviewed_at": "2026-06-04T14:16:52.339702",
+      "reviewed_at": "2026-06-04T14:51:11.909571",
       "approved_at": "2026-06-04 06:46"
     },
     {
@@ -531,9 +531,9 @@
       "date": "2026-02-12T02:23:46",
       "modified": "2026-02-12T02:23:53",
       "link": "https://104.154.140.219/long-term-use-of-probiotics/",
-      "status": "done",
+      "status": "reviewing",
       "note": "",
-      "reviewed_at": "2026-06-04T14:16:52.339703",
+      "reviewed_at": "2026-06-04T14:51:11.909573",
       "approved_at": "2026-06-04 06:46"
     },
     {
@@ -542,9 +542,9 @@
       "date": "2026-02-10T10:26:53",
       "modified": "2026-02-10T10:27:00",
       "link": "https://104.154.140.219/probiotics-for-allergies/",
-      "status": "done",
+      "status": "reviewing",
       "note": "",
-      "reviewed_at": "2026-06-04T14:16:52.339704",
+      "reviewed_at": "2026-06-04T14:51:11.909574",
       "approved_at": "2026-06-04 06:46"
     },
     {
