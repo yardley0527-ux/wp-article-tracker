@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 39,
+    "done": 40,
     "pending": 344,
-    "reviewing": 21,
-    "last_sync": "2026-06-04T05:13:45.145193"
+    "reviewing": 20,
+    "last_sync": "2026-06-04T05:14:06.797826"
   },
   "articles": [
     {
@@ -338,9 +338,10 @@
       "date": "2026-03-23T06:47:22",
       "modified": "2026-03-23T06:47:29",
       "link": "https://104.154.140.219/supplementing-with-vitamin-d3-for-weight-loss/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "rewritten_at": "2026-06-03"
+      "rewritten_at": "2026-06-03",
+      "approved_at": "2026-06-04 05:14"
     },
     {
       "id": 18417,
