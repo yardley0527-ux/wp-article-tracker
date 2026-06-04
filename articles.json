@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 25,
+    "done": 26,
     "pending": 344,
-    "reviewing": 35,
-    "last_sync": "2026-06-04T05:09:56.424371"
+    "reviewing": 34,
+    "last_sync": "2026-06-04T05:10:16.919770"
   },
   "articles": [
     {
@@ -113,10 +113,11 @@
       "date": "2026-05-12T09:13:16",
       "modified": "2026-06-02T02:02:49",
       "link": "https://104.154.140.219/tranexamic-acid-for-pie/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "updated_at": "2026-06-02T10:03:13",
-      "rewritten_at": "2026-06-02"
+      "rewritten_at": "2026-06-02",
+      "approved_at": "2026-06-04 05:10"
     },
     {
       "id": 18754,
