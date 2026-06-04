@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 42,
+    "done": 43,
     "pending": 344,
-    "reviewing": 18,
-    "last_sync": "2026-06-04T05:14:20.945901"
+    "reviewing": 17,
+    "last_sync": "2026-06-04T05:14:28.530903"
   },
   "articles": [
     {
@@ -308,9 +308,10 @@
       "date": "2026-03-27T02:28:46",
       "modified": "2026-03-27T02:28:56",
       "link": "https://104.154.140.219/eye-inflammation/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "rewritten_at": "2026-06-03"
+      "rewritten_at": "2026-06-03",
+      "approved_at": "2026-06-04 05:14"
     },
     {
       "id": 18463,
