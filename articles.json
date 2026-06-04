@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 24,
+    "done": 46,
     "pending": 342,
-    "reviewing": 38,
-    "last_sync": "2026-06-03T08:10:10.824479"
+    "reviewing": 16,
+    "last_sync": "2026-06-04T05:14:58.149458"
   },
   "articles": [
     {
@@ -13,10 +13,11 @@
       "date": "2026-06-01T05:06:54",
       "modified": "2026-06-02T01:56:56",
       "link": "https://104.154.140.219/will-b-complex-keep-me-awake/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "updated_at": "2026-06-02T09:57:23",
-      "rewritten_at": "2026-06-02"
+      "rewritten_at": "2026-06-02",
+      "approved_at": "2026-06-04 05:09"
     },
     {
       "id": 18900,
@@ -112,10 +113,11 @@
       "date": "2026-05-12T09:13:16",
       "modified": "2026-06-02T02:02:49",
       "link": "https://104.154.140.219/tranexamic-acid-for-pie/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "updated_at": "2026-06-02T10:03:13",
-      "rewritten_at": "2026-06-02"
+      "rewritten_at": "2026-06-02",
+      "approved_at": "2026-06-04 05:10"
     },
     {
       "id": 18754,
@@ -123,10 +125,11 @@
       "date": "2026-05-11T07:58:53",
       "modified": "2026-06-02T09:22:51",
       "link": "https://104.154.140.219/apple-cider-vinegar/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "updated_at": "2026-06-02T10:03:13",
-      "rewritten_at": "2026-06-02"
+      "rewritten_at": "2026-06-02",
+      "approved_at": "2026-06-04 05:10"
     },
     {
       "id": 18741,
@@ -134,10 +137,11 @@
       "date": "2026-05-05T02:35:56",
       "modified": "2026-06-02T09:21:35",
       "link": "https://104.154.140.219/milk-exosomes-research/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "updated_at": "2026-06-02T10:05:43",
-      "rewritten_at": "2026-06-02"
+      "rewritten_at": "2026-06-02",
+      "approved_at": "2026-06-04 05:11"
     },
     {
       "id": 18726,
@@ -145,10 +149,11 @@
       "date": "2026-04-30T08:21:36",
       "modified": "2026-06-02T09:21:39",
       "link": "https://104.154.140.219/tranexamic-acid/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "updated_at": "2026-06-02T10:05:43",
-      "rewritten_at": "2026-06-02"
+      "rewritten_at": "2026-06-02",
+      "approved_at": "2026-06-04 05:11"
     },
     {
       "id": 18706,
@@ -156,10 +161,11 @@
       "date": "2026-04-29T06:48:51",
       "modified": "2026-06-02T09:21:44",
       "link": "https://104.154.140.219/milk-exosomes/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "updated_at": "2026-06-02T10:05:43",
-      "rewritten_at": "2026-06-02"
+      "rewritten_at": "2026-06-02",
+      "approved_at": "2026-06-04 05:11"
     },
     {
       "id": 18685,
@@ -167,10 +173,11 @@
       "date": "2026-04-28T04:28:12",
       "modified": "2026-06-02T02:05:25",
       "link": "https://104.154.140.219/ovarian-cancer/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "updated_at": "2026-06-02T10:05:43",
-      "rewritten_at": "2026-06-02"
+      "rewritten_at": "2026-06-02",
+      "approved_at": "2026-06-04 05:11"
     },
     {
       "id": 18670,
@@ -271,9 +278,10 @@
       "date": "2026-04-01T02:28:01",
       "modified": "2026-04-01T02:28:11",
       "link": "https://104.154.140.219/colorectal-cancer/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "rewritten_at": "2026-06-03"
+      "rewritten_at": "2026-06-03",
+      "approved_at": "2026-06-04 05:14"
     },
     {
       "id": 18509,
@@ -281,9 +289,10 @@
       "date": "2026-03-31T03:03:45",
       "modified": "2026-03-31T03:03:54",
       "link": "https://104.154.140.219/natural-vitamin-b-complex/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "rewritten_at": "2026-06-03"
+      "rewritten_at": "2026-06-03",
+      "approved_at": "2026-06-04 05:14"
     },
     {
       "id": 18496,
@@ -291,9 +300,10 @@
       "date": "2026-03-27T10:34:34",
       "modified": "2026-03-27T10:34:45",
       "link": "https://104.154.140.219/breast-cancer-and-omega-3/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "rewritten_at": "2026-06-03"
+      "rewritten_at": "2026-06-03",
+      "approved_at": "2026-06-04 05:14"
     },
     {
       "id": 18480,
@@ -301,9 +311,10 @@
       "date": "2026-03-27T02:28:46",
       "modified": "2026-03-27T02:28:56",
       "link": "https://104.154.140.219/eye-inflammation/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "rewritten_at": "2026-06-03"
+      "rewritten_at": "2026-06-03",
+      "approved_at": "2026-06-04 05:14"
     },
     {
       "id": 18463,
@@ -311,9 +322,10 @@
       "date": "2026-03-26T02:54:43",
       "modified": "2026-03-26T02:54:50",
       "link": "https://104.154.140.219/astaxanthin-research/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "rewritten_at": "2026-06-03"
+      "rewritten_at": "2026-06-03",
+      "approved_at": "2026-06-04 05:14"
     },
     {
       "id": 18453,
@@ -321,9 +333,10 @@
       "date": "2026-03-24T07:56:42",
       "modified": "2026-03-24T07:56:48",
       "link": "https://104.154.140.219/hair-loss-prevention/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "rewritten_at": "2026-06-03"
+      "rewritten_at": "2026-06-03",
+      "approved_at": "2026-06-04 05:14"
     },
     {
       "id": 18437,
@@ -331,9 +344,10 @@
       "date": "2026-03-23T06:47:22",
       "modified": "2026-03-23T06:47:29",
       "link": "https://104.154.140.219/supplementing-with-vitamin-d3-for-weight-loss/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "rewritten_at": "2026-06-03"
+      "rewritten_at": "2026-06-03",
+      "approved_at": "2026-06-04 05:14"
     },
     {
       "id": 18417,
@@ -363,9 +377,10 @@
       "date": "2026-03-18T07:40:14",
       "modified": "2026-03-18T07:40:21",
       "link": "https://104.154.140.219/8-vitamin-b-rich-foods/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "rewritten_at": "2026-06-03"
+      "rewritten_at": "2026-06-03",
+      "approved_at": "2026-06-04 05:13"
     },
     {
       "id": 18373,
@@ -373,9 +388,10 @@
       "date": "2026-03-17T06:45:25",
       "modified": "2026-03-17T06:45:32",
       "link": "https://104.154.140.219/best-fiber-supplements-of-2025/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "rewritten_at": "2026-06-03"
+      "rewritten_at": "2026-06-03",
+      "approved_at": "2026-06-04 05:11"
     },
     {
       "id": 18356,
@@ -383,9 +399,10 @@
       "date": "2026-03-16T02:50:51",
       "modified": "2026-03-16T02:51:32",
       "link": "https://104.154.140.219/seven-best-foods-for-your-teeth/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "rewritten_at": "2026-06-03"
+      "rewritten_at": "2026-06-03",
+      "approved_at": "2026-06-04 05:13"
     },
     {
       "id": 18341,
@@ -393,9 +410,10 @@
       "date": "2026-03-12T09:46:45",
       "modified": "2026-03-23T06:22:46",
       "link": "https://104.154.140.219/top-10-high-fiber-foods/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "reviewed_at": "2026-06-04T12:02:17.929268"
+      "reviewed_at": "2026-06-04T12:02:17.929268",
+      "approved_at": "2026-06-04 05:13"
     },
     {
       "id": 18325,
@@ -403,9 +421,10 @@
       "date": "2026-03-11T05:27:12",
       "modified": "2026-03-11T05:28:21",
       "link": "https://104.154.140.219/cfu/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "reviewed_at": "2026-06-04T12:06:07.317888"
+      "reviewed_at": "2026-06-04T12:06:07.317888",
+      "approved_at": "2026-06-04 05:13"
     },
     {
       "id": 18309,
@@ -413,9 +432,10 @@
       "date": "2026-03-10T05:41:25",
       "modified": "2026-03-10T05:42:07",
       "link": "https://104.154.140.219/effects-of-oral-collagen-for-skin-anti-aging/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "reviewed_at": "2026-06-04T12:22:58.337554"
+      "reviewed_at": "2026-06-04T12:22:58.337554",
+      "approved_at": "2026-06-04 05:12"
     },
     {
       "id": 18295,
@@ -423,9 +443,10 @@
       "date": "2026-03-06T07:19:18",
       "modified": "2026-03-06T07:20:20",
       "link": "https://104.154.140.219/manage-blood-sugar/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "reviewed_at": "2026-06-04T12:32:01.465249"
+      "reviewed_at": "2026-06-04T12:32:01.465249",
+      "approved_at": "2026-06-04 05:12"
     },
     {
       "id": 18279,
@@ -434,7 +455,7 @@
       "modified": "2026-03-05T02:23:24",
       "link": "https://104.154.140.219/top10-vegetables/",
       "status": "reviewing",
-      "note": "",
+      "note": "標題不是問題",
       "reviewed_at": "2026-06-04T12:42:23.517765"
     },
     {
@@ -443,9 +464,10 @@
       "date": "2026-03-04T02:49:57",
       "modified": "2026-03-04T02:49:59",
       "link": "https://104.154.140.219/the-components-of-straight-cutting-oils/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "reviewed_at": "2026-06-04T12:43:53.278049"
+      "reviewed_at": "2026-06-04T12:43:53.278049",
+      "approved_at": "2026-06-04 05:12"
     },
     {
       "id": 18239,
@@ -455,7 +477,7 @@
       "link": "https://104.154.140.219/the-5-best-probiotics-of-2025/",
       "status": "reviewing",
       "note": "",
-      "reviewed_at": "2026-06-04T13:43:59.502764"
+      "reviewed_at": "2026-06-04T13:49:20.694616"
     },
     {
       "id": 18211,
@@ -465,7 +487,7 @@
       "link": "https://104.154.140.219/zinc-gluconate/",
       "status": "reviewing",
       "note": "",
-      "reviewed_at": "2026-06-04T13:44:22.727400"
+      "reviewed_at": "2026-06-04T13:49:20.694625"
     },
     {
       "id": 18191,
