@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 38,
+    "done": 39,
     "pending": 344,
-    "reviewing": 22,
-    "last_sync": "2026-06-04T05:13:30.546559"
+    "reviewing": 21,
+    "last_sync": "2026-06-04T05:13:45.145193"
   },
   "articles": [
     {
@@ -370,9 +370,10 @@
       "date": "2026-03-18T07:40:14",
       "modified": "2026-03-18T07:40:21",
       "link": "https://104.154.140.219/8-vitamin-b-rich-foods/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "rewritten_at": "2026-06-03"
+      "rewritten_at": "2026-06-03",
+      "approved_at": "2026-06-04 05:13"
     },
     {
       "id": 18373,
