@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 41,
+    "done": 42,
     "pending": 344,
-    "reviewing": 19,
-    "last_sync": "2026-06-04T05:14:13.032092"
+    "reviewing": 18,
+    "last_sync": "2026-06-04T05:14:20.945901"
   },
   "articles": [
     {
@@ -318,9 +318,10 @@
       "date": "2026-03-26T02:54:43",
       "modified": "2026-03-26T02:54:50",
       "link": "https://104.154.140.219/astaxanthin-research/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "rewritten_at": "2026-06-03"
+      "rewritten_at": "2026-06-03",
+      "approved_at": "2026-06-04 05:14"
     },
     {
       "id": 18453,
