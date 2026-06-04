@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 60,
+    "done": 61,
     "pending": 338,
-    "reviewing": 6,
-    "last_sync": "2026-06-04T06:46:24.984981"
+    "reviewing": 5,
+    "last_sync": "2026-06-04T06:46:43.020249"
   },
   "articles": [
     {
@@ -519,9 +519,10 @@
       "date": "2026-02-13T10:43:36",
       "modified": "2026-02-13T10:43:44",
       "link": "https://104.154.140.219/how-to-choose-the-right-probiotics/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "reviewed_at": "2026-06-04T14:16:52.339702"
+      "reviewed_at": "2026-06-04T14:16:52.339702",
+      "approved_at": "2026-06-04 06:46"
     },
     {
       "id": 18159,
