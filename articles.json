@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 24,
-    "pending": 345,
-    "reviewing": 35,
+    "pending": 344,
+    "reviewing": 36,
     "last_sync": "2026-06-03T08:10:10.824479"
   },
   "articles": [
@@ -439,12 +439,13 @@
     },
     {
       "id": 18259,
-      "title": "無痛瘦身首選！營養師推薦6大關鍵科研油切成分，大餐的罪惡感救星！",
+      "title": "外食族必看！營養師推薦6大關鍵油切成分，大餐後這樣吃才真的有效？",
       "date": "2026-03-04T02:49:57",
       "modified": "2026-03-04T02:49:59",
       "link": "https://104.154.140.219/the-components-of-straight-cutting-oils/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-04T12:43:53.278049"
     },
     {
       "id": 18239,
