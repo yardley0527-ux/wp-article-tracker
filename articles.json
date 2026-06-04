@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 30,
+    "done": 31,
     "pending": 344,
-    "reviewing": 30,
-    "last_sync": "2026-06-04T05:11:20.202620"
+    "reviewing": 29,
+    "last_sync": "2026-06-04T05:11:30.170493"
   },
   "articles": [
     {
@@ -173,10 +173,11 @@
       "date": "2026-04-28T04:28:12",
       "modified": "2026-06-02T02:05:25",
       "link": "https://104.154.140.219/ovarian-cancer/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "updated_at": "2026-06-02T10:05:43",
-      "rewritten_at": "2026-06-02"
+      "rewritten_at": "2026-06-02",
+      "approved_at": "2026-06-04 05:11"
     },
     {
       "id": 18670,
