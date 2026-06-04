@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 36,
+    "done": 37,
     "pending": 344,
-    "reviewing": 24,
-    "last_sync": "2026-06-04T05:13:10.516866"
+    "reviewing": 23,
+    "last_sync": "2026-06-04T05:13:20.508811"
   },
   "articles": [
     {
@@ -401,9 +401,10 @@
       "date": "2026-03-12T09:46:45",
       "modified": "2026-03-23T06:22:46",
       "link": "https://104.154.140.219/top-10-high-fiber-foods/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "reviewed_at": "2026-06-04T12:02:17.929268"
+      "reviewed_at": "2026-06-04T12:02:17.929268",
+      "approved_at": "2026-06-04 05:13"
     },
     {
       "id": 18325,
