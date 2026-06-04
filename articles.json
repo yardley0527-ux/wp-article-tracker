@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 47,
+    "done": 48,
     "pending": 338,
-    "reviewing": 19,
-    "last_sync": "2026-06-04T06:44:52.183725"
+    "reviewing": 18,
+    "last_sync": "2026-06-04T06:44:53.669748"
   },
   "articles": [
     {
@@ -81,10 +81,11 @@
       "date": "2026-05-15T10:10:09",
       "modified": "2026-06-02T09:24:08",
       "link": "https://104.154.140.219/gsh/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "updated_at": "2026-06-02T10:02:03",
-      "rewritten_at": "2026-06-02"
+      "rewritten_at": "2026-06-02",
+      "approved_at": "2026-06-04 06:44"
     },
     {
       "id": 18808,
