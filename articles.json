@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 24,
-    "pending": 350,
-    "reviewing": 30,
+    "pending": 349,
+    "reviewing": 31,
     "last_sync": "2026-06-03T08:10:10.824479"
   },
   "articles": [
@@ -389,12 +389,13 @@
     },
     {
       "id": 18341,
-      "title": "膳食纖維吸油瘦身原理公開！10大高纖食物排行榜",
+      "title": "膳食纖維真的能吸油瘦身嗎？10大高纖食物排行榜完整解析",
       "date": "2026-03-12T09:46:45",
       "modified": "2026-03-23T06:22:46",
       "link": "https://104.154.140.219/top-10-high-fiber-foods/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-04T12:02:17.929268"
     },
     {
       "id": 18325,
