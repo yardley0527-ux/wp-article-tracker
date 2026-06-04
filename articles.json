@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 62,
+    "done": 63,
     "pending": 338,
-    "reviewing": 4,
-    "last_sync": "2026-06-04T06:46:44.649769"
+    "reviewing": 3,
+    "last_sync": "2026-06-04T06:46:46.313620"
   },
   "articles": [
     {
@@ -541,9 +541,10 @@
       "date": "2026-02-10T10:26:53",
       "modified": "2026-02-10T10:27:00",
       "link": "https://104.154.140.219/probiotics-for-allergies/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "reviewed_at": "2026-06-04T14:16:52.339704"
+      "reviewed_at": "2026-06-04T14:16:52.339704",
+      "approved_at": "2026-06-04 06:46"
     },
     {
       "id": 18123,
