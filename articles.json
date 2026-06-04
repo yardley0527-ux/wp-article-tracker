@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 26,
+    "done": 27,
     "pending": 344,
-    "reviewing": 34,
-    "last_sync": "2026-06-04T05:10:16.919770"
+    "reviewing": 33,
+    "last_sync": "2026-06-04T05:10:26.355351"
   },
   "articles": [
     {
@@ -125,10 +125,11 @@
       "date": "2026-05-11T07:58:53",
       "modified": "2026-06-02T09:22:51",
       "link": "https://104.154.140.219/apple-cider-vinegar/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "updated_at": "2026-06-02T10:03:13",
-      "rewritten_at": "2026-06-02"
+      "rewritten_at": "2026-06-02",
+      "approved_at": "2026-06-04 05:10"
     },
     {
       "id": 18741,
