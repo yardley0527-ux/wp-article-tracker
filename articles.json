@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 46,
-    "pending": 342,
-    "reviewing": 16,
+    "pending": 338,
+    "reviewing": 20,
     "last_sync": "2026-06-04T05:14:58.149458"
   },
   "articles": [
@@ -491,21 +491,23 @@
     },
     {
       "id": 18191,
-      "title": "2026 養顏必看！營養師點名「紅石榴」3 大驚人好處，網稱「喝的化妝品」是真的嗎？",
+      "title": "2026 養顏必看！紅石榴3大驚人功效真的有效嗎？營養師解析「喝的化妝品」",
       "date": "2026-02-24T02:42:15",
       "modified": "2026-02-24T02:42:20",
       "link": "https://104.154.140.219/pomegranate/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-04T14:16:52.339689"
     },
     {
       "id": 18173,
-      "title": "1 分鐘搞懂挑對益生菌：5 個挑選重點買對才有感！劑型、菌株與 QA 全解析",
+      "title": "挑選益生菌有哪些重點？1分鐘搞懂5個關鍵：劑型、菌株與QA全解析",
       "date": "2026-02-13T10:43:36",
       "modified": "2026-02-13T10:43:44",
       "link": "https://104.154.140.219/how-to-choose-the-right-probiotics/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-04T14:16:52.339702"
     },
     {
       "id": 18159,
@@ -513,17 +515,19 @@
       "date": "2026-02-12T02:23:46",
       "modified": "2026-02-12T02:23:53",
       "link": "https://104.154.140.219/long-term-use-of-probiotics/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-04T14:16:52.339703"
     },
     {
       "id": 18140,
-      "title": "醫生推薦：這 3 大臨床實證，證明過敏吃益生菌真的有效",
+      "title": "過敏吃益生菌真的有效嗎？醫師引用的3大臨床實證完整解析",
       "date": "2026-02-10T10:26:53",
       "modified": "2026-02-10T10:27:00",
       "link": "https://104.154.140.219/probiotics-for-allergies/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-04T14:16:52.339704"
     },
     {
       "id": 18123,
