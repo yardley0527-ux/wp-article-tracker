@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 45,
+    "done": 46,
     "pending": 344,
-    "reviewing": 15,
-    "last_sync": "2026-06-04T05:14:48.818115"
+    "reviewing": 14,
+    "last_sync": "2026-06-04T05:14:58.149458"
   },
   "articles": [
     {
@@ -278,9 +278,10 @@
       "date": "2026-04-01T02:28:01",
       "modified": "2026-04-01T02:28:11",
       "link": "https://104.154.140.219/colorectal-cancer/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "rewritten_at": "2026-06-03"
+      "rewritten_at": "2026-06-03",
+      "approved_at": "2026-06-04 05:14"
     },
     {
       "id": 18509,
