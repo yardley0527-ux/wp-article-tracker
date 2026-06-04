@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 24,
-    "pending": 349,
-    "reviewing": 31,
+    "pending": 348,
+    "reviewing": 32,
     "last_sync": "2026-06-03T08:10:10.824479"
   },
   "articles": [
@@ -403,8 +403,9 @@
       "date": "2026-03-11T05:27:12",
       "modified": "2026-03-11T05:28:21",
       "link": "https://104.154.140.219/cfu/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-04T12:06:07.317888"
     },
     {
       "id": 18309,
