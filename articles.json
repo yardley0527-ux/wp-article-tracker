@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 24,
+    "done": 25,
     "pending": 344,
-    "reviewing": 36,
-    "last_sync": "2026-06-03T08:10:10.824479"
+    "reviewing": 35,
+    "last_sync": "2026-06-04T05:09:56.424371"
   },
   "articles": [
     {
@@ -13,10 +13,11 @@
       "date": "2026-06-01T05:06:54",
       "modified": "2026-06-02T01:56:56",
       "link": "https://104.154.140.219/will-b-complex-keep-me-awake/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "updated_at": "2026-06-02T09:57:23",
-      "rewritten_at": "2026-06-02"
+      "rewritten_at": "2026-06-02",
+      "approved_at": "2026-06-04 05:09"
     },
     {
       "id": 18900,
