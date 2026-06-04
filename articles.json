@@ -4,7 +4,7 @@
     "done": 33,
     "pending": 344,
     "reviewing": 27,
-    "last_sync": "2026-06-04T05:12:07.208377"
+    "last_sync": "2026-06-04T05:12:29.712838"
   },
   "articles": [
     {
@@ -442,7 +442,7 @@
       "modified": "2026-03-05T02:23:24",
       "link": "https://104.154.140.219/top10-vegetables/",
       "status": "reviewing",
-      "note": "",
+      "note": "標題不是問題",
       "reviewed_at": "2026-06-04T12:42:23.517765"
     },
     {
