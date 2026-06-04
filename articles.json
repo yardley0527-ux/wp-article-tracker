@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 32,
+    "done": 33,
     "pending": 344,
-    "reviewing": 28,
-    "last_sync": "2026-06-04T05:11:50.733615"
+    "reviewing": 27,
+    "last_sync": "2026-06-04T05:12:07.208377"
   },
   "articles": [
     {
@@ -451,9 +451,10 @@
       "date": "2026-03-04T02:49:57",
       "modified": "2026-03-04T02:49:59",
       "link": "https://104.154.140.219/the-components-of-straight-cutting-oils/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "reviewed_at": "2026-06-04T12:43:53.278049"
+      "reviewed_at": "2026-06-04T12:43:53.278049",
+      "approved_at": "2026-06-04 05:12"
     },
     {
       "id": 18239,
