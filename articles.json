@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 37,
+    "done": 38,
     "pending": 344,
-    "reviewing": 23,
-    "last_sync": "2026-06-04T05:13:20.508811"
+    "reviewing": 22,
+    "last_sync": "2026-06-04T05:13:30.546559"
   },
   "articles": [
     {
@@ -391,9 +391,10 @@
       "date": "2026-03-16T02:50:51",
       "modified": "2026-03-16T02:51:32",
       "link": "https://104.154.140.219/seven-best-foods-for-your-teeth/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "rewritten_at": "2026-06-03"
+      "rewritten_at": "2026-06-03",
+      "approved_at": "2026-06-04 05:13"
     },
     {
       "id": 18341,
