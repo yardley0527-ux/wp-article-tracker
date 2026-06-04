@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 24,
-    "pending": 344,
-    "reviewing": 36,
+    "pending": 343,
+    "reviewing": 37,
     "last_sync": "2026-06-03T08:10:10.824479"
   },
   "articles": [
@@ -449,12 +449,13 @@
     },
     {
       "id": 18239,
-      "title": "【營養師推薦】2025 年五大鼻子過敏 × 免疫調節益生菌品牌評比排行榜",
+      "title": "2025年五大鼻子過敏益生菌品牌怎麼選？營養師評比排行榜完整解析",
       "date": "2026-02-26T08:26:12",
       "modified": "2026-03-24T06:35:22",
       "link": "https://104.154.140.219/the-5-best-probiotics-of-2025/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-04T13:43:59.502764"
     },
     {
       "id": 18211,
