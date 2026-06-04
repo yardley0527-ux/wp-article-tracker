@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 24,
-    "pending": 348,
-    "reviewing": 32,
+    "pending": 347,
+    "reviewing": 33,
     "last_sync": "2026-06-03T08:10:10.824479"
   },
   "articles": [
@@ -409,12 +409,13 @@
     },
     {
       "id": 18309,
-      "title": "最新研究：補充膠原蛋白12週，熟齡女性皺紋減少、肌膚明顯緊實",
+      "title": "補充膠原蛋白12週，熟齡肌真的能改善嗎？最新三盲研究結果完整解析",
       "date": "2026-03-10T05:41:25",
       "modified": "2026-03-10T05:42:07",
       "link": "https://104.154.140.219/effects-of-oral-collagen-for-skin-anti-aging/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-04T12:22:58.337554"
     },
     {
       "id": 18295,
