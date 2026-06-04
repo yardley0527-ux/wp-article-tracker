@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 48,
+    "done": 49,
     "pending": 338,
-    "reviewing": 18,
-    "last_sync": "2026-06-04T06:44:53.669748"
+    "reviewing": 17,
+    "last_sync": "2026-06-04T06:44:55.363360"
   },
   "articles": [
     {
@@ -93,10 +93,11 @@
       "date": "2026-05-14T09:31:43",
       "modified": "2026-06-02T09:24:24",
       "link": "https://104.154.140.219/5-whitening-ingredients/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "updated_at": "2026-06-02T10:02:03",
-      "rewritten_at": "2026-06-02"
+      "rewritten_at": "2026-06-02",
+      "approved_at": "2026-06-04 06:44"
     },
     {
       "id": 18790,
