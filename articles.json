@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 52,
+    "done": 53,
     "pending": 338,
-    "reviewing": 14,
-    "last_sync": "2026-06-04T06:45:48.044376"
+    "reviewing": 13,
+    "last_sync": "2026-06-04T06:45:49.752009"
   },
   "articles": [
     {
@@ -230,9 +230,10 @@
       "date": "2026-04-17T06:29:14",
       "modified": "2026-04-17T06:31:04",
       "link": "https://104.154.140.219/top-5-b-complex-supplements/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "rewritten_at": "2026-06-03"
+      "rewritten_at": "2026-06-03",
+      "approved_at": "2026-06-04 06:45"
     },
     {
       "id": 18595,
