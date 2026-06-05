@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 71,
+    "done": 72,
     "pending": 309,
-    "reviewing": 24,
-    "last_sync": "2026-06-05T06:51:08.491070"
+    "reviewing": 23,
+    "last_sync": "2026-06-05T06:51:10.314281"
   },
   "articles": [
     {
@@ -609,9 +609,10 @@
       "date": "2026-01-23T02:32:20",
       "modified": "2026-01-23T02:32:28",
       "link": "https://104.154.140.219/ergothioneine/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "reviewed_at": "2026-06-04T15:03:23.775144"
+      "reviewed_at": "2026-06-04T15:03:23.775144",
+      "approved_at": "2026-06-05 06:51"
     },
     {
       "id": 17989,
