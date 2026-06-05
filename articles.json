@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 58,
+    "done": 59,
     "pending": 314,
-    "reviewing": 32,
-    "last_sync": "2026-06-04T06:47:22.526478"
+    "reviewing": 31,
+    "last_sync": "2026-06-05T05:46:51.754569"
   },
   "articles": [
     {
@@ -466,9 +466,10 @@
       "date": "2026-03-05T02:23:16",
       "modified": "2026-03-05T02:23:24",
       "link": "https://104.154.140.219/top10-vegetables/",
-      "status": "reviewing",
+      "status": "done",
       "note": "標題不是問題",
-      "reviewed_at": "2026-06-04T12:42:23.517765"
+      "reviewed_at": "2026-06-04T12:42:23.517765",
+      "approved_at": "2026-06-05 05:46"
     },
     {
       "id": 18259,
