@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 74,
+    "done": 75,
     "pending": 309,
-    "reviewing": 21,
-    "last_sync": "2026-06-05T06:51:13.936143"
+    "reviewing": 20,
+    "last_sync": "2026-06-05T06:51:15.792669"
   },
   "articles": [
     {
@@ -642,10 +642,11 @@
       "date": "2026-01-19T05:37:04",
       "modified": "2026-01-19T05:37:12",
       "link": "https://104.154.140.219/top-10-vitamin-d-rich-foods/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-05T03:25:53.208168+00:00",
-      "rewritten_at": "2026-06-05"
+      "rewritten_at": "2026-06-05",
+      "approved_at": "2026-06-05 06:51"
     },
     {
       "id": 17933,
