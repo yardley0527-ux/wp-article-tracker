@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 76,
+    "done": 77,
     "pending": 309,
-    "reviewing": 19,
-    "last_sync": "2026-06-05T06:51:17.586278"
+    "reviewing": 18,
+    "last_sync": "2026-06-05T06:51:19.363138"
   },
   "articles": [
     {
@@ -666,10 +666,11 @@
       "date": "2026-01-09T03:13:58",
       "modified": "2026-01-09T03:14:11",
       "link": "https://104.154.140.219/vitamin-d-supplements-may-slow-biological-aging/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-05T05:10:30.317686+00:00",
-      "rewritten_at": "2026-06-05"
+      "rewritten_at": "2026-06-05",
+      "approved_at": "2026-06-05 06:51"
     },
     {
       "id": 17893,
