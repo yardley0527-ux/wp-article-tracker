@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 79,
+    "done": 80,
     "pending": 309,
-    "reviewing": 16,
-    "last_sync": "2026-06-05T06:51:23.530004"
+    "reviewing": 15,
+    "last_sync": "2026-06-05T06:51:25.404586"
   },
   "articles": [
     {
@@ -702,10 +702,11 @@
       "date": "2025-12-31T10:16:27",
       "modified": "2025-12-31T10:16:28",
       "link": "https://104.154.140.219/algae-calcium/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-05T05:10:38.787924+00:00",
-      "rewritten_at": "2026-06-05"
+      "rewritten_at": "2026-06-05",
+      "approved_at": "2026-06-05 06:51"
     },
     {
       "id": 17821,
