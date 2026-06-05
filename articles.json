@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 72,
+    "done": 73,
     "pending": 309,
-    "reviewing": 23,
-    "last_sync": "2026-06-05T06:51:10.314281"
+    "reviewing": 22,
+    "last_sync": "2026-06-05T06:51:12.143927"
   },
   "articles": [
     {
@@ -620,9 +620,10 @@
       "date": "2026-01-22T02:29:02",
       "modified": "2026-01-22T02:29:03",
       "link": "https://104.154.140.219/top-10-vitamin-k-rich-foods/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "reviewed_at": "2026-06-04T15:03:23.775145"
+      "reviewed_at": "2026-06-04T15:03:23.775145",
+      "approved_at": "2026-06-05 06:51"
     },
     {
       "id": 17967,
