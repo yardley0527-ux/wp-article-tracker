@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 84,
+    "done": 85,
     "pending": 309,
-    "reviewing": 11,
-    "last_sync": "2026-06-05T06:51:32.755886"
+    "reviewing": 10,
+    "last_sync": "2026-06-05T06:51:34.955094"
   },
   "articles": [
     {
@@ -762,10 +762,11 @@
       "date": "2025-12-16T09:25:33",
       "modified": "2025-12-22T07:57:11",
       "link": "https://104.154.140.219/vitamin-k/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-05T05:24:38.002500+00:00",
-      "rewritten_at": "2026-06-05"
+      "rewritten_at": "2026-06-05",
+      "approved_at": "2026-06-05 06:51"
     },
     {
       "id": 17730,
