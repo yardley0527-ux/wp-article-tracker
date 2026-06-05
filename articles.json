@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 66,
+    "done": 67,
     "pending": 309,
-    "reviewing": 29,
-    "last_sync": "2026-06-05T06:17:09.728560"
+    "reviewing": 28,
+    "last_sync": "2026-06-05T06:51:00.796878"
   },
   "articles": [
     {
@@ -554,9 +554,10 @@
       "date": "2026-02-06T10:56:37",
       "modified": "2026-02-06T10:56:39",
       "link": "https://104.154.140.219/probiotic-strains/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "reviewed_at": "2026-06-04T15:03:23.775132"
+      "reviewed_at": "2026-06-04T15:03:23.775132",
+      "approved_at": "2026-06-05 06:51"
     },
     {
       "id": 18102,
