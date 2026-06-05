@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 73,
+    "done": 74,
     "pending": 309,
-    "reviewing": 22,
-    "last_sync": "2026-06-05T06:51:12.143927"
+    "reviewing": 21,
+    "last_sync": "2026-06-05T06:51:13.936143"
   },
   "articles": [
     {
@@ -631,9 +631,10 @@
       "date": "2026-01-20T07:27:32",
       "modified": "2026-01-22T10:12:53",
       "link": "https://104.154.140.219/glutathione/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "reviewed_at": "2026-06-04T15:03:23.775145"
+      "reviewed_at": "2026-06-04T15:03:23.775145",
+      "approved_at": "2026-06-05 06:51"
     },
     {
       "id": 17950,
