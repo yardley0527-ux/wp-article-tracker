@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 67,
+    "done": 68,
     "pending": 309,
-    "reviewing": 28,
-    "last_sync": "2026-06-05T06:51:00.796878"
+    "reviewing": 27,
+    "last_sync": "2026-06-05T06:51:02.704393"
   },
   "articles": [
     {
@@ -565,9 +565,10 @@
       "date": "2026-02-06T02:51:06",
       "modified": "2026-02-06T02:51:12",
       "link": "https://104.154.140.219/probiotics-prebiotics-and-postbiotics/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "reviewed_at": "2026-06-04T15:03:23.775140"
+      "reviewed_at": "2026-06-04T15:03:23.775140",
+      "approved_at": "2026-06-05 06:51"
     },
     {
       "id": 18083,
