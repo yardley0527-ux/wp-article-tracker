@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 82,
+    "done": 83,
     "pending": 309,
-    "reviewing": 13,
-    "last_sync": "2026-06-05T06:51:29.064514"
+    "reviewing": 12,
+    "last_sync": "2026-06-05T06:51:30.919194"
   },
   "articles": [
     {
@@ -738,10 +738,11 @@
       "date": "2025-12-19T08:54:32",
       "modified": "2025-12-19T08:56:45",
       "link": "https://104.154.140.219/the-6-best-turmeric-supplements-for-2025/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-05T05:24:32.017723+00:00",
-      "rewritten_at": "2026-06-05"
+      "rewritten_at": "2026-06-05",
+      "approved_at": "2026-06-05 06:51"
     },
     {
       "id": 17767,
