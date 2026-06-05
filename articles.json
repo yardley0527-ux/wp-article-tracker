@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 80,
+    "done": 81,
     "pending": 309,
-    "reviewing": 15,
-    "last_sync": "2026-06-05T06:51:25.404586"
+    "reviewing": 14,
+    "last_sync": "2026-06-05T06:51:27.218199"
   },
   "articles": [
     {
@@ -714,10 +714,11 @@
       "date": "2025-12-30T09:42:25",
       "modified": "2025-12-30T09:42:33",
       "link": "https://104.154.140.219/glutathione-and-resveratrol/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-05T05:24:23.443530+00:00",
-      "rewritten_at": "2026-06-05"
+      "rewritten_at": "2026-06-05",
+      "approved_at": "2026-06-05 06:51"
     },
     {
       "id": 17802,
