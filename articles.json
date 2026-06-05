@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 63,
+    "done": 64,
     "pending": 309,
-    "reviewing": 32,
-    "last_sync": "2026-06-05T06:17:04.267374"
+    "reviewing": 31,
+    "last_sync": "2026-06-05T06:17:06.097301"
   },
   "articles": [
     {
@@ -532,10 +532,10 @@
       "date": "2026-02-12T02:23:46",
       "modified": "2026-02-12T02:23:53",
       "link": "https://104.154.140.219/long-term-use-of-probiotics/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-04T14:51:11.909573",
-      "approved_at": "2026-06-04 06:46"
+      "approved_at": "2026-06-05 06:17"
     },
     {
       "id": 18140,
