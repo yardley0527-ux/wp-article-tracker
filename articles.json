@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 83,
+    "done": 84,
     "pending": 309,
-    "reviewing": 12,
-    "last_sync": "2026-06-05T06:51:30.919194"
+    "reviewing": 11,
+    "last_sync": "2026-06-05T06:51:32.755886"
   },
   "articles": [
     {
@@ -750,10 +750,11 @@
       "date": "2025-12-17T07:35:42",
       "modified": "2025-12-17T07:37:26",
       "link": "https://104.154.140.219/%ce%b2-glucan/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-05T05:24:35.058580+00:00",
-      "rewritten_at": "2026-06-05"
+      "rewritten_at": "2026-06-05",
+      "approved_at": "2026-06-05 06:51"
     },
     {
       "id": 17749,
