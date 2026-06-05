@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 86,
+    "done": 87,
     "pending": 309,
-    "reviewing": 9,
-    "last_sync": "2026-06-05T06:51:36.777059"
+    "reviewing": 8,
+    "last_sync": "2026-06-05T06:51:38.628198"
   },
   "articles": [
     {
@@ -786,10 +786,11 @@
       "date": "2025-12-11T09:01:20",
       "modified": "2025-12-31T02:54:15",
       "link": "https://104.154.140.219/vitamin-d-deficiency/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-05T05:32:29.368746+00:00",
-      "rewritten_at": "2026-06-05"
+      "rewritten_at": "2026-06-05",
+      "approved_at": "2026-06-05 06:51"
     },
     {
       "id": 17694,
