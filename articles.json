@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 68,
+    "done": 69,
     "pending": 309,
-    "reviewing": 27,
-    "last_sync": "2026-06-05T06:51:02.704393"
+    "reviewing": 26,
+    "last_sync": "2026-06-05T06:51:04.754961"
   },
   "articles": [
     {
@@ -576,9 +576,10 @@
       "date": "2026-02-04T09:48:47",
       "modified": "2026-02-10T09:04:30",
       "link": "https://104.154.140.219/benefits-of-probiotics/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "reviewed_at": "2026-06-04T15:03:23.775141"
+      "reviewed_at": "2026-06-04T15:03:23.775141",
+      "approved_at": "2026-06-05 06:51"
     },
     {
       "id": 18060,
