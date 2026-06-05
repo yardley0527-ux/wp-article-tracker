@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 88,
+    "done": 89,
     "pending": 309,
-    "reviewing": 7,
-    "last_sync": "2026-06-05T06:51:40.401489"
+    "reviewing": 6,
+    "last_sync": "2026-06-05T07:00:33.314041"
   },
   "articles": [
     {
@@ -810,10 +810,11 @@
       "date": "2025-12-02T09:41:10",
       "modified": "2025-12-02T09:42:23",
       "link": "https://104.154.140.219/starch-blocker/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-05T05:32:37.207032+00:00",
-      "rewritten_at": "2026-06-05"
+      "rewritten_at": "2026-06-05",
+      "approved_at": "2026-06-05 07:00"
     },
     {
       "id": 17663,
