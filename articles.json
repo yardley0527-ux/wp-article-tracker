@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 58,
-    "pending": 330,
-    "reviewing": 16,
+    "pending": 314,
+    "reviewing": 32,
     "last_sync": "2026-06-04T06:47:22.526478"
   },
   "articles": [
@@ -633,8 +633,10 @@
       "date": "2026-01-19T05:37:04",
       "modified": "2026-01-19T05:37:12",
       "link": "https://104.154.140.219/top-10-vitamin-d-rich-foods/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-05T03:25:53.208168+00:00",
+      "rewritten_at": "2026-06-05"
     },
     {
       "id": 17933,
@@ -642,8 +644,10 @@
       "date": "2026-01-12T02:33:05",
       "modified": "2026-01-12T02:33:12",
       "link": "https://104.154.140.219/10-of-the-best-calcium-foods/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-05T05:10:26.517505+00:00",
+      "rewritten_at": "2026-06-05"
     },
     {
       "id": 17911,
@@ -651,8 +655,10 @@
       "date": "2026-01-09T03:13:58",
       "modified": "2026-01-09T03:14:11",
       "link": "https://104.154.140.219/vitamin-d-supplements-may-slow-biological-aging/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-05T05:10:30.317686+00:00",
+      "rewritten_at": "2026-06-05"
     },
     {
       "id": 17893,
@@ -660,8 +666,10 @@
       "date": "2026-01-06T09:09:48",
       "modified": "2026-01-06T09:09:54",
       "link": "https://104.154.140.219/top-5-skin-whitening-supplements/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-05T05:10:33.411030+00:00",
+      "rewritten_at": "2026-06-05"
     },
     {
       "id": 17876,
@@ -669,8 +677,10 @@
       "date": "2026-01-05T02:39:59",
       "modified": "2026-01-05T02:40:08",
       "link": "https://104.154.140.219/bone-mineral-density/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-05T05:10:35.903226+00:00",
+      "rewritten_at": "2026-06-05"
     },
     {
       "id": 17848,
@@ -678,8 +688,10 @@
       "date": "2025-12-31T10:16:27",
       "modified": "2025-12-31T10:16:28",
       "link": "https://104.154.140.219/algae-calcium/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-05T05:10:38.787924+00:00",
+      "rewritten_at": "2026-06-05"
     },
     {
       "id": 17821,
@@ -687,8 +699,10 @@
       "date": "2025-12-30T09:42:25",
       "modified": "2025-12-30T09:42:33",
       "link": "https://104.154.140.219/glutathione-and-resveratrol/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-05T05:24:23.443530+00:00",
+      "rewritten_at": "2026-06-05"
     },
     {
       "id": 17802,
@@ -696,8 +710,10 @@
       "date": "2025-12-23T02:28:47",
       "modified": "2025-12-23T02:28:56",
       "link": "https://104.154.140.219/vitamin-d-for-fibroids/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-05T05:24:27.388360+00:00",
+      "rewritten_at": "2026-06-05"
     },
     {
       "id": 17786,
@@ -705,8 +721,10 @@
       "date": "2025-12-19T08:54:32",
       "modified": "2025-12-19T08:56:45",
       "link": "https://104.154.140.219/the-6-best-turmeric-supplements-for-2025/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-05T05:24:32.017723+00:00",
+      "rewritten_at": "2026-06-05"
     },
     {
       "id": 17767,
@@ -714,8 +732,10 @@
       "date": "2025-12-17T07:35:42",
       "modified": "2025-12-17T07:37:26",
       "link": "https://104.154.140.219/%ce%b2-glucan/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-05T05:24:35.058580+00:00",
+      "rewritten_at": "2026-06-05"
     },
     {
       "id": 17749,
@@ -723,8 +743,10 @@
       "date": "2025-12-16T09:25:33",
       "modified": "2025-12-22T07:57:11",
       "link": "https://104.154.140.219/vitamin-k/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-05T05:24:38.002500+00:00",
+      "rewritten_at": "2026-06-05"
     },
     {
       "id": 17730,
@@ -732,8 +754,10 @@
       "date": "2025-12-15T02:24:01",
       "modified": "2025-12-22T07:57:39",
       "link": "https://104.154.140.219/calcium/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-05T05:32:24.288355+00:00",
+      "rewritten_at": "2026-06-05"
     },
     {
       "id": 17710,
@@ -741,8 +765,10 @@
       "date": "2025-12-11T09:01:20",
       "modified": "2025-12-31T02:54:15",
       "link": "https://104.154.140.219/vitamin-d-deficiency/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-05T05:32:29.368746+00:00",
+      "rewritten_at": "2026-06-05"
     },
     {
       "id": 17694,
@@ -750,8 +776,10 @@
       "date": "2025-12-04T03:22:05",
       "modified": "2025-12-04T03:22:15",
       "link": "https://104.154.140.219/top-12-skin-whitening-foods/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-05T05:32:33.353515+00:00",
+      "rewritten_at": "2026-06-05"
     },
     {
       "id": 17677,
@@ -759,8 +787,10 @@
       "date": "2025-12-02T09:41:10",
       "modified": "2025-12-02T09:42:23",
       "link": "https://104.154.140.219/starch-blocker/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-05T05:32:37.207032+00:00",
+      "rewritten_at": "2026-06-05"
     },
     {
       "id": 17663,
@@ -768,8 +798,10 @@
       "date": "2025-12-01T07:13:35",
       "modified": "2025-12-01T07:13:41",
       "link": "https://104.154.140.219/top-5-slimming-products-comparison/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-05T05:32:40.067948+00:00",
+      "rewritten_at": "2026-06-05"
     },
     {
       "id": 17643,
