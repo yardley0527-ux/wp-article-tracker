@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 107,
-    "pending": 295,
-    "reviewing": 2,
+    "pending": 294,
+    "reviewing": 3,
     "last_sync": "2026-06-08T08:57:16.555169"
   },
   "articles": [
@@ -3547,12 +3547,13 @@
     },
     {
       "id": 3153,
-      "title": "想要減肥的人，肝一定要顧好！ 助妳養好肝臟代謝力與女性荷爾蒙， 輕鬆排毒瘦身同時消除脂肪肝",
+      "title": "減肥一直瘦不下來？關鍵可能是「肝」沒顧好！從脂肪肝迷思到荷爾蒙平衡，養好肝臟代謝力才能順利雕塑體態",
       "date": "2023-05-30T08:07:47",
       "modified": "2024-09-04T02:46:57",
       "link": "https://104.154.140.219/%e6%83%b3%e8%a6%81%e6%b8%9b%e8%82%a5%e7%9a%84%e4%ba%ba%ef%bc%8c%e8%82%9d%e4%b8%80%e5%ae%9a%e8%a6%81%e9%a1%a7%e5%a5%bd%ef%bc%81-%e5%8a%a9%e5%a6%b3%e9%a4%8a%e5%a5%bd%e8%82%9d%e8%87%9f%e4%bb%a3%e8%ac%9d/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-08"
     },
     {
       "id": 3112,
