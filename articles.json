@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 92,
+    "done": 93,
     "pending": 297,
-    "reviewing": 15,
-    "last_sync": "2026-06-08T08:30:45.508125"
+    "reviewing": 14,
+    "last_sync": "2026-06-08T08:31:26.848134"
   },
   "articles": [
     {
@@ -869,10 +869,11 @@
       "date": "2025-11-25T03:38:20",
       "modified": "2025-11-25T03:38:29",
       "link": "https://104.154.140.219/vitamin-e/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-05T06:08:26.809324+00:00",
-      "rewritten_at": "2026-06-05"
+      "rewritten_at": "2026-06-05",
+      "approved_at": "2026-06-08 08:31"
     },
     {
       "id": 17579,
