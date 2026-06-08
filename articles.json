@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 91,
+    "done": 92,
     "pending": 297,
-    "reviewing": 16,
-    "last_sync": "2026-06-08T08:30:43.431083"
+    "reviewing": 15,
+    "last_sync": "2026-06-08T08:30:45.508125"
   },
   "articles": [
     {
@@ -846,10 +846,11 @@
       "date": "2025-11-27T07:06:00",
       "modified": "2025-11-27T07:07:20",
       "link": "https://104.154.140.219/fish-oil-combination/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-05T06:08:26.809324+00:00",
-      "rewritten_at": "2026-06-05"
+      "rewritten_at": "2026-06-05",
+      "approved_at": "2026-06-08 08:30"
     },
     {
       "id": 17612,
