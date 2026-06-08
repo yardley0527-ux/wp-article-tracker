@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 107,
-    "pending": 290,
-    "reviewing": 7,
+    "pending": 289,
+    "reviewing": 8,
     "last_sync": "2026-06-08T08:57:16.555169"
   },
   "articles": [
@@ -3502,12 +3502,13 @@
     },
     {
       "id": 3486,
-      "title": "隱形毒藥「AGEs糖化終產物」比氧化更可怕，催人加速變胖又變老！",
+      "title": "隱形毒藥「AGEs糖化終產物」真的比氧化更可怕嗎？從飲食、老化到抗糖化的完整解析",
       "date": "2023-06-09T08:07:05",
       "modified": "2024-09-04T03:45:09",
       "link": "https://104.154.140.219/%e9%9a%b1%e5%bd%a2%e6%af%92%e8%97%a5%e3%80%8cages%e7%b3%96%e5%8c%96%e7%b5%82%e7%94%a2%e7%89%a9%e3%80%8d%e6%af%94%e6%b0%a7%e5%8c%96%e6%9b%b4%e5%8f%af%e6%80%95%ef%bc%8c%e5%82%ac%e4%ba%ba%e5%8a%a0/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-08"
     },
     {
       "id": 3430,
