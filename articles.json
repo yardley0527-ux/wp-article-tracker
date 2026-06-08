@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 95,
+    "done": 96,
     "pending": 297,
-    "reviewing": 12,
-    "last_sync": "2026-06-08T08:31:30.574793"
+    "reviewing": 11,
+    "last_sync": "2026-06-08T08:31:32.354069"
   },
   "articles": [
     {
@@ -2379,9 +2379,10 @@
       "date": "2024-09-23T10:27:54",
       "modified": "2025-03-11T05:15:25",
       "link": "https://104.154.140.219/resistant-starch/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "rewritten_at": "2026-06-08"
+      "rewritten_at": "2026-06-08",
+      "approved_at": "2026-06-08 08:31"
     },
     {
       "id": 13710,
