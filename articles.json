@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 93,
+    "done": 94,
     "pending": 297,
-    "reviewing": 14,
-    "last_sync": "2026-06-08T08:31:26.848134"
+    "reviewing": 13,
+    "last_sync": "2026-06-08T08:31:28.762724"
   },
   "articles": [
     {
@@ -858,10 +858,11 @@
       "date": "2025-11-26T09:06:15",
       "modified": "2025-11-26T09:06:22",
       "link": "https://104.154.140.219/algae-oil-vs-fish-oil/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-05T06:08:26.809324+00:00",
-      "rewritten_at": "2026-06-05"
+      "rewritten_at": "2026-06-05",
+      "approved_at": "2026-06-08 08:31"
     },
     {
       "id": 17593,
