@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 90,
-    "pending": 309,
-    "reviewing": 5,
+    "pending": 308,
+    "reviewing": 6,
     "last_sync": "2026-06-05T07:00:34.961295"
   },
   "articles": [
@@ -2370,12 +2370,13 @@
     },
     {
       "id": 958,
-      "title": "抗性澱粉神助攻減肥！必知4大種類、食物排行榜和健康好處",
+      "title": "抗性澱粉真的能幫助減肥嗎？4大種類、食物排行榜與健康好處全解析",
       "date": "2024-09-23T10:27:54",
       "modified": "2025-03-11T05:15:25",
       "link": "https://104.154.140.219/resistant-starch/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-08"
     },
     {
       "id": 13710,
