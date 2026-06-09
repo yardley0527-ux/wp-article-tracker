@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 131,
-    "reviewing": 7,
+    "done": 132,
+    "reviewing": 6,
     "pending": 266,
-    "last_sync": "2026-06-09T08:46:02.737824"
+    "last_sync": "2026-06-09T08:46:04.233986"
   },
   "articles": [
     {
@@ -1112,8 +1112,9 @@
       "date": "2025-09-22T07:17:04",
       "modified": "2025-09-22T07:17:14",
       "link": "https://104.154.140.219/probiotics-for-women/",
-      "status": "reviewing",
-      "note": ""
+      "status": "done",
+      "note": "",
+      "approved_at": "2026-06-09 08:46"
     },
     {
       "id": 17120,
