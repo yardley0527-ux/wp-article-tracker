@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 117,
-    "reviewing": 21,
+    "done": 118,
+    "reviewing": 20,
     "pending": 266,
-    "last_sync": "2026-06-09T07:48:00.905041"
+    "last_sync": "2026-06-09T07:48:09.166451"
   },
   "articles": [
     {
@@ -972,8 +972,9 @@
       "date": "2025-11-04T02:26:35",
       "modified": "2025-11-04T02:26:44",
       "link": "https://104.154.140.219/retinal-detachment/",
-      "status": "reviewing",
-      "note": ""
+      "status": "done",
+      "note": "",
+      "approved_at": "2026-06-09 07:48"
     },
     {
       "id": 17384,
