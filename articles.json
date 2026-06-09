@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 130,
-    "reviewing": 8,
+    "done": 131,
+    "reviewing": 7,
     "pending": 266,
-    "last_sync": "2026-06-09T08:46:00.905228"
+    "last_sync": "2026-06-09T08:46:02.737824"
   },
   "articles": [
     {
@@ -1102,8 +1102,9 @@
       "date": "2025-09-23T07:58:24",
       "modified": "2025-09-23T07:58:25",
       "link": "https://104.154.140.219/vaginal-dryness/",
-      "status": "reviewing",
-      "note": ""
+      "status": "done",
+      "note": "",
+      "approved_at": "2026-06-09 08:46"
     },
     {
       "id": 17146,
