@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 115,
-    "reviewing": 23,
+    "done": 116,
+    "reviewing": 22,
     "pending": 266,
-    "last_sync": "2026-06-09T07:47:56.923122"
+    "last_sync": "2026-06-09T07:47:58.925119"
   },
   "articles": [
     {
@@ -923,8 +923,9 @@
       "date": "2025-11-13T07:13:13",
       "modified": "2025-11-13T07:13:21",
       "link": "https://104.154.140.219/when-is-the-best-time-to-take-turmeric/",
-      "status": "reviewing",
-      "note": ""
+      "status": "done",
+      "note": "",
+      "approved_at": "2026-06-09 07:47"
     },
     {
       "id": 17485,
