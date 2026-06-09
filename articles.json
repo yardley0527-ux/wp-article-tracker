@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 118,
-    "reviewing": 20,
+    "done": 119,
+    "reviewing": 19,
     "pending": 266,
-    "last_sync": "2026-06-09T07:48:09.166451"
+    "last_sync": "2026-06-09T07:48:10.884445"
   },
   "articles": [
     {
@@ -982,8 +982,9 @@
       "date": "2025-10-31T09:26:10",
       "modified": "2025-10-31T09:26:16",
       "link": "https://104.154.140.219/astaxanthin-supplement-reviews-and-top-picks/",
-      "status": "reviewing",
-      "note": ""
+      "status": "done",
+      "note": "",
+      "approved_at": "2026-06-09 07:48"
     },
     {
       "id": 17366,
