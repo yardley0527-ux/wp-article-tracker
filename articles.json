@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 132,
-    "reviewing": 6,
+    "done": 133,
+    "reviewing": 5,
     "pending": 266,
-    "last_sync": "2026-06-09T08:46:04.233986"
+    "last_sync": "2026-06-09T08:46:06.103101"
   },
   "articles": [
     {
@@ -3571,9 +3571,10 @@
       "date": "2023-05-31T10:48:17",
       "modified": "2024-10-24T03:10:18",
       "link": "https://104.154.140.219/%e8%82%9d%e4%b8%8d%e5%a5%bd%e5%90%83%e4%bb%80%e9%ba%bc%ef%bc%9f%e8%96%91%e9%bb%83%e3%80%81%e6%9c%9d%e9%ae%ae%e8%96%8a%e3%80%81%e4%ba%94%e5%91%b3%e5%ad%90%e3%80%81%e7%a1%92%e3%80%81%e8%8a%9d/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "rewritten_at": "2026-06-08"
+      "rewritten_at": "2026-06-08",
+      "approved_at": "2026-06-09 08:46"
     },
     {
       "id": 3153,
