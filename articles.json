@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 114,
-    "reviewing": 24,
+    "done": 115,
+    "reviewing": 23,
     "pending": 266,
-    "last_sync": "2026-06-09T07:47:53.312962"
+    "last_sync": "2026-06-09T07:47:56.923122"
   },
   "articles": [
     {
@@ -941,8 +941,9 @@
       "date": "2025-11-07T02:54:26",
       "modified": "2025-11-07T02:54:30",
       "link": "https://104.154.140.219/anti-inflammatory-diet-2/",
-      "status": "reviewing",
-      "note": ""
+      "status": "done",
+      "note": "",
+      "approved_at": "2026-06-09 07:47"
     },
     {
       "id": 17422,
