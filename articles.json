@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 137,
-    "reviewing": 21,
+    "done": 138,
+    "reviewing": 20,
     "pending": 246,
-    "last_sync": "2026-06-10T07:06:04.904956"
+    "last_sync": "2026-06-10T07:06:57.173974"
   },
   "articles": [
     {
@@ -3368,9 +3368,10 @@
       "date": "2023-08-04T10:29:00",
       "modified": "2024-09-04T03:38:25",
       "link": "https://104.154.140.219/%e6%af%8f%e5%a4%a9omega-3%e9%a4%8a%e6%88%90%e7%87%83%e8%84%82%e9%ab%94%e8%b3%aa%e3%80%81%e7%b5%82%e7%94%9f%e7%98%a6%e7%94%a8%ef%bc%81/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "rewritten_at": "2026-06-10"
+      "rewritten_at": "2026-06-10",
+      "approved_at": "2026-06-10 07:06"
     },
     {
       "id": 4901,
