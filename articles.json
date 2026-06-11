@@ -2,9 +2,10 @@
   "meta": {
     "total": 404,
     "done": 173,
-    "reviewing": 0,
-    "pending": 231,
-    "last_sync": "2026-06-11T06:34:59.996038"
+    "reviewing": 10,
+    "pending": 221,
+    "last_sync": "2026-06-11T06:34:59.996038",
+    "last_updated": "2026-06-11T08:19:43Z"
   },
   "articles": [
     {
@@ -1244,8 +1245,10 @@
       "date": "2025-09-02T07:25:09",
       "modified": "2025-09-04T06:00:50",
       "link": "https://104.154.140.219/hair-loss-in-women-2/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-11T08:19:43Z",
+      "rewritten_at": "2026-06-11"
     },
     {
       "id": 16923,
@@ -1253,8 +1256,10 @@
       "date": "2025-09-01T06:37:16",
       "modified": "2025-09-01T06:39:05",
       "link": "https://104.154.140.219/the-5-key-benefits-of-carbohydrates/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-11T08:19:43Z",
+      "rewritten_at": "2026-06-11"
     },
     {
       "id": 16908,
@@ -1262,8 +1267,10 @@
       "date": "2025-08-29T07:42:03",
       "modified": "2025-08-29T07:42:04",
       "link": "https://104.154.140.219/self-help-tips-to-fight-tiredness/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-11T08:19:43Z",
+      "rewritten_at": "2026-06-11"
     },
     {
       "id": 16884,
@@ -1271,8 +1278,10 @@
       "date": "2025-08-25T06:05:24",
       "modified": "2025-08-25T06:07:07",
       "link": "https://104.154.140.219/what-are-healthy-carbs/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-11T08:19:43Z",
+      "rewritten_at": "2026-06-11"
     },
     {
       "id": 16874,
@@ -1280,8 +1289,10 @@
       "date": "2025-08-22T09:04:55",
       "modified": "2025-09-11T10:26:29",
       "link": "https://104.154.140.219/how-to-minimise-enlarged-pores-blackheads/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-11T08:19:43Z",
+      "rewritten_at": "2026-06-11"
     },
     {
       "id": 16856,
@@ -1289,8 +1300,10 @@
       "date": "2025-08-21T10:35:54",
       "modified": "2025-09-25T05:26:12",
       "link": "https://104.154.140.219/pentavitin/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-11T08:19:43Z",
+      "rewritten_at": "2026-06-11"
     },
     {
       "id": 16831,
@@ -1298,8 +1311,10 @@
       "date": "2025-08-20T10:28:03",
       "modified": "2025-08-20T10:28:22",
       "link": "https://104.154.140.219/ectoin/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-11T08:19:43Z",
+      "rewritten_at": "2026-06-11"
     },
     {
       "id": 16809,
@@ -1307,8 +1322,10 @@
       "date": "2025-08-19T06:22:33",
       "modified": "2025-08-19T06:22:43",
       "link": "https://104.154.140.219/bifidobacterium/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-11T08:19:43Z",
+      "rewritten_at": "2026-06-11"
     },
     {
       "id": 16791,
@@ -1316,8 +1333,10 @@
       "date": "2025-08-15T10:21:08",
       "modified": "2025-08-15T10:21:16",
       "link": "https://104.154.140.219/calorie-deficit/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-11T08:19:43Z",
+      "rewritten_at": "2026-06-11"
     },
     {
       "id": 16779,
@@ -1325,8 +1344,10 @@
       "date": "2025-08-15T07:53:50",
       "modified": "2026-03-20T06:54:12",
       "link": "https://104.154.140.219/10-foods-that-are-good-for-your-liver-2/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-11T08:19:43Z",
+      "rewritten_at": "2026-06-11"
     },
     {
       "id": 16765,
