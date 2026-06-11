@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 155,
-    "reviewing": 13,
-    "pending": 236,
+    "reviewing": 18,
+    "pending": 231,
     "last_sync": "2026-06-10T08:59:18.218264"
   },
   "articles": [
@@ -1177,8 +1177,10 @@
       "date": "2025-09-10T04:06:40",
       "modified": "2025-09-10T04:06:43",
       "link": "https://104.154.140.219/intimate-care/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-11T06:15:55Z",
+      "rewritten_at": "2026-06-11"
     },
     {
       "id": 17010,
@@ -1186,8 +1188,10 @@
       "date": "2025-09-08T05:04:56",
       "modified": "2025-09-08T05:04:57",
       "link": "https://104.154.140.219/nmn-and-sod/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-11T06:15:55Z",
+      "rewritten_at": "2026-06-11"
     },
     {
       "id": 16993,
@@ -1195,8 +1199,10 @@
       "date": "2025-09-05T04:21:10",
       "modified": "2025-09-05T04:21:42",
       "link": "https://104.154.140.219/sleep-deprivation/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-11T06:15:55Z",
+      "rewritten_at": "2026-06-11"
     },
     {
       "id": 16975,
@@ -1204,8 +1210,10 @@
       "date": "2025-09-04T08:42:23",
       "modified": "2025-09-04T08:43:05",
       "link": "https://104.154.140.219/good-foods-to-help-your-digestion/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-11T06:15:55Z",
+      "rewritten_at": "2026-06-11"
     },
     {
       "id": 16960,
@@ -1213,8 +1221,10 @@
       "date": "2025-09-03T07:39:12",
       "modified": "2025-09-03T07:39:14",
       "link": "https://104.154.140.219/how-the-menstrual-cycle-can-affect-your-skin/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-11T06:15:55Z",
+      "rewritten_at": "2026-06-11"
     },
     {
       "id": 16939,
