@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 166,
-    "reviewing": 7,
+    "done": 167,
+    "reviewing": 6,
     "pending": 231,
-    "last_sync": "2026-06-11T06:33:25.095463"
+    "last_sync": "2026-06-11T06:33:26.823144"
   },
   "articles": [
     {
@@ -1232,10 +1232,11 @@
       "date": "2025-09-03T07:39:12",
       "modified": "2025-09-03T07:39:14",
       "link": "https://104.154.140.219/how-the-menstrual-cycle-can-affect-your-skin/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-11T06:15:55Z",
-      "rewritten_at": "2026-06-11"
+      "rewritten_at": "2026-06-11",
+      "approved_at": "2026-06-11 06:33"
     },
     {
       "id": 16939,
