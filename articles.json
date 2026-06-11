@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 155,
-    "reviewing": 8,
-    "pending": 241,
+    "reviewing": 13,
+    "pending": 236,
     "last_sync": "2026-06-10T08:59:18.218264"
   },
   "articles": [
@@ -1122,8 +1122,10 @@
       "date": "2025-09-19T06:18:01",
       "modified": "2025-09-26T03:47:16",
       "link": "https://104.154.140.219/chasteberry/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-11T04:10:54Z",
+      "rewritten_at": "2026-06-11"
     },
     {
       "id": 17105,
@@ -1131,8 +1133,10 @@
       "date": "2025-09-18T07:33:42",
       "modified": "2025-09-18T07:33:43",
       "link": "https://104.154.140.219/what-is-inflammation-a-guide-to-information/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-11T04:10:54Z",
+      "rewritten_at": "2026-06-11"
     },
     {
       "id": 17078,
@@ -1140,8 +1144,10 @@
       "date": "2025-09-16T07:27:10",
       "modified": "2025-09-19T06:01:02",
       "link": "https://104.154.140.219/d-mannose/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-11T04:10:54Z",
+      "rewritten_at": "2026-06-11"
     },
     {
       "id": 17042,
@@ -1149,8 +1155,10 @@
       "date": "2025-09-15T06:45:38",
       "modified": "2025-09-19T06:01:16",
       "link": "https://104.154.140.219/cranberry/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-11T04:10:54Z",
+      "rewritten_at": "2026-06-11"
     },
     {
       "id": 17059,
@@ -1158,8 +1166,10 @@
       "date": "2025-09-11T10:29:43",
       "modified": "2025-09-11T10:29:44",
       "link": "https://104.154.140.219/endocrine-disorders-types-causes-symptoms-2/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-11T04:10:54Z",
+      "rewritten_at": "2026-06-11"
     },
     {
       "id": 17026,
