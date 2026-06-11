@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 155,
-    "reviewing": 18,
+    "done": 156,
+    "reviewing": 17,
     "pending": 231,
-    "last_sync": "2026-06-10T08:59:18.218264"
+    "last_sync": "2026-06-11T06:30:58.650141"
   },
   "articles": [
     {
@@ -1144,10 +1144,11 @@
       "date": "2025-09-16T07:27:10",
       "modified": "2025-09-19T06:01:02",
       "link": "https://104.154.140.219/d-mannose/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-11T04:10:54Z",
-      "rewritten_at": "2026-06-11"
+      "rewritten_at": "2026-06-11",
+      "approved_at": "2026-06-11 06:30"
     },
     {
       "id": 17042,
