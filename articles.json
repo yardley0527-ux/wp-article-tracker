@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 158,
-    "reviewing": 15,
+    "done": 159,
+    "reviewing": 14,
     "pending": 231,
-    "last_sync": "2026-06-11T06:31:03.389886"
+    "last_sync": "2026-06-11T06:31:06.286988"
   },
   "articles": [
     {
@@ -1122,10 +1122,11 @@
       "date": "2025-09-19T06:18:01",
       "modified": "2025-09-26T03:47:16",
       "link": "https://104.154.140.219/chasteberry/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-11T04:10:54Z",
-      "rewritten_at": "2026-06-11"
+      "rewritten_at": "2026-06-11",
+      "approved_at": "2026-06-11 06:31"
     },
     {
       "id": 17105,
