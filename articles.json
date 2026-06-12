@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 189,
-    "reviewing": 11,
+    "done": 190,
+    "reviewing": 10,
     "pending": 204,
-    "last_sync": "2026-06-12T08:37:23.441658",
+    "last_sync": "2026-06-12T08:37:25.252351",
     "last_updated": "2026-06-11T08:19:43Z"
   },
   "articles": [
@@ -1448,10 +1448,11 @@
       "date": "2025-08-05T09:47:40",
       "modified": "2025-08-05T09:47:41",
       "link": "https://104.154.140.219/camellia/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-12T03:56:17.137493+00:00",
-      "rewritten_at": "2026-06-12"
+      "rewritten_at": "2026-06-12",
+      "approved_at": "2026-06-12 08:37"
     },
     {
       "id": 16588,
