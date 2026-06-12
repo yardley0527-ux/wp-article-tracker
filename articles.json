@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 194,
-    "reviewing": 6,
+    "done": 195,
+    "reviewing": 5,
     "pending": 204,
-    "last_sync": "2026-06-12T08:37:32.118245",
+    "last_sync": "2026-06-12T08:37:33.865171",
     "last_updated": "2026-06-11T08:19:43Z"
   },
   "articles": [
@@ -1508,10 +1508,11 @@
       "date": "2025-07-29T10:06:30",
       "modified": "2025-07-29T10:06:31",
       "link": "https://104.154.140.219/centella-asiatica-leaf-vesicles/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-12T04:49:02.302157+00:00",
-      "rewritten_at": "2026-06-12"
+      "rewritten_at": "2026-06-12",
+      "approved_at": "2026-06-12 08:37"
     },
     {
       "id": 16507,
