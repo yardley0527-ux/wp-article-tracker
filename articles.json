@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 193,
-    "reviewing": 7,
+    "done": 194,
+    "reviewing": 6,
     "pending": 204,
-    "last_sync": "2026-06-12T08:37:30.346002",
+    "last_sync": "2026-06-12T08:37:32.118245",
     "last_updated": "2026-06-11T08:19:43Z"
   },
   "articles": [
@@ -1496,10 +1496,11 @@
       "date": "2025-07-31T02:28:28",
       "modified": "2025-08-05T09:27:31",
       "link": "https://104.154.140.219/polypeptide-p/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-12T04:17:35.132326+00:00",
-      "rewritten_at": "2026-06-12"
+      "rewritten_at": "2026-06-12",
+      "approved_at": "2026-06-12 08:37"
     },
     {
       "id": 16522,
