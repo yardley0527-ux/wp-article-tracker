@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 183,
-    "reviewing": 17,
+    "done": 184,
+    "reviewing": 16,
     "pending": 204,
-    "last_sync": "2026-06-12T08:37:12.707154",
+    "last_sync": "2026-06-12T08:37:14.551122",
     "last_updated": "2026-06-11T08:19:43Z"
   },
   "articles": [
@@ -1376,10 +1376,11 @@
       "date": "2025-08-13T07:41:13",
       "modified": "2025-08-13T07:41:14",
       "link": "https://104.154.140.219/konjac/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-12T03:22:24Z",
-      "rewritten_at": "2026-06-12"
+      "rewritten_at": "2026-06-12",
+      "approved_at": "2026-06-12 08:37"
     },
     {
       "id": 16705,
