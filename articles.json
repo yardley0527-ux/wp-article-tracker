@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 173,
-    "reviewing": 20,
-    "pending": 211,
+    "reviewing": 21,
+    "pending": 210,
     "last_sync": "2026-06-11T06:34:59.996038",
     "last_updated": "2026-06-11T08:19:43Z"
   },
@@ -1465,8 +1465,10 @@
       "date": "2025-07-31T09:03:09",
       "modified": "2025-07-31T09:03:36",
       "link": "https://104.154.140.219/acne-face-map/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-12T04:10:23.328102+00:00",
+      "rewritten_at": "2026-06-12"
     },
     {
       "id": 16537,
