@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 173,
-    "reviewing": 16,
-    "pending": 215,
+    "reviewing": 17,
+    "pending": 214,
     "last_sync": "2026-06-11T06:34:59.996038",
     "last_updated": "2026-06-11T08:19:43Z"
   },
@@ -1421,8 +1421,10 @@
       "date": "2025-08-07T02:26:46",
       "modified": "2025-08-14T07:42:34",
       "link": "https://104.154.140.219/wasabia-japonica/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-12T03:49:28.165037+00:00",
+      "rewritten_at": "2026-06-12"
     },
     {
       "id": 16614,
