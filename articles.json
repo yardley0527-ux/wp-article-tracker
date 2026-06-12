@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 173,
-    "reviewing": 11,
-    "pending": 220,
+    "reviewing": 15,
+    "pending": 216,
     "last_sync": "2026-06-11T06:34:59.996038",
     "last_updated": "2026-06-11T08:19:43Z"
   },
@@ -1366,8 +1366,10 @@
       "date": "2025-08-13T07:41:13",
       "modified": "2025-08-13T07:41:14",
       "link": "https://104.154.140.219/konjac/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-12T03:22:24Z",
+      "rewritten_at": "2026-06-12"
     },
     {
       "id": 16705,
@@ -1375,8 +1377,10 @@
       "date": "2025-08-12T08:07:39",
       "modified": "2025-08-12T08:07:41",
       "link": "https://104.154.140.219/chitosan/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-12T03:28:14Z",
+      "rewritten_at": "2026-06-12"
     },
     {
       "id": 16685,
@@ -1384,8 +1388,10 @@
       "date": "2025-08-11T07:48:29",
       "modified": "2025-08-11T07:48:31",
       "link": "https://104.154.140.219/cactus-extract/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-12T03:34:48Z",
+      "rewritten_at": "2026-06-12"
     },
     {
       "id": 16662,
@@ -1393,8 +1399,10 @@
       "date": "2025-08-08T06:45:16",
       "modified": "2025-08-08T06:47:41",
       "link": "https://104.154.140.219/ceramide/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-12T03:40:35Z",
+      "rewritten_at": "2026-06-12"
     },
     {
       "id": 16652,
