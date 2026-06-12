@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 173,
-    "reviewing": 10,
-    "pending": 221,
+    "reviewing": 11,
+    "pending": 220,
     "last_sync": "2026-06-11T06:34:59.996038",
     "last_updated": "2026-06-11T08:19:43Z"
   },
@@ -1355,8 +1355,10 @@
       "date": "2025-08-14T07:42:47",
       "modified": "2025-08-14T07:42:49",
       "link": "https://104.154.140.219/purple-tea/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-12T02:59:48Z",
+      "rewritten_at": "2026-06-12"
     },
     {
       "id": 16724,
