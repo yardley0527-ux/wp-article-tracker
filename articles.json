@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 181,
-    "reviewing": 19,
+    "done": 182,
+    "reviewing": 18,
     "pending": 204,
-    "last_sync": "2026-06-12T08:37:08.743939",
+    "last_sync": "2026-06-12T08:37:10.491463",
     "last_updated": "2026-06-11T08:19:43Z"
   },
   "articles": [
@@ -1352,10 +1352,11 @@
       "date": "2025-08-15T07:53:50",
       "modified": "2026-03-20T06:54:12",
       "link": "https://104.154.140.219/10-foods-that-are-good-for-your-liver-2/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-11T08:19:43Z",
-      "rewritten_at": "2026-06-11"
+      "rewritten_at": "2026-06-11",
+      "approved_at": "2026-06-12 08:37"
     },
     {
       "id": 16765,
