@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 175,
-    "reviewing": 25,
+    "done": 176,
+    "reviewing": 24,
     "pending": 204,
-    "last_sync": "2026-06-12T08:36:57.239888",
+    "last_sync": "2026-06-12T08:36:59.095715",
     "last_updated": "2026-06-11T08:19:43Z"
   },
   "articles": [
@@ -1280,10 +1280,11 @@
       "date": "2025-08-25T06:05:24",
       "modified": "2025-08-25T06:07:07",
       "link": "https://104.154.140.219/what-are-healthy-carbs/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-11T08:19:43Z",
-      "rewritten_at": "2026-06-11"
+      "rewritten_at": "2026-06-11",
+      "approved_at": "2026-06-12 08:36"
     },
     {
       "id": 16874,
