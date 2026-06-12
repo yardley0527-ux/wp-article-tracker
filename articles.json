@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 190,
-    "reviewing": 10,
+    "done": 191,
+    "reviewing": 9,
     "pending": 204,
-    "last_sync": "2026-06-12T08:37:25.252351",
+    "last_sync": "2026-06-12T08:37:27.066076",
     "last_updated": "2026-06-11T08:19:43Z"
   },
   "articles": [
@@ -1460,10 +1460,11 @@
       "date": "2025-08-04T07:52:19",
       "modified": "2025-08-04T07:52:21",
       "link": "https://104.154.140.219/peptide/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-12T03:59:47.647346+00:00",
-      "rewritten_at": "2026-06-12"
+      "rewritten_at": "2026-06-12",
+      "approved_at": "2026-06-12 08:37"
     },
     {
       "id": 16569,
