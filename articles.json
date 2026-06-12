@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 173,
-    "reviewing": 15,
-    "pending": 216,
+    "reviewing": 16,
+    "pending": 215,
     "last_sync": "2026-06-11T06:34:59.996038",
     "last_updated": "2026-06-11T08:19:43Z"
   },
@@ -1410,8 +1410,10 @@
       "date": "2025-08-07T08:41:03",
       "modified": "2025-08-07T08:41:04",
       "link": "https://104.154.140.219/hair-loss-in-women/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-12T03:46:19.676308+00:00",
+      "rewritten_at": "2026-06-12"
     },
     {
       "id": 16635,
