@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 173,
-    "reviewing": 25,
-    "pending": 206,
+    "reviewing": 26,
+    "pending": 205,
     "last_sync": "2026-06-11T06:34:59.996038",
     "last_updated": "2026-06-11T08:19:43Z"
   },
@@ -1520,8 +1520,10 @@
       "date": "2025-07-24T03:24:27",
       "modified": "2025-08-05T09:27:52",
       "link": "https://104.154.140.219/garcinia-cambogia/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-12T07:07:56.085555+00:00",
+      "rewritten_at": "2026-06-12"
     },
     {
       "id": 16443,
