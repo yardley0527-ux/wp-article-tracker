@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 184,
-    "reviewing": 16,
+    "done": 185,
+    "reviewing": 15,
     "pending": 204,
-    "last_sync": "2026-06-12T08:37:14.551122",
+    "last_sync": "2026-06-12T08:37:16.277803",
     "last_updated": "2026-06-11T08:19:43Z"
   },
   "articles": [
@@ -1388,10 +1388,11 @@
       "date": "2025-08-12T08:07:39",
       "modified": "2025-08-12T08:07:41",
       "link": "https://104.154.140.219/chitosan/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-12T03:28:14Z",
-      "rewritten_at": "2026-06-12"
+      "rewritten_at": "2026-06-12",
+      "approved_at": "2026-06-12 08:37"
     },
     {
       "id": 16685,
