@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 177,
-    "reviewing": 23,
+    "done": 178,
+    "reviewing": 22,
     "pending": 204,
-    "last_sync": "2026-06-12T08:37:00.965546",
+    "last_sync": "2026-06-12T08:37:02.865229",
     "last_updated": "2026-06-11T08:19:43Z"
   },
   "articles": [
@@ -1304,10 +1304,11 @@
       "date": "2025-08-21T10:35:54",
       "modified": "2025-09-25T05:26:12",
       "link": "https://104.154.140.219/pentavitin/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-11T08:19:43Z",
-      "rewritten_at": "2026-06-11"
+      "rewritten_at": "2026-06-11",
+      "approved_at": "2026-06-12 08:37"
     },
     {
       "id": 16831,
