@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 173,
-    "reviewing": 18,
-    "pending": 213,
+    "reviewing": 19,
+    "pending": 212,
     "last_sync": "2026-06-11T06:34:59.996038",
     "last_updated": "2026-06-11T08:19:43Z"
   },
@@ -1443,8 +1443,10 @@
       "date": "2025-08-04T07:52:19",
       "modified": "2025-08-04T07:52:21",
       "link": "https://104.154.140.219/peptide/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-12T03:59:47.647346+00:00",
+      "rewritten_at": "2026-06-12"
     },
     {
       "id": 16569,
