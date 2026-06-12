@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 187,
-    "reviewing": 13,
+    "done": 188,
+    "reviewing": 12,
     "pending": 204,
-    "last_sync": "2026-06-12T08:37:19.914967",
+    "last_sync": "2026-06-12T08:37:21.750440",
     "last_updated": "2026-06-11T08:19:43Z"
   },
   "articles": [
@@ -1424,10 +1424,11 @@
       "date": "2025-08-07T08:41:03",
       "modified": "2025-08-07T08:41:04",
       "link": "https://104.154.140.219/hair-loss-in-women/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-12T03:46:19.676308+00:00",
-      "rewritten_at": "2026-06-12"
+      "rewritten_at": "2026-06-12",
+      "approved_at": "2026-06-12 08:37"
     },
     {
       "id": 16635,
