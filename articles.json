@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 173,
-    "reviewing": 24,
-    "pending": 207,
+    "reviewing": 25,
+    "pending": 206,
     "last_sync": "2026-06-11T06:34:59.996038",
     "last_updated": "2026-06-11T08:19:43Z"
   },
@@ -1509,8 +1509,10 @@
       "date": "2025-07-25T02:25:12",
       "modified": "2025-07-25T02:27:20",
       "link": "https://104.154.140.219/astaxanthin-strategy/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-12T06:40:27.320656+00:00",
+      "rewritten_at": "2026-06-12"
     },
     {
       "id": 16462,
