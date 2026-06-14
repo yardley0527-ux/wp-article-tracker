@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 195,
-    "reviewing": 5,
-    "pending": 204,
+    "reviewing": 10,
+    "pending": 199,
     "last_sync": "2026-06-12T08:37:33.865171",
     "last_updated": "2026-06-11T08:19:43Z"
   },
@@ -1564,8 +1564,9 @@
       "date": "2025-07-22T03:00:21",
       "modified": "2025-07-22T11:04:09",
       "link": "https://104.154.140.219/highly-concentrated-fish-oil/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-14"
     },
     {
       "id": 16414,
@@ -1573,8 +1574,9 @@
       "date": "2025-07-18T09:00:45",
       "modified": "2025-07-18T09:16:17",
       "link": "https://104.154.140.219/how-to-reduce-visceral-body-fat-2/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-14"
     },
     {
       "id": 16398,
@@ -1582,8 +1584,9 @@
       "date": "2025-07-16T02:30:35",
       "modified": "2025-07-16T02:30:36",
       "link": "https://104.154.140.219/10-foods-high-in-omega-3/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-14"
     },
     {
       "id": 16381,
@@ -1591,8 +1594,9 @@
       "date": "2025-07-09T04:59:53",
       "modified": "2025-07-09T04:59:54",
       "link": "https://104.154.140.219/rtg/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-14"
     },
     {
       "id": 16338,
@@ -1600,8 +1604,9 @@
       "date": "2025-07-08T02:48:29",
       "modified": "2025-07-08T07:37:11",
       "link": "https://104.154.140.219/endocrine-disorders-types-causes-symptoms/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-14"
     },
     {
       "id": 16326,
