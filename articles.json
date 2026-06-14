@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 195,
-    "reviewing": 10,
-    "pending": 199,
+    "reviewing": 15,
+    "pending": 194,
     "last_sync": "2026-06-12T08:37:33.865171",
     "last_updated": "2026-06-11T08:19:43Z"
   },
@@ -1614,8 +1614,9 @@
       "date": "2025-07-07T06:02:37",
       "modified": "2025-07-07T06:03:21",
       "link": "https://104.154.140.219/metabolism-what-it-is-how-it-works/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-14"
     },
     {
       "id": 16308,
@@ -1623,8 +1624,9 @@
       "date": "2025-07-07T02:53:25",
       "modified": "2025-07-23T11:22:38",
       "link": "https://104.154.140.219/starch/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-14"
     },
     {
       "id": 16293,
@@ -1632,8 +1634,9 @@
       "date": "2025-07-03T07:34:36",
       "modified": "2025-07-03T07:34:37",
       "link": "https://104.154.140.219/catechin/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-14"
     },
     {
       "id": 16271,
@@ -1641,8 +1644,9 @@
       "date": "2025-07-02T08:21:47",
       "modified": "2025-07-11T07:49:22",
       "link": "https://104.154.140.219/omega-3-oils-and-vitamin-b-supplements/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-14"
     },
     {
       "id": 16246,
@@ -1650,8 +1654,9 @@
       "date": "2025-07-01T06:16:47",
       "modified": "2025-07-08T02:58:15",
       "link": "https://104.154.140.219/epavsdha/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-14"
     },
     {
       "id": 16228,
