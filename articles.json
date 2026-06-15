@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 195,
-    "reviewing": 40,
-    "pending": 169,
+    "reviewing": 45,
+    "pending": 164,
     "last_sync": "2026-06-12T08:37:33.865171",
     "last_updated": "2026-06-15"
   },
@@ -1829,8 +1829,10 @@
       "date": "2025-05-16T02:29:41",
       "modified": "2025-05-16T02:29:43",
       "link": "https://104.154.140.219/insomnia/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-15",
+      "reviewed_at": "2026-06-15T06:42:35Z"
     },
     {
       "id": 15932,
@@ -1838,8 +1840,10 @@
       "date": "2025-05-15T02:25:34",
       "modified": "2025-05-15T02:25:36",
       "link": "https://104.154.140.219/metabolic-syndrome-2/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-15",
+      "reviewed_at": "2026-06-15T06:42:35Z"
     },
     {
       "id": 15921,
@@ -1847,8 +1851,10 @@
       "date": "2025-05-14T02:31:05",
       "modified": "2025-05-14T02:31:06",
       "link": "https://104.154.140.219/vitamin-b-deficiency/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-15",
+      "reviewed_at": "2026-06-15T06:42:35Z"
     },
     {
       "id": 15906,
@@ -1856,8 +1862,10 @@
       "date": "2025-05-12T09:04:42",
       "modified": "2025-05-12T09:07:19",
       "link": "https://104.154.140.219/how-to-get-rid-of-large-pores/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-15",
+      "reviewed_at": "2026-06-15T06:42:35Z"
     },
     {
       "id": 15884,
@@ -1865,8 +1873,10 @@
       "date": "2025-04-22T07:19:43",
       "modified": "2025-04-22T07:23:03",
       "link": "https://104.154.140.219/anti-blue-light/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-15",
+      "reviewed_at": "2026-06-15T06:42:35Z"
     },
     {
       "id": 15864,
