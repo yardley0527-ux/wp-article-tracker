@@ -2,10 +2,10 @@
   "meta": {
     "total": 404,
     "done": 195,
-    "reviewing": 35,
-    "pending": 174,
+    "reviewing": 40,
+    "pending": 169,
     "last_sync": "2026-06-12T08:37:33.865171",
-    "last_updated": "2026-06-11T08:19:43Z"
+    "last_updated": "2026-06-15"
   },
   "articles": [
     {
@@ -1774,8 +1774,10 @@
       "date": "2025-05-28T02:31:57",
       "modified": "2025-05-28T02:34:35",
       "link": "https://104.154.140.219/cataract/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-15",
+      "reviewed_at": "2026-06-15T06:16:17Z"
     },
     {
       "id": 16019,
@@ -1783,8 +1785,10 @@
       "date": "2025-05-27T02:56:57",
       "modified": "2025-05-27T09:33:49",
       "link": "https://104.154.140.219/10-warning-signs-symptoms-of-eye-problems/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-15",
+      "reviewed_at": "2026-06-15T06:16:17Z"
     },
     {
       "id": 16002,
@@ -1792,8 +1796,10 @@
       "date": "2025-05-23T05:42:32",
       "modified": "2025-05-23T05:42:33",
       "link": "https://104.154.140.219/the-best-time-to-take-collagen-for-maximum-absorption/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-15",
+      "reviewed_at": "2026-06-15T06:16:17Z"
     },
     {
       "id": 15980,
@@ -1801,8 +1807,10 @@
       "date": "2025-05-21T06:38:41",
       "modified": "2025-05-21T06:38:44",
       "link": "https://104.154.140.219/glaucoma/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-15",
+      "reviewed_at": "2026-06-15T06:16:17Z"
     },
     {
       "id": 15965,
@@ -1810,8 +1818,10 @@
       "date": "2025-05-20T02:31:15",
       "modified": "2025-05-20T02:31:16",
       "link": "https://104.154.140.219/high-intraocular-pressure/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-15",
+      "reviewed_at": "2026-06-15T06:16:17Z"
     },
     {
       "id": 15948,
