@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 195,
-    "reviewing": 25,
-    "pending": 184,
+    "reviewing": 30,
+    "pending": 179,
     "last_sync": "2026-06-12T08:37:33.865171",
     "last_updated": "2026-06-11T08:19:43Z"
   },
@@ -1664,8 +1664,10 @@
       "date": "2025-06-30T06:31:13",
       "modified": "2025-07-08T02:58:22",
       "link": "https://104.154.140.219/fish-oil-vs-turmeric/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-15",
+      "reviewed_at": "2026-06-15T03:58:19Z"
     },
     {
       "id": 16203,
@@ -1673,8 +1675,10 @@
       "date": "2025-06-19T09:26:40",
       "modified": "2025-07-08T07:36:51",
       "link": "https://104.154.140.219/6-important-benefits-of-fish-oil/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-15",
+      "reviewed_at": "2026-06-15T03:58:19Z"
     },
     {
       "id": 16173,
@@ -1682,8 +1686,10 @@
       "date": "2025-06-18T05:28:23",
       "modified": "2025-07-08T02:58:34",
       "link": "https://104.154.140.219/fish-oil-fights-inflammation/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-15",
+      "reviewed_at": "2026-06-15T03:58:19Z"
     },
     {
       "id": 16158,
@@ -1691,8 +1697,10 @@
       "date": "2025-06-17T03:48:25",
       "modified": "2025-06-17T03:48:26",
       "link": "https://104.154.140.219/glutathione-and-resveratrol-for-whitening/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-15",
+      "reviewed_at": "2026-06-15T03:58:19Z"
     },
     {
       "id": 16141,
@@ -1700,8 +1708,10 @@
       "date": "2025-06-10T09:02:24",
       "modified": "2025-06-10T09:03:24",
       "link": "https://104.154.140.219/10-fat-burning-foods/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-15",
+      "reviewed_at": "2026-06-15T03:58:19Z"
     },
     {
       "id": 16125,
