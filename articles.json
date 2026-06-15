@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 195,
-    "reviewing": 30,
-    "pending": 179,
+    "reviewing": 35,
+    "pending": 174,
     "last_sync": "2026-06-12T08:37:33.865171",
     "last_updated": "2026-06-11T08:19:43Z"
   },
@@ -1719,8 +1719,10 @@
       "date": "2025-06-09T09:25:53",
       "modified": "2025-06-09T09:25:54",
       "link": "https://104.154.140.219/what-is-chronic-inflammation/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-15",
+      "reviewed_at": "2026-06-15T04:41:47Z"
     },
     {
       "id": 16109,
@@ -1728,8 +1730,10 @@
       "date": "2025-06-06T10:08:19",
       "modified": "2025-06-06T10:08:19",
       "link": "https://104.154.140.219/resveratrol-whitening/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-15",
+      "reviewed_at": "2026-06-15T04:41:47Z"
     },
     {
       "id": 16089,
@@ -1737,8 +1741,10 @@
       "date": "2025-06-05T07:15:56",
       "modified": "2025-06-05T07:17:31",
       "link": "https://104.154.140.219/postpartum-obesity/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-15",
+      "reviewed_at": "2026-06-15T04:41:47Z"
     },
     {
       "id": 16073,
@@ -1746,8 +1752,10 @@
       "date": "2025-06-03T09:24:21",
       "modified": "2025-06-03T09:24:22",
       "link": "https://104.154.140.219/top-6-skin-whitening-foods/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-15",
+      "reviewed_at": "2026-06-15T04:41:47Z"
     },
     {
       "id": 16051,
@@ -1755,8 +1763,10 @@
       "date": "2025-05-29T01:33:37",
       "modified": "2025-05-29T01:33:38",
       "link": "https://104.154.140.219/gastroesophageal-reflux-disease/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-15",
+      "reviewed_at": "2026-06-15T04:41:47Z"
     },
     {
       "id": 16033,
