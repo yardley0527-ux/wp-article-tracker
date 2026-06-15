@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 195,
-    "reviewing": 45,
-    "pending": 164,
+    "reviewing": 50,
+    "pending": 159,
     "last_sync": "2026-06-12T08:37:33.865171",
     "last_updated": "2026-06-15"
   },
@@ -1884,8 +1884,10 @@
       "date": "2025-04-21T03:00:44",
       "modified": "2025-04-21T03:00:45",
       "link": "https://104.154.140.219/menopause/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-15",
+      "reviewed_at": "2026-06-15T07:25:24Z"
     },
     {
       "id": 15847,
@@ -1893,8 +1895,10 @@
       "date": "2025-04-18T02:28:48",
       "modified": "2025-04-18T02:28:50",
       "link": "https://104.154.140.219/eye-floaters/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-15",
+      "reviewed_at": "2026-06-15T07:25:24Z"
     },
     {
       "id": 15812,
@@ -1902,8 +1906,10 @@
       "date": "2025-04-16T10:24:09",
       "modified": "2025-04-16T10:29:07",
       "link": "https://104.154.140.219/amd/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-15",
+      "reviewed_at": "2026-06-15T07:25:24Z"
     },
     {
       "id": 15771,
@@ -1911,8 +1917,10 @@
       "date": "2025-04-15T09:57:34",
       "modified": "2025-04-16T08:25:32",
       "link": "https://104.154.140.219/facial-washing-machine/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-15",
+      "reviewed_at": "2026-06-15T07:25:24Z"
     },
     {
       "id": 15728,
@@ -1920,8 +1928,10 @@
       "date": "2025-04-02T11:51:41",
       "modified": "2025-04-10T11:55:55",
       "link": "https://104.154.140.219/monde-selection/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-15",
+      "reviewed_at": "2026-06-15T07:25:24Z"
     },
     {
       "id": 15708,
