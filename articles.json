@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 195,
-    "reviewing": 55,
-    "pending": 154,
+    "reviewing": 60,
+    "pending": 149,
     "last_sync": "2026-06-12T08:37:33.865171",
     "last_updated": "2026-06-15"
   },
@@ -1994,8 +1994,10 @@
       "date": "2025-03-19T08:04:00",
       "modified": "2025-03-19T08:04:01",
       "link": "https://104.154.140.219/structure-and-function-of-the-eyes/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-16T02:47:57.289455+00:00",
+      "rewritten_at": "2026-06-16"
     },
     {
       "id": 15572,
@@ -2003,8 +2005,10 @@
       "date": "2025-03-17T07:43:01",
       "modified": "2025-03-17T07:44:54",
       "link": "https://104.154.140.219/eye-care/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-16T02:47:57.289455+00:00",
+      "rewritten_at": "2026-06-16"
     },
     {
       "id": 15549,
@@ -2012,8 +2016,10 @@
       "date": "2025-03-14T06:29:11",
       "modified": "2025-03-14T06:32:26",
       "link": "https://104.154.140.219/anemia/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-16T02:47:57.289455+00:00",
+      "rewritten_at": "2026-06-16"
     },
     {
       "id": 15526,
@@ -2021,8 +2027,10 @@
       "date": "2025-03-13T06:57:56",
       "modified": "2025-03-13T06:57:58",
       "link": "https://104.154.140.219/vaginitis/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-16T02:47:57.289455+00:00",
+      "rewritten_at": "2026-06-16"
     },
     {
       "id": 15493,
@@ -2030,8 +2038,10 @@
       "date": "2025-03-12T05:46:23",
       "modified": "2025-03-12T05:46:26",
       "link": "https://104.154.140.219/astaxanthin-and-anthocyanidin/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-16T02:47:57.289455+00:00",
+      "rewritten_at": "2026-06-16"
     },
     {
       "id": 15456,
