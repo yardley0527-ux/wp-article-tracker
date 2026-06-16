@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 195,
-    "reviewing": 50,
-    "pending": 159,
+    "reviewing": 55,
+    "pending": 154,
     "last_sync": "2026-06-12T08:37:33.865171",
     "last_updated": "2026-06-15"
   },
@@ -1939,8 +1939,10 @@
       "date": "2025-04-02T02:31:46",
       "modified": "2025-04-02T02:32:36",
       "link": "https://104.154.140.219/4-major-benefits-of-astaxanthin/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-16T02:04:42.372339+00:00",
+      "rewritten_at": "2026-06-16"
     },
     {
       "id": 15663,
@@ -1948,8 +1950,10 @@
       "date": "2025-03-27T10:25:48",
       "modified": "2025-03-27T10:30:21",
       "link": "https://104.154.140.219/fatty-liver-disease/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-16T02:04:42.372339+00:00",
+      "rewritten_at": "2026-06-16"
     },
     {
       "id": 15664,
@@ -1957,8 +1961,10 @@
       "date": "2025-03-25T07:51:18",
       "modified": "2025-03-25T07:51:20",
       "link": "https://104.154.140.219/dry-eye-syndrome/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-16T02:04:42.372339+00:00",
+      "rewritten_at": "2026-06-16"
     },
     {
       "id": 15643,
@@ -1966,8 +1972,10 @@
       "date": "2025-03-24T09:27:26",
       "modified": "2025-03-24T09:27:28",
       "link": "https://104.154.140.219/astaxanthin-vs-lutein/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-16T02:04:42.372339+00:00",
+      "rewritten_at": "2026-06-16"
     },
     {
       "id": 15619,
@@ -1975,8 +1983,10 @@
       "date": "2025-03-21T05:48:49",
       "modified": "2025-03-21T05:52:38",
       "link": "https://104.154.140.219/liver-function-tests/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-16T02:04:42.372339+00:00",
+      "rewritten_at": "2026-06-16"
     },
     {
       "id": 15594,
