@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 210,
-    "reviewing": 55,
+    "done": 211,
+    "reviewing": 54,
     "pending": 139,
-    "last_sync": "2026-06-16T07:18:48.146048",
+    "last_sync": "2026-06-16T07:18:50.160830",
     "last_updated": "2026-06-15"
   },
   "articles": [
@@ -1679,10 +1679,11 @@
       "date": "2025-06-30T06:31:13",
       "modified": "2025-07-08T02:58:22",
       "link": "https://104.154.140.219/fish-oil-vs-turmeric/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "rewritten_at": "2026-06-15",
-      "reviewed_at": "2026-06-15T03:58:19Z"
+      "reviewed_at": "2026-06-15T03:58:19Z",
+      "approved_at": "2026-06-16 07:18"
     },
     {
       "id": 16203,
