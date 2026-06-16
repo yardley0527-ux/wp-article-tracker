@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 199,
-    "reviewing": 66,
+    "done": 200,
+    "reviewing": 65,
     "pending": 139,
-    "last_sync": "2026-06-16T07:18:28.028776",
+    "last_sync": "2026-06-16T07:18:29.828223",
     "last_updated": "2026-06-15"
   },
   "articles": [
@@ -1557,10 +1557,11 @@
       "date": "2025-07-23T02:25:24",
       "modified": "2025-07-23T02:25:25",
       "link": "https://104.154.140.219/fish-oil-for-skin/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-12T07:12:15.753908+00:00",
-      "rewritten_at": "2026-06-12"
+      "rewritten_at": "2026-06-12",
+      "approved_at": "2026-06-16 07:18"
     },
     {
       "id": 16427,
