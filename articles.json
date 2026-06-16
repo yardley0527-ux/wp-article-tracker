@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 200,
-    "reviewing": 65,
+    "done": 201,
+    "reviewing": 64,
     "pending": 139,
-    "last_sync": "2026-06-16T07:18:29.828223",
+    "last_sync": "2026-06-16T07:18:31.872434",
     "last_updated": "2026-06-15"
   },
   "articles": [
@@ -1569,9 +1569,10 @@
       "date": "2025-07-22T03:00:21",
       "modified": "2025-07-22T11:04:09",
       "link": "https://104.154.140.219/highly-concentrated-fish-oil/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "rewritten_at": "2026-06-14"
+      "rewritten_at": "2026-06-14",
+      "approved_at": "2026-06-16 07:18"
     },
     {
       "id": 16414,
