@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 204,
-    "reviewing": 61,
+    "done": 205,
+    "reviewing": 60,
     "pending": 139,
-    "last_sync": "2026-06-16T07:18:36.448140",
+    "last_sync": "2026-06-16T07:18:38.301885",
     "last_updated": "2026-06-15"
   },
   "articles": [
@@ -1613,9 +1613,10 @@
       "date": "2025-07-08T02:48:29",
       "modified": "2025-07-08T07:37:11",
       "link": "https://104.154.140.219/endocrine-disorders-types-causes-symptoms/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "rewritten_at": "2026-06-14"
+      "rewritten_at": "2026-06-14",
+      "approved_at": "2026-06-16 07:18"
     },
     {
       "id": 16326,
