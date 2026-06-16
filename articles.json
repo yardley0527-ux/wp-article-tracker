@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 203,
-    "reviewing": 62,
+    "done": 204,
+    "reviewing": 61,
     "pending": 139,
-    "last_sync": "2026-06-16T07:18:34.874865",
+    "last_sync": "2026-06-16T07:18:36.448140",
     "last_updated": "2026-06-15"
   },
   "articles": [
@@ -1602,9 +1602,10 @@
       "date": "2025-07-09T04:59:53",
       "modified": "2025-07-09T04:59:54",
       "link": "https://104.154.140.219/rtg/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
-      "rewritten_at": "2026-06-14"
+      "rewritten_at": "2026-06-14",
+      "approved_at": "2026-06-16 07:18"
     },
     {
       "id": 16338,
