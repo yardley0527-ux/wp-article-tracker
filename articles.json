@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 214,
-    "reviewing": 51,
-    "pending": 139,
+    "reviewing": 56,
+    "pending": 134,
     "last_sync": "2026-06-17T05:41:16.849671",
     "last_updated": "2026-06-15"
   },
@@ -2175,8 +2175,10 @@
       "date": "2025-02-12T02:49:34",
       "modified": "2025-02-12T03:13:40",
       "link": "https://104.154.140.219/nut/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-17",
+      "reviewed_at": "2026-06-17T05:48:20Z"
     },
     {
       "id": 15197,
@@ -2184,8 +2186,10 @@
       "date": "2025-02-11T04:53:20",
       "modified": "2025-02-11T04:53:22",
       "link": "https://104.154.140.219/cramps/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-17",
+      "reviewed_at": "2026-06-17T05:48:20Z"
     },
     {
       "id": 15180,
@@ -2193,8 +2197,10 @@
       "date": "2025-02-10T02:42:06",
       "modified": "2025-02-10T02:42:16",
       "link": "https://104.154.140.219/postpartum-hair-loss/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-17",
+      "reviewed_at": "2026-06-17T05:48:20Z"
     },
     {
       "id": 15159,
@@ -2202,8 +2208,10 @@
       "date": "2025-02-07T09:32:53",
       "modified": "2025-02-20T08:45:59",
       "link": "https://104.154.140.219/migraine/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-17",
+      "reviewed_at": "2026-06-17T05:48:20Z"
     },
     {
       "id": 15138,
@@ -2211,8 +2219,10 @@
       "date": "2025-02-06T06:31:51",
       "modified": "2025-02-06T08:57:08",
       "link": "https://104.154.140.219/vaginitis-causes-symptoms-and-diagnosis/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "rewritten_at": "2026-06-17",
+      "reviewed_at": "2026-06-17T05:48:20Z"
     },
     {
       "id": 15123,
