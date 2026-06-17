@@ -4,7 +4,7 @@
     "done": 217,
     "reviewing": 46,
     "pending": 141,
-    "last_sync": "2026-06-17T09:51:54.408479",
+    "last_sync": "2026-06-17T09:52:11.487101",
     "last_updated": "2026-06-15"
   },
   "articles": [
@@ -1727,7 +1727,7 @@
       "modified": "2025-06-10T09:03:24",
       "link": "https://104.154.140.219/10-fat-burning-foods/",
       "status": "reviewing",
-      "note": "已修正表格過量問題（補回說明文字）",
+      "note": "已修正表格過量問題（補回說明文字）內容目錄消失",
       "rewritten_at": "2026-06-17",
       "reviewed_at": "2026-06-17T03:55:39Z"
     },
