@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 214,
-    "reviewing": 49,
+    "done": 215,
+    "reviewing": 48,
     "pending": 141,
-    "last_sync": "2026-06-17T05:41:16.849671",
+    "last_sync": "2026-06-17T08:15:38.980489",
     "last_updated": "2026-06-15"
   },
   "articles": [
@@ -1691,10 +1691,11 @@
       "date": "2025-06-19T09:26:40",
       "modified": "2025-07-08T07:36:51",
       "link": "https://104.154.140.219/6-important-benefits-of-fish-oil/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正表格過量問題（補回說明文字）",
       "rewritten_at": "2026-06-17",
-      "reviewed_at": "2026-06-17T03:55:39Z"
+      "reviewed_at": "2026-06-17T03:55:39Z",
+      "approved_at": "2026-06-17 08:15"
     },
     {
       "id": 16173,
