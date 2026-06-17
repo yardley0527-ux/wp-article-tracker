@@ -4,7 +4,7 @@
     "done": 217,
     "reviewing": 46,
     "pending": 141,
-    "last_sync": "2026-06-17T09:50:04.224808",
+    "last_sync": "2026-06-17T09:51:52.750380",
     "last_updated": "2026-06-15"
   },
   "articles": [
@@ -1749,7 +1749,7 @@
       "modified": "2025-06-06T10:08:19",
       "link": "https://104.154.140.219/resveratrol-whitening/",
       "status": "reviewing",
-      "note": "已修正表格過量問題（補回說明文字）",
+      "note": "已修正表格過量問題（補回說明文字）內容目錄消失",
       "rewritten_at": "2026-06-17",
       "reviewed_at": "2026-06-17T03:55:39Z"
     },
