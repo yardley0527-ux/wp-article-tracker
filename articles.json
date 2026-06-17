@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 216,
-    "reviewing": 47,
+    "done": 217,
+    "reviewing": 46,
     "pending": 141,
-    "last_sync": "2026-06-17T09:48:41.990230",
+    "last_sync": "2026-06-17T09:50:04.224808",
     "last_updated": "2026-06-15"
   },
   "articles": [
@@ -1935,10 +1935,11 @@
       "date": "2025-04-15T09:57:34",
       "modified": "2025-04-16T08:25:32",
       "link": "https://104.154.140.219/facial-washing-machine/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正表格過量問題（補回說明文字）",
       "rewritten_at": "2026-06-17",
-      "reviewed_at": "2026-06-17T03:48:56Z"
+      "reviewed_at": "2026-06-17T03:48:56Z",
+      "approved_at": "2026-06-17 09:50"
     },
     {
       "id": 15728,
