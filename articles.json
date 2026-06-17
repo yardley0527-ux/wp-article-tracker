@@ -4,7 +4,7 @@
     "done": 216,
     "reviewing": 47,
     "pending": 141,
-    "last_sync": "2026-06-17T08:15:49.413436",
+    "last_sync": "2026-06-17T09:48:33.850381",
     "last_updated": "2026-06-15"
   },
   "articles": [
@@ -2178,7 +2178,7 @@
       "modified": "2025-02-12T03:13:40",
       "link": "https://104.154.140.219/nut/",
       "status": "reviewing",
-      "note": "",
+      "note": "內容目錄消失",
       "rewritten_at": "2026-06-17",
       "reviewed_at": "2026-06-17T05:48:20Z"
     },
