@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 217,
-    "reviewing": 66,
+    "done": 218,
+    "reviewing": 65,
     "pending": 121,
-    "last_sync": "2026-06-17T09:52:46.308121",
+    "last_sync": "2026-06-18T09:58:00.593776",
     "last_updated": "2026-06-15"
   },
   "articles": [
@@ -1715,10 +1715,11 @@
       "date": "2025-06-17T03:48:25",
       "modified": "2025-06-17T03:48:26",
       "link": "https://104.154.140.219/glutathione-and-resveratrol-for-whitening/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正表格過量問題（補回說明文字）內容目錄消失",
       "rewritten_at": "2026-06-17",
-      "reviewed_at": "2026-06-17T03:55:39Z"
+      "reviewed_at": "2026-06-17T03:55:39Z",
+      "approved_at": "2026-06-18 09:58"
     },
     {
       "id": 16141,
