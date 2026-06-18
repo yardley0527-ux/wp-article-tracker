@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 217,
-    "reviewing": 51,
-    "pending": 136,
+    "reviewing": 56,
+    "pending": 131,
     "last_sync": "2026-06-17T09:52:46.308121",
     "last_updated": "2026-06-15"
   },
@@ -2288,8 +2288,10 @@
       "date": "2025-01-16T09:18:13",
       "modified": "2025-01-17T02:40:22",
       "link": "https://104.154.140.219/bryan-johnson/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-18T06:48:22Z",
+      "rewritten_at": "2026-06-18"
     },
     {
       "id": 14999,
@@ -2297,8 +2299,10 @@
       "date": "2025-01-15T02:57:01",
       "modified": "2025-01-15T02:57:03",
       "link": "https://104.154.140.219/body-fat-percentage-and-muscle-mass-percentage/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-18T06:48:22Z",
+      "rewritten_at": "2026-06-18"
     },
     {
       "id": 14977,
@@ -2306,8 +2310,10 @@
       "date": "2025-01-14T02:28:18",
       "modified": "2025-01-14T02:28:20",
       "link": "https://104.154.140.219/strategies-to-prevent-heart-disease/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-18T06:48:22Z",
+      "rewritten_at": "2026-06-18"
     },
     {
       "id": 14944,
@@ -2315,8 +2321,10 @@
       "date": "2025-01-10T08:28:58",
       "modified": "2025-01-10T11:20:57",
       "link": "https://104.154.140.219/collagen/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-18T06:48:22Z",
+      "rewritten_at": "2026-06-18"
     },
     {
       "id": 14919,
@@ -2324,8 +2332,10 @@
       "date": "2025-01-09T09:51:03",
       "modified": "2025-01-13T10:14:18",
       "link": "https://104.154.140.219/v-lift/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-18T06:48:22Z",
+      "rewritten_at": "2026-06-18"
     },
     {
       "id": 14904,
