@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 217,
-    "reviewing": 61,
-    "pending": 126,
+    "reviewing": 66,
+    "pending": 121,
     "last_sync": "2026-06-17T09:52:46.308121",
     "last_updated": "2026-06-15"
   },
@@ -2398,8 +2398,10 @@
       "date": "2024-12-25T05:40:00",
       "modified": "2024-12-02T07:54:47",
       "link": "https://104.154.140.219/what-is-the-inflammatory-index/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-18T07:37:22Z",
+      "rewritten_at": "2026-06-18"
     },
     {
       "id": 14429,
@@ -2407,8 +2409,10 @@
       "date": "2024-12-20T05:40:23",
       "modified": "2025-02-07T09:36:38",
       "link": "https://104.154.140.219/6-techniques-for-insomnia-to-help-you-sleep-better/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-18T07:37:22Z",
+      "rewritten_at": "2026-06-18"
     },
     {
       "id": 14797,
@@ -2416,8 +2420,10 @@
       "date": "2024-12-18T06:52:37",
       "modified": "2024-12-18T06:52:37",
       "link": "https://104.154.140.219/what-is-metabolism/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-18T07:37:22Z",
+      "rewritten_at": "2026-06-18"
     },
     {
       "id": 14771,
@@ -2425,8 +2431,10 @@
       "date": "2024-12-17T09:02:34",
       "modified": "2024-12-17T09:03:39",
       "link": "https://104.154.140.219/chronic-fatigue-syndrome/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-18T07:37:22Z",
+      "rewritten_at": "2026-06-18"
     },
     {
       "id": 14666,
@@ -2434,8 +2442,10 @@
       "date": "2024-12-11T09:01:56",
       "modified": "2024-12-11T09:01:57",
       "link": "https://104.154.140.219/reduced-swelling/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-18T07:37:22Z",
+      "rewritten_at": "2026-06-18"
     },
     {
       "id": 14643,
