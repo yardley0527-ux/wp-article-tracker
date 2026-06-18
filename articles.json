@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 217,
-    "reviewing": 46,
-    "pending": 141,
+    "reviewing": 51,
+    "pending": 136,
     "last_sync": "2026-06-17T09:52:46.308121",
     "last_updated": "2026-06-15"
   },
@@ -2233,8 +2233,10 @@
       "date": "2025-02-04T10:00:59",
       "modified": "2025-02-04T10:01:01",
       "link": "https://104.154.140.219/pop-a-pimple/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-18T06:01:50Z",
+      "rewritten_at": "2026-06-18"
     },
     {
       "id": 15099,
@@ -2242,8 +2244,10 @@
       "date": "2025-02-03T09:15:14",
       "modified": "2025-02-03T09:15:18",
       "link": "https://104.154.140.219/dietary-fiber-for-weight-loss/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-18T06:01:50Z",
+      "rewritten_at": "2026-06-18"
     },
     {
       "id": 15081,
@@ -2251,8 +2255,10 @@
       "date": "2025-01-22T10:04:39",
       "modified": "2025-01-22T10:09:00",
       "link": "https://104.154.140.219/pms/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-18T06:01:50Z",
+      "rewritten_at": "2026-06-18"
     },
     {
       "id": 15063,
@@ -2260,8 +2266,10 @@
       "date": "2025-01-21T07:22:12",
       "modified": "2025-01-21T07:22:14",
       "link": "https://104.154.140.219/immunity/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-18T06:01:50Z",
+      "rewritten_at": "2026-06-18"
     },
     {
       "id": 15040,
@@ -2269,8 +2277,10 @@
       "date": "2025-01-17T11:30:44",
       "modified": "2025-01-17T11:30:45",
       "link": "https://104.154.140.219/premature-ovarian-failure/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-18T06:01:50Z",
+      "rewritten_at": "2026-06-18"
     },
     {
       "id": 15018,
