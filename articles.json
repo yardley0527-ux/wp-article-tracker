@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 225,
-    "reviewing": 58,
+    "done": 226,
+    "reviewing": 57,
     "pending": 121,
-    "last_sync": "2026-06-18T09:58:13.602660",
+    "last_sync": "2026-06-18T09:58:15.360028",
     "last_updated": "2026-06-15"
   },
   "articles": [
@@ -1811,10 +1811,11 @@
       "date": "2025-05-27T02:56:57",
       "modified": "2025-05-27T09:33:49",
       "link": "https://104.154.140.219/10-warning-signs-symptoms-of-eye-problems/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正表格過量問題（補回說明文字）",
       "rewritten_at": "2026-06-17",
-      "reviewed_at": "2026-06-17T03:52:25Z"
+      "reviewed_at": "2026-06-17T03:52:25Z",
+      "approved_at": "2026-06-18 09:58"
     },
     {
       "id": 16002,
