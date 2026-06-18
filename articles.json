@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 218,
-    "reviewing": 65,
+    "done": 219,
+    "reviewing": 64,
     "pending": 121,
-    "last_sync": "2026-06-18T09:58:00.593776",
+    "last_sync": "2026-06-18T09:58:02.640657",
     "last_updated": "2026-06-15"
   },
   "articles": [
@@ -1727,10 +1727,11 @@
       "date": "2025-06-10T09:02:24",
       "modified": "2025-06-10T09:03:24",
       "link": "https://104.154.140.219/10-fat-burning-foods/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正表格過量問題（補回說明文字）內容目錄消失",
       "rewritten_at": "2026-06-17",
-      "reviewed_at": "2026-06-17T03:55:39Z"
+      "reviewed_at": "2026-06-17T03:55:39Z",
+      "approved_at": "2026-06-18 09:58"
     },
     {
       "id": 16125,
