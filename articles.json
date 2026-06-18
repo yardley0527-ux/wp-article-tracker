@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 220,
-    "reviewing": 63,
+    "done": 221,
+    "reviewing": 62,
     "pending": 121,
-    "last_sync": "2026-06-18T09:58:04.400027",
+    "last_sync": "2026-06-18T09:58:06.176436",
     "last_updated": "2026-06-15"
   },
   "articles": [
@@ -1751,10 +1751,11 @@
       "date": "2025-06-06T10:08:19",
       "modified": "2025-06-06T10:08:19",
       "link": "https://104.154.140.219/resveratrol-whitening/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正表格過量問題（補回說明文字）內容目錄消失",
       "rewritten_at": "2026-06-17",
-      "reviewed_at": "2026-06-17T03:55:39Z"
+      "reviewed_at": "2026-06-17T03:55:39Z",
+      "approved_at": "2026-06-18 09:58"
     },
     {
       "id": 16089,
