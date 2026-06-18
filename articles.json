@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 221,
-    "reviewing": 62,
+    "done": 222,
+    "reviewing": 61,
     "pending": 121,
-    "last_sync": "2026-06-18T09:58:06.176436",
+    "last_sync": "2026-06-18T09:58:08.491394",
     "last_updated": "2026-06-15"
   },
   "articles": [
@@ -1763,10 +1763,11 @@
       "date": "2025-06-05T07:15:56",
       "modified": "2025-06-05T07:17:31",
       "link": "https://104.154.140.219/postpartum-obesity/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正表格過量問題（補回說明文字）內容目錄消失",
       "rewritten_at": "2026-06-17",
-      "reviewed_at": "2026-06-17T03:55:39Z"
+      "reviewed_at": "2026-06-17T03:55:39Z",
+      "approved_at": "2026-06-18 09:58"
     },
     {
       "id": 16073,
