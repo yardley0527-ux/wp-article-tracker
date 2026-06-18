@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 217,
-    "reviewing": 56,
-    "pending": 131,
+    "reviewing": 61,
+    "pending": 126,
     "last_sync": "2026-06-17T09:52:46.308121",
     "last_updated": "2026-06-15"
   },
@@ -2343,8 +2343,10 @@
       "date": "2025-01-07T10:07:38",
       "modified": "2025-01-07T10:07:40",
       "link": "https://104.154.140.219/skin-whitening/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-18T07:17:44Z",
+      "rewritten_at": "2026-06-18"
     },
     {
       "id": 14884,
@@ -2352,8 +2354,10 @@
       "date": "2025-01-06T08:55:05",
       "modified": "2025-01-06T08:55:06",
       "link": "https://104.154.140.219/osteoporosis/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-18T07:17:44Z",
+      "rewritten_at": "2026-06-18"
     },
     {
       "id": 14861,
@@ -2361,8 +2365,10 @@
       "date": "2025-01-03T07:44:57",
       "modified": "2025-01-03T07:44:58",
       "link": "https://104.154.140.219/endocrine-disorder/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-18T07:17:44Z",
+      "rewritten_at": "2026-06-18"
     },
     {
       "id": 14843,
@@ -2370,8 +2376,10 @@
       "date": "2025-01-02T07:30:05",
       "modified": "2025-01-02T07:30:06",
       "link": "https://104.154.140.219/fasting-plasma-glucose/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-18T07:17:44Z",
+      "rewritten_at": "2026-06-18"
     },
     {
       "id": 14821,
@@ -2379,8 +2387,10 @@
       "date": "2024-12-30T10:11:27",
       "modified": "2024-12-30T10:12:36",
       "link": "https://104.154.140.219/endometriosis/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-18T07:17:44Z",
+      "rewritten_at": "2026-06-18"
     },
     {
       "id": 14519,
