@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 226,
-    "reviewing": 57,
+    "done": 227,
+    "reviewing": 56,
     "pending": 121,
-    "last_sync": "2026-06-18T09:58:15.360028",
+    "last_sync": "2026-06-18T09:58:17.223258",
     "last_updated": "2026-06-15"
   },
   "articles": [
@@ -1823,10 +1823,11 @@
       "date": "2025-05-23T05:42:32",
       "modified": "2025-05-23T05:42:33",
       "link": "https://104.154.140.219/the-best-time-to-take-collagen-for-maximum-absorption/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正表格過量問題（補回說明文字）",
       "rewritten_at": "2026-06-17",
-      "reviewed_at": "2026-06-17T03:52:25Z"
+      "reviewed_at": "2026-06-17T03:52:25Z",
+      "approved_at": "2026-06-18 09:58"
     },
     {
       "id": 15980,
