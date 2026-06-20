@@ -2,9 +2,9 @@
   "meta": {
     "total": 404,
     "done": 233,
-    "reviewing": 60,
-    "pending": 111,
-    "last_sync": "2026-06-20T07:19:51.086117",
+    "reviewing": 65,
+    "pending": 106,
+    "last_sync": "2026-06-20T07:33:25.740113",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2579,8 +2579,10 @@
       "date": "2024-11-13T02:27:37",
       "modified": "2024-11-13T12:59:20",
       "link": "https://104.154.140.219/hair-loss-tips-for-managing/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-20T07:33:25.740113",
+      "rewritten_at": "2026-06-20"
     },
     {
       "id": 14373,
@@ -2588,8 +2590,10 @@
       "date": "2024-11-08T07:12:22",
       "modified": "2024-11-08T07:14:53",
       "link": "https://104.154.140.219/jennifer-anniston-skin-care-tips/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-20T07:33:25.740113",
+      "rewritten_at": "2026-06-20"
     },
     {
       "id": 14358,
@@ -2597,8 +2601,10 @@
       "date": "2024-11-07T02:58:08",
       "modified": "2024-11-07T02:58:10",
       "link": "https://104.154.140.219/vitamins-a-to-k/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-20T07:33:25.740113",
+      "rewritten_at": "2026-06-20"
     },
     {
       "id": 14331,
@@ -2606,8 +2612,10 @@
       "date": "2024-11-05T08:45:01",
       "modified": "2025-06-03T10:41:22",
       "link": "https://104.154.140.219/miranda-kerr-skin-care-tips/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-20T07:33:25.740113",
+      "rewritten_at": "2026-06-20"
     },
     {
       "id": 14302,
@@ -2615,8 +2623,10 @@
       "date": "2024-11-04T07:37:27",
       "modified": "2024-11-04T07:37:28",
       "link": "https://104.154.140.219/comparison-of-resveratrol-and-glutathione-whitening-ingredients/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-20T07:33:25.740113",
+      "rewritten_at": "2026-06-20"
     },
     {
       "id": 14264,
