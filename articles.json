@@ -2,9 +2,9 @@
   "meta": {
     "total": 404,
     "done": 233,
-    "reviewing": 65,
-    "pending": 106,
-    "last_sync": "2026-06-20T07:33:25.740113",
+    "reviewing": 70,
+    "pending": 101,
+    "last_sync": "2026-06-20T07:44:22.050569",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2634,8 +2634,10 @@
       "date": "2024-11-01T05:20:11",
       "modified": "2024-11-01T05:21:30",
       "link": "https://104.154.140.219/anne-hathaways-skin-care-tips/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-20T07:44:22.050569",
+      "rewritten_at": "2026-06-20"
     },
     {
       "id": 14215,
@@ -2643,8 +2645,10 @@
       "date": "2024-10-30T10:04:42",
       "modified": "2024-10-30T10:04:43",
       "link": "https://104.154.140.219/what-is-nmn/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-20T07:44:22.050569",
+      "rewritten_at": "2026-06-20"
     },
     {
       "id": 14214,
@@ -2652,8 +2656,10 @@
       "date": "2024-10-30T07:54:40",
       "modified": "2024-10-30T10:13:24",
       "link": "https://104.154.140.219/what-is-vitamin-b12/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-20T07:44:22.050569",
+      "rewritten_at": "2026-06-20"
     },
     {
       "id": 14190,
@@ -2661,8 +2667,10 @@
       "date": "2024-10-29T04:22:48",
       "modified": "2024-10-30T10:11:10",
       "link": "https://104.154.140.219/eat-vitamin-b-complex-to-improve-your-skin/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-20T07:44:22.050569",
+      "rewritten_at": "2026-06-20"
     },
     {
       "id": 14169,
@@ -2670,8 +2678,10 @@
       "date": "2024-10-28T10:08:26",
       "modified": "2024-10-28T10:11:02",
       "link": "https://104.154.140.219/top-10-protein-foods/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-20T07:44:22.050569",
+      "rewritten_at": "2026-06-20"
     },
     {
       "id": 14145,
