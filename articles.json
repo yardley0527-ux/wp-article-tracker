@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 233,
-    "reviewing": 70,
-    "pending": 101,
+    "reviewing": 75,
+    "pending": 96,
     "last_sync": "2026-06-20T07:44:22.050569",
     "last_updated": "2026-06-20"
   },
@@ -2689,8 +2689,10 @@
       "date": "2024-10-24T10:09:42",
       "modified": "2024-10-24T10:09:43",
       "link": "https://104.154.140.219/211-plate-weight-loss/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-20T09:24:45Z",
+      "rewritten_at": "2026-06-20"
     },
     {
       "id": 13829,
@@ -2698,8 +2700,10 @@
       "date": "2024-10-15T09:23:33",
       "modified": "2024-10-24T06:41:13",
       "link": "https://104.154.140.219/can-b-vitamins-help-you-sleep/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-20T09:24:45Z",
+      "rewritten_at": "2026-06-20"
     },
     {
       "id": 8425,
@@ -2707,8 +2711,10 @@
       "date": "2024-10-03T05:38:42",
       "modified": "2024-10-24T03:24:00",
       "link": "https://104.154.140.219/egcg/",
-      "status": "pending",
-      "note": "原標記為已改寫但實際內文未改寫，改回 pending 重新排程"
+      "status": "reviewing",
+      "note": "原標記為已改寫但實際內文未改寫，改回 pending 重新排程",
+      "reviewed_at": "2026-06-20T09:24:45Z",
+      "rewritten_at": "2026-06-20"
     },
     {
       "id": 13788,
@@ -2716,8 +2722,10 @@
       "date": "2024-09-26T11:22:03",
       "modified": "2024-10-23T08:08:57",
       "link": "https://104.154.140.219/2024twyushan/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-20T09:24:45Z",
+      "rewritten_at": "2026-06-20"
     },
     {
       "id": 13768,
@@ -2725,8 +2733,10 @@
       "date": "2024-09-25T03:16:29",
       "modified": "2024-10-24T03:22:36",
       "link": "https://104.154.140.219/anti-aging-skin-care/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-20T09:24:45Z",
+      "rewritten_at": "2026-06-20"
     },
     {
       "id": 958,
