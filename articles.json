@@ -2,10 +2,10 @@
   "meta": {
     "total": 404,
     "done": 233,
-    "reviewing": 50,
-    "pending": 121,
-    "last_sync": "2026-06-18T09:58:27.831348",
-    "last_updated": "2026-06-15"
+    "reviewing": 55,
+    "pending": 116,
+    "last_sync": "2026-06-20T07:01:25.118133",
+    "last_updated": "2026-06-20"
   },
   "articles": [
     {
@@ -2469,8 +2469,10 @@
       "date": "2024-12-05T09:39:32",
       "modified": "2024-12-05T09:44:41",
       "link": "https://104.154.140.219/breast-cancer-prevention/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-20T07:01:25.118133",
+      "rewritten_at": "2026-06-20"
     },
     {
       "id": 14621,
@@ -2478,8 +2480,10 @@
       "date": "2024-12-04T09:30:26",
       "modified": "2024-12-04T09:32:30",
       "link": "https://104.154.140.219/how-to-reduce-visceral-body-fat/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-20T07:01:25.118133",
+      "rewritten_at": "2026-06-20"
     },
     {
       "id": 14599,
@@ -2487,8 +2491,10 @@
       "date": "2024-12-02T08:20:15",
       "modified": "2024-12-02T08:20:15",
       "link": "https://104.154.140.219/why-do-i-gain-weight-when-i-eat-less/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-20T07:01:25.118133",
+      "rewritten_at": "2026-06-20"
     },
     {
       "id": 14579,
@@ -2496,8 +2502,10 @@
       "date": "2024-11-28T08:15:11",
       "modified": "2024-11-28T08:15:13",
       "link": "https://104.154.140.219/bloating-causes-and-prevention-tips/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-20T07:01:25.118133",
+      "rewritten_at": "2026-06-20"
     },
     {
       "id": 14557,
@@ -2505,8 +2513,10 @@
       "date": "2024-11-27T04:48:25",
       "modified": "2024-11-27T04:48:57",
       "link": "https://104.154.140.219/10-foods-that-are-good-for-your-liver/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-20T07:01:25.118133",
+      "rewritten_at": "2026-06-20"
     },
     {
       "id": 14535,
