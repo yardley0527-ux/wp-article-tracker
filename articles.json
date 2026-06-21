@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 233,
-    "reviewing": 75,
-    "pending": 96,
+    "reviewing": 80,
+    "pending": 91,
     "last_sync": "2026-06-20T07:44:22.050569",
     "last_updated": "2026-06-20"
   },
@@ -2755,8 +2755,10 @@
       "date": "2024-09-20T10:28:48",
       "modified": "2024-10-24T03:26:56",
       "link": "https://104.154.140.219/resveratrol-skin-benefits/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-21T14:18:45Z",
+      "rewritten_at": "2026-06-21"
     },
     {
       "id": 13685,
@@ -2764,8 +2766,10 @@
       "date": "2024-09-18T02:36:35",
       "modified": "2024-09-18T03:17:17",
       "link": "https://104.154.140.219/mitochondrion-and-metabolism/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-21T14:18:45Z",
+      "rewritten_at": "2026-06-21"
     },
     {
       "id": 13635,
@@ -2773,8 +2777,10 @@
       "date": "2024-09-12T07:18:11",
       "modified": "2024-10-24T03:28:00",
       "link": "https://104.154.140.219/hesperetin/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-21T14:18:45Z",
+      "rewritten_at": "2026-06-21"
     },
     {
       "id": 13613,
@@ -2782,8 +2788,10 @@
       "date": "2024-09-11T02:26:49",
       "modified": "2024-10-24T03:29:40",
       "link": "https://104.154.140.219/vitamin-c/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-21T14:18:45Z",
+      "rewritten_at": "2026-06-21"
     },
     {
       "id": 13594,
@@ -2791,8 +2799,10 @@
       "date": "2024-09-09T10:09:57",
       "modified": "2024-10-24T03:30:56",
       "link": "https://104.154.140.219/nmn-mitochondrion/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-21T14:18:45Z",
+      "rewritten_at": "2026-06-21"
     },
     {
       "id": 13442,
