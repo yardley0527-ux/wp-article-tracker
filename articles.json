@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 260,
-    "reviewing": 53,
-    "pending": 91,
+    "reviewing": 58,
+    "pending": 86,
     "last_sync": "2026-06-22T07:36:18.630734",
     "last_updated": "2026-06-20"
   },
@@ -2837,8 +2837,10 @@
       "date": "2024-09-03T04:47:03",
       "modified": "2024-10-24T03:31:56",
       "link": "https://104.154.140.219/whitening-health-supplements/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-22T10:30:59.734098+00:00",
+      "rewritten_at": "2026-06-22"
     },
     {
       "id": 13422,
@@ -2846,8 +2848,10 @@
       "date": "2024-08-29T02:37:56",
       "modified": "2024-10-24T03:33:34",
       "link": "https://104.154.140.219/resveratrol/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-22T10:30:59.734098+00:00",
+      "rewritten_at": "2026-06-22"
     },
     {
       "id": 13399,
@@ -2855,8 +2859,10 @@
       "date": "2024-08-28T02:39:21",
       "modified": "2024-10-24T03:34:32",
       "link": "https://104.154.140.219/sod/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-22T10:30:59.734098+00:00",
+      "rewritten_at": "2026-06-22"
     },
     {
       "id": 13381,
@@ -2864,8 +2870,10 @@
       "date": "2024-08-26T02:36:32",
       "modified": "2024-10-24T03:35:50",
       "link": "https://104.154.140.219/nmn/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-22T10:30:59.734098+00:00",
+      "rewritten_at": "2026-06-22"
     },
     {
       "id": 13358,
@@ -2873,8 +2881,10 @@
       "date": "2024-08-22T04:19:40",
       "modified": "2024-09-04T02:52:10",
       "link": "https://104.154.140.219/6-nutrients-for-fat-loss/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-22T10:30:59.734098+00:00",
+      "rewritten_at": "2026-06-22"
     },
     {
       "id": 13173,
