@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 255,
-    "reviewing": 58,
+    "done": 256,
+    "reviewing": 57,
     "pending": 91,
-    "last_sync": "2026-06-22T07:11:55.091168",
+    "last_sync": "2026-06-22T07:11:56.600528",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2204,10 +2204,11 @@
       "date": "2025-02-14T07:16:45",
       "modified": "2025-02-14T07:16:46",
       "link": "https://104.154.140.219/fatigue/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正表格過量問題（補回說明文字）",
       "reviewed_at": "2026-06-17T03:19:45Z",
-      "rewritten_at": "2026-06-17"
+      "rewritten_at": "2026-06-17",
+      "approved_at": "2026-06-22 07:11"
     },
     {
       "id": 15216,
