@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 235,
-    "reviewing": 78,
+    "done": 236,
+    "reviewing": 77,
     "pending": 91,
-    "last_sync": "2026-06-22T06:31:06.979621",
+    "last_sync": "2026-06-22T06:31:08.919123",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -1931,10 +1931,11 @@
       "date": "2025-04-18T02:28:48",
       "modified": "2025-04-18T02:28:50",
       "link": "https://104.154.140.219/eye-floaters/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正表格過量問題（補回說明文字）",
       "rewritten_at": "2026-06-17",
-      "reviewed_at": "2026-06-17T03:48:56Z"
+      "reviewed_at": "2026-06-17T03:48:56Z",
+      "approved_at": "2026-06-22 06:31"
     },
     {
       "id": 15812,
