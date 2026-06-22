@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 253,
-    "reviewing": 60,
+    "done": 254,
+    "reviewing": 59,
     "pending": 91,
-    "last_sync": "2026-06-22T07:11:51.167039",
+    "last_sync": "2026-06-22T07:11:53.106133",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2147,10 +2147,11 @@
       "date": "2025-02-24T02:55:56",
       "modified": "2025-05-14T10:47:21",
       "link": "https://104.154.140.219/acne/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正表格過量問題（補回說明文字）",
       "reviewed_at": "2026-06-17T03:19:45Z",
-      "rewritten_at": "2026-06-17"
+      "rewritten_at": "2026-06-17",
+      "approved_at": "2026-06-22 07:11"
     },
     {
       "id": 15345,
