@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 258,
-    "reviewing": 55,
+    "done": 259,
+    "reviewing": 54,
     "pending": 91,
-    "last_sync": "2026-06-22T07:35:55.750778",
+    "last_sync": "2026-06-22T07:36:16.760690",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2274,10 +2274,11 @@
       "date": "2025-02-04T10:00:59",
       "modified": "2025-02-04T10:01:01",
       "link": "https://104.154.140.219/pop-a-pimple/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-18T06:01:50Z",
-      "rewritten_at": "2026-06-18"
+      "rewritten_at": "2026-06-18",
+      "approved_at": "2026-06-22 07:36"
     },
     {
       "id": 15099,
