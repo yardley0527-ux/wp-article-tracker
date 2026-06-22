@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 260,
-    "reviewing": 58,
-    "pending": 86,
+    "reviewing": 63,
+    "pending": 81,
     "last_sync": "2026-06-22T07:36:18.630734",
     "last_updated": "2026-06-20"
   },
@@ -2892,8 +2892,10 @@
       "date": "2024-08-08T09:25:57",
       "modified": "2024-08-08T09:26:01",
       "link": "https://104.154.140.219/dietary-supplement/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-22T10:46:39.646156+00:00",
+      "rewritten_at": "2026-06-22"
     },
     {
       "id": 13132,
@@ -2901,8 +2903,10 @@
       "date": "2024-08-05T10:09:18",
       "modified": "2024-10-23T08:17:02",
       "link": "https://104.154.140.219/pregnancy-and-vitamin-b-complex/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-22T10:46:39.646156+00:00",
+      "rewritten_at": "2026-06-22"
     },
     {
       "id": 13116,
@@ -2910,8 +2914,10 @@
       "date": "2024-07-29T02:26:56",
       "modified": "2024-09-04T02:52:00",
       "link": "https://104.154.140.219/bulimia-nervosa/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-22T10:46:39.646156+00:00",
+      "rewritten_at": "2026-06-22"
     },
     {
       "id": 13089,
@@ -2919,8 +2925,10 @@
       "date": "2024-07-26T02:37:45",
       "modified": "2024-10-23T08:40:32",
       "link": "https://104.154.140.219/zinc/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-22T10:46:39.646156+00:00",
+      "rewritten_at": "2026-06-22"
     },
     {
       "id": 13071,
@@ -2928,8 +2936,10 @@
       "date": "2024-07-24T08:56:09",
       "modified": "2024-09-04T02:51:51",
       "link": "https://104.154.140.219/carbohydrates-are-important/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-22T10:46:39.646156+00:00",
+      "rewritten_at": "2026-06-22"
     },
     {
       "id": 13052,
