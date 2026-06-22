@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 246,
-    "reviewing": 67,
+    "done": 247,
+    "reviewing": 66,
     "pending": 91,
-    "last_sync": "2026-06-22T07:11:38.592333",
+    "last_sync": "2026-06-22T07:11:40.472973",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2063,10 +2063,11 @@
       "date": "2025-03-14T06:29:11",
       "modified": "2025-03-14T06:32:26",
       "link": "https://104.154.140.219/anemia/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正表格過量問題＋移除重複內容區塊（原稿被誤附加在文末）",
       "reviewed_at": "2026-06-17T03:36:57Z",
-      "rewritten_at": "2026-06-17"
+      "rewritten_at": "2026-06-17",
+      "approved_at": "2026-06-22 07:11"
     },
     {
       "id": 15526,
