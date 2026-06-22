@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 259,
-    "reviewing": 54,
+    "done": 260,
+    "reviewing": 53,
     "pending": 91,
-    "last_sync": "2026-06-22T07:36:16.760690",
+    "last_sync": "2026-06-22T07:36:18.630734",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2286,10 +2286,11 @@
       "date": "2025-02-03T09:15:14",
       "modified": "2025-02-03T09:15:18",
       "link": "https://104.154.140.219/dietary-fiber-for-weight-loss/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-18T06:01:50Z",
-      "rewritten_at": "2026-06-18"
+      "rewritten_at": "2026-06-18",
+      "approved_at": "2026-06-22 07:36"
     },
     {
       "id": 15081,
