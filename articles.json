@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 238,
-    "reviewing": 75,
+    "done": 239,
+    "reviewing": 74,
     "pending": 91,
-    "last_sync": "2026-06-22T06:31:12.707847",
+    "last_sync": "2026-06-22T06:31:14.595958",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -1979,10 +1979,11 @@
       "date": "2025-04-02T02:31:46",
       "modified": "2025-04-02T02:32:36",
       "link": "https://104.154.140.219/4-major-benefits-of-astaxanthin/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正表格過量問題（補回說明文字）",
       "reviewed_at": "2026-06-17T03:43:15Z",
-      "rewritten_at": "2026-06-17"
+      "rewritten_at": "2026-06-17",
+      "approved_at": "2026-06-22 06:31"
     },
     {
       "id": 15663,
