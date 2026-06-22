@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 256,
-    "reviewing": 57,
+    "done": 257,
+    "reviewing": 56,
     "pending": 91,
-    "last_sync": "2026-06-22T07:11:56.600528",
+    "last_sync": "2026-06-22T07:11:58.308634",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2239,10 +2239,11 @@
       "date": "2025-02-10T02:42:06",
       "modified": "2025-02-10T02:42:16",
       "link": "https://104.154.140.219/postpartum-hair-loss/",
-      "status": "reviewing",
+      "status": "done",
       "note": "內容目錄消失",
       "rewritten_at": "2026-06-17",
-      "reviewed_at": "2026-06-17T05:48:20Z"
+      "reviewed_at": "2026-06-17T05:48:20Z",
+      "approved_at": "2026-06-22 07:11"
     },
     {
       "id": 15159,
