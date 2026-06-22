@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 239,
-    "reviewing": 74,
+    "done": 240,
+    "reviewing": 73,
     "pending": 91,
-    "last_sync": "2026-06-22T06:31:14.595958",
+    "last_sync": "2026-06-22T06:31:16.526612",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -1991,10 +1991,11 @@
       "date": "2025-03-27T10:25:48",
       "modified": "2025-03-27T10:30:21",
       "link": "https://104.154.140.219/fatty-liver-disease/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正表格過量問題（補回說明文字）",
       "reviewed_at": "2026-06-17T03:43:15Z",
-      "rewritten_at": "2026-06-17"
+      "rewritten_at": "2026-06-17",
+      "approved_at": "2026-06-22 06:31"
     },
     {
       "id": 15664,
