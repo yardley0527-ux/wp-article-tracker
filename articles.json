@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 237,
-    "reviewing": 76,
+    "done": 238,
+    "reviewing": 75,
     "pending": 91,
-    "last_sync": "2026-06-22T06:31:10.819421",
+    "last_sync": "2026-06-22T06:31:12.707847",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -1967,10 +1967,11 @@
       "date": "2025-04-02T11:51:41",
       "modified": "2025-04-10T11:55:55",
       "link": "https://104.154.140.219/monde-selection/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正表格過量問題（補回說明文字）",
       "rewritten_at": "2026-06-17",
-      "reviewed_at": "2026-06-17T03:43:15Z"
+      "reviewed_at": "2026-06-17T03:43:15Z",
+      "approved_at": "2026-06-22 06:31"
     },
     {
       "id": 15708,
