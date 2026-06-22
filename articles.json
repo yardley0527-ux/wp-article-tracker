@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 244,
-    "reviewing": 69,
+    "done": 245,
+    "reviewing": 68,
     "pending": 91,
-    "last_sync": "2026-06-22T06:35:01.343538",
+    "last_sync": "2026-06-22T07:11:36.952022",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2039,10 +2039,11 @@
       "date": "2025-03-19T08:04:00",
       "modified": "2025-03-19T08:04:01",
       "link": "https://104.154.140.219/structure-and-function-of-the-eyes/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正表格過量問題（補回說明文字）",
       "reviewed_at": "2026-06-17T03:43:15Z",
-      "rewritten_at": "2026-06-17"
+      "rewritten_at": "2026-06-17",
+      "approved_at": "2026-06-22 07:11"
     },
     {
       "id": 15572,
