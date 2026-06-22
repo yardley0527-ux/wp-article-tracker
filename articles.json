@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 233,
-    "reviewing": 80,
+    "done": 234,
+    "reviewing": 79,
     "pending": 91,
-    "last_sync": "2026-06-20T07:44:22.050569",
+    "last_sync": "2026-06-22T06:31:05.109861",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -1907,10 +1907,11 @@
       "date": "2025-04-22T07:19:43",
       "modified": "2025-04-22T07:23:03",
       "link": "https://104.154.140.219/anti-blue-light/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正表格過量問題（補回說明文字）",
       "rewritten_at": "2026-06-17",
-      "reviewed_at": "2026-06-17T03:48:56Z"
+      "reviewed_at": "2026-06-17T03:48:56Z",
+      "approved_at": "2026-06-22 06:31"
     },
     {
       "id": 15864,
