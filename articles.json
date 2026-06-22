@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 257,
-    "reviewing": 56,
+    "done": 258,
+    "reviewing": 55,
     "pending": 91,
-    "last_sync": "2026-06-22T07:35:51.719447",
+    "last_sync": "2026-06-22T07:35:55.750778",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2262,10 +2262,11 @@
       "date": "2025-02-06T06:31:51",
       "modified": "2025-02-06T08:57:08",
       "link": "https://104.154.140.219/vaginitis-causes-symptoms-and-diagnosis/",
-      "status": "reviewing",
+      "status": "done",
       "note": "內容目錄消失",
       "rewritten_at": "2026-06-17",
-      "reviewed_at": "2026-06-17T05:48:20Z"
+      "reviewed_at": "2026-06-17T05:48:20Z",
+      "approved_at": "2026-06-22 07:35"
     },
     {
       "id": 15123,
