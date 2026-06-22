@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 250,
-    "reviewing": 63,
+    "done": 251,
+    "reviewing": 62,
     "pending": 91,
-    "last_sync": "2026-06-22T07:11:45.661562",
+    "last_sync": "2026-06-22T07:11:47.353755",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2111,10 +2111,11 @@
       "date": "2025-03-10T02:29:41",
       "modified": "2025-03-10T02:29:43",
       "link": "https://104.154.140.219/allergic-rhinitis/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正表格過量問題（補回說明文字）",
       "reviewed_at": "2026-06-17T03:36:57Z",
-      "rewritten_at": "2026-06-17"
+      "rewritten_at": "2026-06-17",
+      "approved_at": "2026-06-22 07:11"
     },
     {
       "id": 15411,
