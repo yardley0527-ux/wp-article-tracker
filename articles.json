@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 261,
-    "reviewing": 72,
+    "done": 262,
+    "reviewing": 71,
     "pending": 71,
-    "last_sync": "2026-06-23T03:39:56.057062",
+    "last_sync": "2026-06-23T03:40:10.828519",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2529,10 +2529,11 @@
       "date": "2024-11-28T08:15:11",
       "modified": "2024-11-28T08:15:13",
       "link": "https://104.154.140.219/bloating-causes-and-prevention-tips/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-20T07:01:25.118133",
-      "rewritten_at": "2026-06-20"
+      "rewritten_at": "2026-06-20",
+      "approved_at": "2026-06-23 03:40"
     },
     {
       "id": 14557,
