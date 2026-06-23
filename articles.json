@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 272,
-    "reviewing": 61,
+    "done": 273,
+    "reviewing": 60,
     "pending": 71,
-    "last_sync": "2026-06-23T04:55:46.150988",
+    "last_sync": "2026-06-23T07:31:36.427819",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2382,10 +2382,11 @@
       "date": "2025-01-10T08:28:58",
       "modified": "2025-01-10T11:20:57",
       "link": "https://104.154.140.219/collagen/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正圖片網域：34.86.39.209（已失效）→ 104.154.140.219",
       "reviewed_at": "2026-06-23T07:28:27Z",
-      "rewritten_at": "2026-06-18"
+      "rewritten_at": "2026-06-18",
+      "approved_at": "2026-06-23 07:31"
     },
     {
       "id": 14919,
