@@ -2,9 +2,9 @@
   "meta": {
     "total": 404,
     "done": 260,
-    "reviewing": 63,
-    "pending": 81,
-    "last_sync": "2026-06-22T07:36:18.630734",
+    "reviewing": 73,
+    "pending": 71,
+    "last_sync": "2026-06-23T03:36:22.005281",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2354,7 +2354,7 @@
       "modified": "2025-01-14T02:28:20",
       "link": "https://104.154.140.219/strategies-to-prevent-heart-disease/",
       "status": "reviewing",
-      "note": "",
+      "note": "美日雙專利高濃度薑黃+朝鮮薊應該改成三薑專利葛花薑黃EX黑薑\n",
       "reviewed_at": "2026-06-18T06:48:22Z",
       "rewritten_at": "2026-06-18"
     },
