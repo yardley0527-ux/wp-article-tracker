@@ -4,7 +4,7 @@
     "done": 272,
     "reviewing": 61,
     "pending": 71,
-    "last_sync": "2026-06-23T04:55:41.959150",
+    "last_sync": "2026-06-23T04:55:44.290538",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2473,7 +2473,7 @@
       "modified": "2024-12-18T06:52:37",
       "link": "https://104.154.140.219/what-is-metabolism/",
       "status": "reviewing",
-      "note": "",
+      "note": "圖跑不出來\n",
       "reviewed_at": "2026-06-18T07:37:22Z",
       "rewritten_at": "2026-06-18"
     },
