@@ -4,7 +4,7 @@
     "done": 271,
     "reviewing": 62,
     "pending": 71,
-    "last_sync": "2026-06-23T04:21:48.788316",
+    "last_sync": "2026-06-23T04:22:00.104939",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2651,7 +2651,7 @@
       "modified": "2025-06-03T10:41:22",
       "link": "https://104.154.140.219/miranda-kerr-skin-care-tips/",
       "status": "reviewing",
-      "note": "",
+      "note": "標題沒改成問句\n",
       "reviewed_at": "2026-06-20T07:33:25.740113",
       "rewritten_at": "2026-06-20"
     },
