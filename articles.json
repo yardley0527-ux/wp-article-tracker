@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 268,
-    "reviewing": 65,
+    "done": 269,
+    "reviewing": 64,
     "pending": 71,
-    "last_sync": "2026-06-23T04:17:13.558180",
+    "last_sync": "2026-06-23T04:17:15.471017",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2315,10 +2315,11 @@
       "date": "2025-01-21T07:22:12",
       "modified": "2025-01-21T07:22:14",
       "link": "https://104.154.140.219/immunity/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-18T06:01:50Z",
-      "rewritten_at": "2026-06-18"
+      "rewritten_at": "2026-06-18",
+      "approved_at": "2026-06-23 04:17"
     },
     {
       "id": 15040,
