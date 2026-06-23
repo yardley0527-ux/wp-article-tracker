@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 271,
-    "reviewing": 62,
+    "done": 272,
+    "reviewing": 61,
     "pending": 71,
-    "last_sync": "2026-06-23T04:22:20.738121",
+    "last_sync": "2026-06-23T04:22:24.684313",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2595,10 +2595,11 @@
       "date": "2024-11-18T02:28:12",
       "modified": "2024-11-18T02:28:13",
       "link": "https://104.154.140.219/kendall-jenner-skin-care-tips/",
-      "status": "reviewing",
+      "status": "done",
       "note": "",
       "reviewed_at": "2026-06-20T07:19:51.086117",
-      "rewritten_at": "2026-06-20"
+      "rewritten_at": "2026-06-20",
+      "approved_at": "2026-06-23 04:22"
     },
     {
       "id": 14409,
