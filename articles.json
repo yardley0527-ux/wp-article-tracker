@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 266,
-    "reviewing": 67,
+    "done": 267,
+    "reviewing": 66,
     "pending": 71,
-    "last_sync": "2026-06-23T04:17:09.252805",
+    "last_sync": "2026-06-23T04:17:11.180053",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2255,10 +2255,11 @@
       "date": "2025-02-07T09:32:53",
       "modified": "2025-02-20T08:45:59",
       "link": "https://104.154.140.219/migraine/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正產品名稱：B群+C鋅鎂全能膠囊 → 維生素B鋅C全能膠囊（連結、按鈕、圖片alt已同步更新）",
       "rewritten_at": "2026-06-23",
-      "reviewed_at": "2026-06-23T03:57:20Z"
+      "reviewed_at": "2026-06-23T03:57:20Z",
+      "approved_at": "2026-06-23 04:17"
     },
     {
       "id": 15138,
