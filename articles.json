@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 264,
-    "reviewing": 69,
+    "done": 265,
+    "reviewing": 68,
     "pending": 71,
-    "last_sync": "2026-06-23T04:17:05.526128",
+    "last_sync": "2026-06-23T04:17:07.424032",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2195,10 +2195,11 @@
       "date": "2025-02-17T06:19:14",
       "modified": "2025-02-17T11:53:35",
       "link": "https://104.154.140.219/chronic-inflammation/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正產品名稱：美日雙專利高濃度薑黃+朝鮮薊 → 三薑專利葛花薑黃EX黑薑（連結、按鈕、圖片alt與內文說明已同步更新）",
       "reviewed_at": "2026-06-23T03:31:12Z",
-      "rewritten_at": "2026-06-23"
+      "rewritten_at": "2026-06-23",
+      "approved_at": "2026-06-23 04:17"
     },
     {
       "id": 15238,
