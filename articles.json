@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 265,
-    "reviewing": 68,
+    "done": 266,
+    "reviewing": 67,
     "pending": 71,
-    "last_sync": "2026-06-23T04:17:07.424032",
+    "last_sync": "2026-06-23T04:17:09.252805",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2231,10 +2231,11 @@
       "date": "2025-02-11T04:53:20",
       "modified": "2025-02-11T04:53:22",
       "link": "https://104.154.140.219/cramps/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正產品名稱：美日雙專利高濃度薑黃+朝鮮薊 → 三薑專利葛花薑黃EX黑薑（連結、按鈕、圖片alt與內文說明已同步更新）",
       "rewritten_at": "2026-06-23",
-      "reviewed_at": "2026-06-23T03:31:12Z"
+      "reviewed_at": "2026-06-23T03:31:12Z",
+      "approved_at": "2026-06-23 04:17"
     },
     {
       "id": 15180,
