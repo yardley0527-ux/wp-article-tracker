@@ -3071,9 +3071,10 @@
       "date": "2024-07-09T02:46:06",
       "modified": "2024-09-04T02:56:02",
       "link": "https://104.154.140.219/30-vegetarian-foods-part-1/",
-      "status": "pending",
-      "note": "已修正圖片網域：34.86.39.209（已失效）→ 104.154.140.219",
-      "reviewed_at": "2026-06-23T07:28:27Z"
+      "status": "reviewing",
+      "note": "上篇文章：10個食物的個別營養表（10張）合併成1張總覽速查表，符合表格數上限；新增16題FAQ；標題改問句",
+      "reviewed_at": "2026-06-23T08:26:26Z",
+      "rewritten_at": "2026-06-23"
     },
     {
       "id": 6702,
@@ -3081,8 +3082,10 @@
       "date": "2024-07-05T09:31:46",
       "modified": "2024-10-24T02:20:10",
       "link": "https://104.154.140.219/three-major-acids-from-fruits-and-vegetables/",
-      "status": "pending",
-      "note": "原標記為已改寫但實際內文未改寫，改回 pending 重新排程"
+      "status": "reviewing",
+      "note": "文章已相當成熟（69KB/50圖/8題FAQ），採用surgical fix：只補強FAQ至16題、緊縮前言為Answer-First、標題改問句，原有40+標題與圖片全部保留不動",
+      "reviewed_at": "2026-06-23T08:26:26Z",
+      "rewritten_at": "2026-06-23"
     },
     {
       "id": 12398,
@@ -3090,8 +3093,10 @@
       "date": "2024-07-04T02:38:26",
       "modified": "2024-09-04T03:07:34",
       "link": "https://104.154.140.219/vegetables-fruits-nuts-whole-grains/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "全篇改寫：2個列表（堅果份量、彩虹579份數）合併成2張表，符合上限；新增15題FAQ；標題改問句；保留13張圖與延伸閱讀連結",
+      "reviewed_at": "2026-06-23T08:26:26Z",
+      "rewritten_at": "2026-06-23"
     },
     {
       "id": 12321,
@@ -3099,8 +3104,10 @@
       "date": "2024-07-03T02:27:52",
       "modified": "2024-07-03T02:27:53",
       "link": "https://104.154.140.219/reduce-edema-fruits-and-vegetables/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "全篇改寫：35項食物清單合併成2張表（高鉀蔬果表、利尿蔬果表）；新增16題FAQ；標題改問句；保留12張圖（原文無產品按鈕，維持無產品結構）",
+      "reviewed_at": "2026-06-23T08:26:26Z",
+      "rewritten_at": "2026-06-23"
     },
     {
       "id": 12313,
@@ -3108,8 +3115,10 @@
       "date": "2024-07-02T02:32:06",
       "modified": "2024-09-04T03:07:46",
       "link": "https://104.154.140.219/three-major-glands/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "全篇改寫：12症狀列表與6項研究數據各整理成1張表（共2張）；新增16題FAQ；標題改問句；保留17張圖與10個研究連結（原文無產品按鈕，維持無產品結構）",
+      "reviewed_at": "2026-06-23T08:26:26Z",
+      "rewritten_at": "2026-06-23"
     },
     {
       "id": 12281,
