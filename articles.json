@@ -4,7 +4,7 @@
     "done": 271,
     "reviewing": 62,
     "pending": 71,
-    "last_sync": "2026-06-23T04:19:36.829846",
+    "last_sync": "2026-06-23T04:21:14.560141",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2607,7 +2607,7 @@
       "modified": "2024-11-14T04:50:52",
       "link": "https://104.154.140.219/nicole-kidman-skin-care-tips/",
       "status": "reviewing",
-      "note": "",
+      "note": "標題沒改成問句\n",
       "reviewed_at": "2026-06-20T07:19:51.086117",
       "rewritten_at": "2026-06-20"
     },
