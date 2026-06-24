@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 292,
-    "reviewing": 71,
+    "done": 293,
+    "reviewing": 70,
     "pending": 41,
-    "last_sync": "2026-06-24T06:26:34.189816",
+    "last_sync": "2026-06-24T06:26:36.003116",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2636,10 +2636,11 @@
       "date": "2024-11-14T04:50:51",
       "modified": "2024-11-14T04:50:52",
       "link": "https://104.154.140.219/nicole-kidman-skin-care-tips/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正：標題改成問句「妮可基嫚57歲為何像「防腐級凍齡」？極致美顏與超狂腹肌7大養成術解密」；全站圖片網域修復：34.86.39.209（已失效）→ 104.154.140.219",
       "reviewed_at": "2026-06-23T07:28:27Z",
-      "rewritten_at": "2026-06-23"
+      "rewritten_at": "2026-06-23",
+      "approved_at": "2026-06-24 06:26"
     },
     {
       "id": 14394,
