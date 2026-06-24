@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 277,
-    "reviewing": 81,
+    "done": 278,
+    "reviewing": 80,
     "pending": 46,
-    "last_sync": "2026-06-24T05:17:02.400276",
+    "last_sync": "2026-06-24T05:17:04.234020",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2420,10 +2420,11 @@
       "date": "2025-01-06T08:55:05",
       "modified": "2025-01-06T08:55:06",
       "link": "https://104.154.140.219/osteoporosis/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正：圖片網域34.86.39.209已失效，改成104.154.140.219；產品名稱美日雙專利高濃度薑黃+朝鮮薊 → 三薑專利葛花薑黃EX黑薑（含獨立技術敘述句一併修正）",
       "reviewed_at": "2026-06-23T06:34:54Z",
-      "rewritten_at": "2026-06-23"
+      "rewritten_at": "2026-06-23",
+      "approved_at": "2026-06-24 05:17"
     },
     {
       "id": 14861,
