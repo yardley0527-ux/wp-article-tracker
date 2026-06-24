@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 294,
-    "reviewing": 69,
+    "done": 295,
+    "reviewing": 68,
     "pending": 41,
-    "last_sync": "2026-06-24T06:58:08.986931",
+    "last_sync": "2026-06-24T06:58:10.793900",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2660,10 +2660,11 @@
       "date": "2024-11-08T07:12:22",
       "modified": "2024-11-08T07:14:53",
       "link": "https://104.154.140.219/jennifer-anniston-skin-care-tips/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正：標題改成問句「珍妮佛安妮斯頓55歲為何看起來像30歲？終極抗老7大秘方與人生十大智慧格言」；全站圖片網域修復：34.86.39.209（已失效）→ 104.154.140.219",
       "reviewed_at": "2026-06-23T07:28:27Z",
-      "rewritten_at": "2026-06-23"
+      "rewritten_at": "2026-06-23",
+      "approved_at": "2026-06-24 06:58"
     },
     {
       "id": 14358,
