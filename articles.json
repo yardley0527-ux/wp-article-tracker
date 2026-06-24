@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 276,
-    "reviewing": 77,
-    "pending": 51,
+    "reviewing": 82,
+    "pending": 46,
     "last_sync": "2026-06-24T03:49:53.485493",
     "last_updated": "2026-06-20"
   },
@@ -3293,8 +3293,10 @@
       "date": "2024-06-13T10:50:40",
       "modified": "2024-10-24T03:07:25",
       "link": "https://104.154.140.219/phytochemicals/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-24T04:36:26Z",
+      "rewritten_at": "2026-06-24"
     },
     {
       "id": 11445,
@@ -3302,8 +3304,10 @@
       "date": "2024-06-12T09:54:06",
       "modified": "2024-10-24T03:08:17",
       "link": "https://104.154.140.219/uterine-myoma/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-24T04:36:26Z",
+      "rewritten_at": "2026-06-24"
     },
     {
       "id": 11414,
@@ -3311,8 +3315,10 @@
       "date": "2024-06-11T09:24:47",
       "modified": "2024-06-11T09:24:47",
       "link": "https://104.154.140.219/2024-self-discipline-and-beauty-plan/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-24T04:36:26Z",
+      "rewritten_at": "2026-06-24"
     },
     {
       "id": 11358,
@@ -3320,8 +3326,10 @@
       "date": "2024-06-05T08:26:29",
       "modified": "2024-10-24T03:09:16",
       "link": "https://104.154.140.219/turmeric-research/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-24T04:36:26Z",
+      "rewritten_at": "2026-06-24"
     },
     {
       "id": 11331,
@@ -3329,8 +3337,10 @@
       "date": "2024-06-04T09:11:53",
       "modified": "2024-10-24T03:04:04",
       "link": "https://104.154.140.219/liver-protective-nutrients/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-24T04:36:26Z",
+      "rewritten_at": "2026-06-24"
     },
     {
       "id": 11304,
