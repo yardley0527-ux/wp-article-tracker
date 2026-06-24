@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 283,
-    "reviewing": 75,
+    "done": 284,
+    "reviewing": 74,
     "pending": 46,
-    "last_sync": "2026-06-24T05:52:24.893602",
+    "last_sync": "2026-06-24T05:52:26.783320",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2492,10 +2492,11 @@
       "date": "2024-12-18T06:52:37",
       "modified": "2024-12-18T06:52:37",
       "link": "https://104.154.140.219/what-is-metabolism/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正：圖片網域34.86.39.209已失效，改成104.154.140.219",
       "reviewed_at": "2026-06-23T06:34:54Z",
-      "rewritten_at": "2026-06-23"
+      "rewritten_at": "2026-06-23",
+      "approved_at": "2026-06-24 05:52"
     },
     {
       "id": 14771,
