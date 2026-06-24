@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 280,
-    "reviewing": 78,
+    "done": 281,
+    "reviewing": 77,
     "pending": 46,
-    "last_sync": "2026-06-24T05:17:07.805549",
+    "last_sync": "2026-06-24T05:17:09.620640",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2456,10 +2456,11 @@
       "date": "2024-12-30T10:11:27",
       "modified": "2024-12-30T10:12:36",
       "link": "https://104.154.140.219/endometriosis/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正：圖片網域34.86.39.209已失效，改成104.154.140.219；產品名稱美日雙專利高濃度薑黃+朝鮮薊 → 三薑專利葛花薑黃EX黑薑",
       "reviewed_at": "2026-06-23T06:34:54Z",
-      "rewritten_at": "2026-06-23"
+      "rewritten_at": "2026-06-23",
+      "approved_at": "2026-06-24 05:17"
     },
     {
       "id": 14519,
