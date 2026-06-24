@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 284,
-    "reviewing": 74,
+    "done": 285,
+    "reviewing": 73,
     "pending": 46,
-    "last_sync": "2026-06-24T05:52:26.783320",
+    "last_sync": "2026-06-24T05:52:28.181729",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2504,10 +2504,11 @@
       "date": "2024-12-17T09:02:34",
       "modified": "2024-12-17T09:03:39",
       "link": "https://104.154.140.219/chronic-fatigue-syndrome/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正：圖片網域34.86.39.209已失效，改成104.154.140.219；產品名稱B群+C鋅鎂全能膠囊 → 維生素B鋅C全能膠囊",
       "reviewed_at": "2026-06-23T06:34:54Z",
-      "rewritten_at": "2026-06-23"
+      "rewritten_at": "2026-06-23",
+      "approved_at": "2026-06-24 05:52"
     },
     {
       "id": 14666,
