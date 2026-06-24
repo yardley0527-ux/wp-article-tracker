@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 291,
-    "reviewing": 72,
+    "done": 292,
+    "reviewing": 71,
     "pending": 41,
-    "last_sync": "2026-06-24T06:26:32.435835",
+    "last_sync": "2026-06-24T06:26:34.189816",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2612,10 +2612,11 @@
       "date": "2024-11-18T14:58:16",
       "modified": "2024-12-04T07:23:00",
       "link": "https://104.154.140.219/7-healthy-eating-tips-that-can-help-reduce-inflammation/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正產品名稱：美日雙專利高濃度薑黃+朝鮮薊 → 三薑專利葛花薑黃EX黑薑（連結、按鈕、圖片alt已同步更新）；全站圖片網域修復：34.86.39.209（已失效）→ 104.154.140.219",
       "reviewed_at": "2026-06-23T07:28:27Z",
-      "rewritten_at": "2026-06-23"
+      "rewritten_at": "2026-06-23",
+      "approved_at": "2026-06-24 06:26"
     },
     {
       "id": 14451,
