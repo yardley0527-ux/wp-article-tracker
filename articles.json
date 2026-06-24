@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 286,
-    "reviewing": 72,
-    "pending": 46,
+    "reviewing": 77,
+    "pending": 41,
     "last_sync": "2026-06-24T05:52:29.750813",
     "last_updated": "2026-06-20"
   },
@@ -3358,8 +3358,10 @@
       "date": "2024-06-03T09:28:26",
       "modified": "2024-10-24T03:01:45",
       "link": "https://104.154.140.219/ginfort/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-24T06:22:41Z",
+      "rewritten_at": "2026-06-24"
     },
     {
       "id": 11262,
@@ -3367,8 +3369,10 @@
       "date": "2024-05-09T03:22:33",
       "modified": "2024-10-23T08:45:10",
       "link": "https://104.154.140.219/%e3%80%8c%e7%b6%ad%e7%94%9f%e7%b4%a0b12-%e9%ab%94%e5%85%a7%e8%83%bd%e9%87%8f%e7%9a%84%e7%81%ab%e8%8a%b1%ef%bc%8c%e6%94%af%e6%8c%81%e7%a5%9e%e7%b6%93%e7%b3%bb%e7%b5%b1%e8%88%87%e7%b4%85/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-24T06:22:41Z",
+      "rewritten_at": "2026-06-24"
     },
     {
       "id": 11257,
@@ -3376,8 +3380,10 @@
       "date": "2024-05-08T02:56:21",
       "modified": "2024-10-23T08:46:15",
       "link": "https://104.154.140.219/%e3%80%8c%e7%b6%ad%e7%94%9f%e7%b4%a0b9-%e5%ad%95%e8%82%b2%e5%81%a5%e5%ba%b7%e7%9a%84%e9%97%9c%e9%8d%b5%ef%bc%8c%e4%bf%83%e9%80%b2%e7%b4%b0%e8%83%9e%e7%94%9f%e9%95%b7%e8%88%87%e4%bf%ae%e5%be%a9/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-24T06:22:41Z",
+      "rewritten_at": "2026-06-24"
     },
     {
       "id": 11247,
@@ -3385,8 +3391,10 @@
       "date": "2024-05-07T03:14:16",
       "modified": "2024-10-23T08:17:58",
       "link": "https://104.154.140.219/vitamin-b7-secret-to-beautiful-hair-skin-and-nails/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-24T06:22:41Z",
+      "rewritten_at": "2026-06-24"
     },
     {
       "id": 11229,
@@ -3394,8 +3402,10 @@
       "date": "2024-05-07T02:51:36",
       "modified": "2024-10-23T08:28:12",
       "link": "https://104.154.140.219/%e3%80%8c%e7%b6%ad%e7%94%9f%e7%b4%a0b6%e3%80%8d-%e6%82%a8%e7%9a%84%e7%a5%9e%e7%b6%93%e4%bf%9d%e8%ad%b7%e5%82%98%e3%80%81%e5%bf%83%e7%90%86%e5%81%a5%e5%ba%b7%e5%ae%88%e9%96%80%e5%93%a1%ef%bc%81/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-24T06:22:41Z",
+      "rewritten_at": "2026-06-24"
     },
     {
       "id": 11211,
