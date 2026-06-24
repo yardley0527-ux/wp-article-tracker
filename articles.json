@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 286,
-    "reviewing": 77,
+    "done": 287,
+    "reviewing": 76,
     "pending": 41,
-    "last_sync": "2026-06-24T05:52:29.750813",
+    "last_sync": "2026-06-24T06:26:25.329265",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2528,10 +2528,11 @@
       "date": "2024-12-05T09:39:32",
       "modified": "2024-12-05T09:44:41",
       "link": "https://104.154.140.219/breast-cancer-prevention/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正產品名稱：美日雙專利高濃度薑黃+朝鮮薊 → 三薑專利葛花薑黃EX黑薑（連結、按鈕、圖片alt已同步更新）；全站圖片網域修復：34.86.39.209（已失效）→ 104.154.140.219",
       "reviewed_at": "2026-06-23T07:28:27Z",
-      "rewritten_at": "2026-06-23"
+      "rewritten_at": "2026-06-23",
+      "approved_at": "2026-06-24 06:26"
     },
     {
       "id": 14621,
