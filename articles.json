@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 281,
-    "reviewing": 77,
+    "done": 282,
+    "reviewing": 76,
     "pending": 46,
-    "last_sync": "2026-06-24T05:17:09.620640",
+    "last_sync": "2026-06-24T05:52:23.117038",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2468,10 +2468,11 @@
       "date": "2024-12-25T05:40:00",
       "modified": "2024-12-02T07:54:47",
       "link": "https://104.154.140.219/what-is-the-inflammatory-index/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正產品名稱：美日雙專利高濃度薑黃+朝鮮薊 → 三薑專利葛花薑黃EX黑薑（連結、按鈕、圖片alt與內文說明已同步更新，並移除朝鮮薊舊配方描述，改寫成三薑黃金循環敘述）；全站圖片網域修復：34.86.39.209（已失效）→ 104.154.140.219",
       "reviewed_at": "2026-06-23T07:28:27Z",
-      "rewritten_at": "2026-06-23"
+      "rewritten_at": "2026-06-23",
+      "approved_at": "2026-06-24 05:52"
     },
     {
       "id": 14429,
