@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 289,
-    "reviewing": 74,
+    "done": 290,
+    "reviewing": 73,
     "pending": 41,
-    "last_sync": "2026-06-24T06:26:28.725441",
+    "last_sync": "2026-06-24T06:26:30.593830",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2552,10 +2552,11 @@
       "date": "2024-12-02T08:20:15",
       "modified": "2024-12-02T08:20:15",
       "link": "https://104.154.140.219/why-do-i-gain-weight-when-i-eat-less/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正產品名稱：B群+C鋅鎂全能膠囊（含「全能膠囊B群+C鋅鎂」變體）→ 維生素B鋅C全能膠囊；全站圖片網域修復：34.86.39.209（已失效）→ 104.154.140.219",
       "reviewed_at": "2026-06-23T07:28:27Z",
-      "rewritten_at": "2026-06-23"
+      "rewritten_at": "2026-06-23",
+      "approved_at": "2026-06-24 06:26"
     },
     {
       "id": 14579,
