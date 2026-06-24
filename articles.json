@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 296,
-    "reviewing": 67,
+    "done": 297,
+    "reviewing": 66,
     "pending": 41,
-    "last_sync": "2026-06-24T06:58:12.525464",
+    "last_sync": "2026-06-24T06:58:14.536955",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2684,10 +2684,11 @@
       "date": "2024-11-05T08:45:01",
       "modified": "2025-06-03T10:41:22",
       "link": "https://104.154.140.219/miranda-kerr-skin-care-tips/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正：標題改成問句「超模辣媽米蘭達可兒41歲如何逆天凍齡？事業美麗兼顧的青春密碼解析」；全站圖片網域修復：34.86.39.209（已失效）→ 104.154.140.219",
       "reviewed_at": "2026-06-23T07:28:27Z",
-      "rewritten_at": "2026-06-23"
+      "rewritten_at": "2026-06-23",
+      "approved_at": "2026-06-24 06:58"
     },
     {
       "id": 14302,
