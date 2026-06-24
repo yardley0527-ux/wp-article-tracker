@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 276,
-    "reviewing": 82,
+    "done": 277,
+    "reviewing": 81,
     "pending": 46,
-    "last_sync": "2026-06-24T03:49:53.485493",
+    "last_sync": "2026-06-24T05:17:02.400276",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2408,10 +2408,11 @@
       "date": "2025-01-07T10:07:38",
       "modified": "2025-01-07T10:07:40",
       "link": "https://104.154.140.219/skin-whitening/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正產品名稱：白藜蘆醇NMN原生植萃膠囊 → 光透冰晶蕃茄白藜蘆醇亮妍膠囊（連結href已統一改為新分類頁categories/nmn-crystal-clear-whitening-capsules）；全站圖片網域修復：34.86.39.209（已失效）→ 104.154.140.219",
       "reviewed_at": "2026-06-23T07:28:27Z",
-      "rewritten_at": "2026-06-23"
+      "rewritten_at": "2026-06-23",
+      "approved_at": "2026-06-24 05:17"
     },
     {
       "id": 14884,
