@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 305,
-    "reviewing": 68,
+    "done": 306,
+    "reviewing": 67,
     "pending": 31,
-    "last_sync": "2026-06-25T05:10:55.933453",
+    "last_sync": "2026-06-25T05:10:57.702971",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2780,10 +2780,11 @@
       "date": "2024-10-15T09:23:33",
       "modified": "2024-10-24T06:41:13",
       "link": "https://104.154.140.219/can-b-vitamins-help-you-sleep/",
-      "status": "reviewing",
+      "status": "done",
       "note": "全站掃描補修（reviewing狀態）：已修正舊產品名稱（B群+C鋅鎂全能膠囊→維生素B鋅C全能膠囊 和/或 美日雙專利高濃度薑黃+朝鮮薊→三薑專利葛花薑黃EX黑薑，含多種命名變體）\n沒有結語 且結尾沒有提到維生素B鋅C全能膠囊的特色優勢 | 2026-06-25 修正Della審核回饋：標題改問句／補結語段落明確點出產品特色優勢／補回文末產品連結。狀態維持reviewing等複審。",
       "reviewed_at": "2026-06-25T04:12:35Z",
-      "rewritten_at": "2026-06-20"
+      "rewritten_at": "2026-06-20",
+      "approved_at": "2026-06-25 05:10"
     },
     {
       "id": 8425,
