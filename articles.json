@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 306,
-    "reviewing": 67,
+    "done": 307,
+    "reviewing": 66,
     "pending": 31,
-    "last_sync": "2026-06-25T05:34:55.251327",
+    "last_sync": "2026-06-25T05:39:17.844680",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -3114,10 +3114,11 @@
       "date": "2024-07-05T09:31:46",
       "modified": "2024-10-24T02:20:10",
       "link": "https://104.154.140.219/three-major-acids-from-fruits-and-vegetables/",
-      "status": "reviewing",
+      "status": "done",
       "note": "文章已相當成熟（69KB/50圖/8題FAQ），採用surgical fix：只補強FAQ至16題、緊縮前言為Answer-First、標題改問句，原有40+標題與圖片全部保留不動",
       "reviewed_at": "2026-06-23T08:26:26Z",
-      "rewritten_at": "2026-06-23"
+      "rewritten_at": "2026-06-23",
+      "approved_at": "2026-06-25 05:39"
     },
     {
       "id": 12398,
