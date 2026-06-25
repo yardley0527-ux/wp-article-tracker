@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 299,
-    "reviewing": 74,
+    "done": 300,
+    "reviewing": 73,
     "pending": 31,
-    "last_sync": "2026-06-25T05:08:24.788883",
+    "last_sync": "2026-06-25T05:08:26.571379",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2708,10 +2708,11 @@
       "date": "2024-11-01T05:20:11",
       "modified": "2024-11-01T05:21:30",
       "link": "https://104.154.140.219/anne-hathaways-skin-care-tips/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正圖片網域：34.86.39.209（已失效）→ 104.154.140.219\n標題沒改成問句 | 2026-06-25 修正Della審核回饋：標題改問句／補結語段落明確點出產品特色優勢／補回文末產品連結。狀態維持reviewing等複審。",
       "reviewed_at": "2026-06-25T04:12:35Z",
-      "rewritten_at": "2026-06-20"
+      "rewritten_at": "2026-06-20",
+      "approved_at": "2026-06-25 05:08"
     },
     {
       "id": 14215,
