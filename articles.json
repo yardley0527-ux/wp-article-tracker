@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 298,
-    "reviewing": 65,
-    "pending": 41,
+    "reviewing": 70,
+    "pending": 36,
     "last_sync": "2026-06-24T07:08:06.125889",
     "last_updated": "2026-06-20"
   },
@@ -3425,8 +3425,10 @@
       "date": "2024-04-30T11:16:50",
       "modified": "2024-10-23T08:30:18",
       "link": "https://104.154.140.219/vitamin-b5/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-25T03:33:56Z",
+      "rewritten_at": "2026-06-25"
     },
     {
       "id": 11197,
@@ -3434,8 +3436,10 @@
       "date": "2024-04-30T07:23:01",
       "modified": "2024-10-23T08:31:56",
       "link": "https://104.154.140.219/vitamin-b3/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-25T03:33:56Z",
+      "rewritten_at": "2026-06-25"
     },
     {
       "id": 11178,
@@ -3443,8 +3447,10 @@
       "date": "2024-04-29T09:59:23",
       "modified": "2024-10-23T08:33:10",
       "link": "https://104.154.140.219/vitamin-b2/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-25T03:33:56Z",
+      "rewritten_at": "2026-06-25"
     },
     {
       "id": 11159,
@@ -3452,8 +3458,10 @@
       "date": "2024-04-26T10:33:48",
       "modified": "2024-10-23T08:34:04",
       "link": "https://104.154.140.219/vitamin-b1/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-25T03:33:56Z",
+      "rewritten_at": "2026-06-25"
     },
     {
       "id": 11127,
@@ -3461,8 +3469,10 @@
       "date": "2024-04-26T02:58:03",
       "modified": "2024-10-23T08:35:07",
       "link": "https://104.154.140.219/prevent-hair-loss/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-25T03:33:56Z",
+      "rewritten_at": "2026-06-25"
     },
     {
       "id": 11107,
