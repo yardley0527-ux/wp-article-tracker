@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 304,
-    "reviewing": 69,
+    "done": 305,
+    "reviewing": 68,
     "pending": 31,
-    "last_sync": "2026-06-25T05:10:54.125255",
+    "last_sync": "2026-06-25T05:10:55.933453",
     "last_updated": "2026-06-20"
   },
   "articles": [
@@ -2768,10 +2768,11 @@
       "date": "2024-10-24T10:09:42",
       "modified": "2024-10-24T10:09:43",
       "link": "https://104.154.140.219/211-plate-weight-loss/",
-      "status": "reviewing",
+      "status": "done",
       "note": "全站掃描補修（reviewing狀態）：已修正舊產品名稱（B群+C鋅鎂全能膠囊→維生素B鋅C全能膠囊 和/或 美日雙專利高濃度薑黃+朝鮮薊→三薑專利葛花薑黃EX黑薑，含多種命名變體）\n總結的部分沒有提到維生素B鋅C全能膠囊的特色優勢 | 2026-06-25 修正Della審核回饋：標題改問句／補結語段落明確點出產品特色優勢／補回文末產品連結。狀態維持reviewing等複審。",
       "reviewed_at": "2026-06-25T04:12:35Z",
-      "rewritten_at": "2026-06-20"
+      "rewritten_at": "2026-06-20",
+      "approved_at": "2026-06-25 05:10"
     },
     {
       "id": 13829,
