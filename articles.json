@@ -2,8 +2,8 @@
   "meta": {
     "total": 404,
     "done": 298,
-    "reviewing": 70,
-    "pending": 36,
+    "reviewing": 75,
+    "pending": 31,
     "last_sync": "2026-06-24T07:08:06.125889",
     "last_updated": "2026-06-20"
   },
@@ -3480,8 +3480,10 @@
       "date": "2024-04-23T09:41:16",
       "modified": "2024-10-23T08:36:16",
       "link": "https://104.154.140.219/4-types-of-vitamin-b-complex/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-25T03:57:24Z",
+      "rewritten_at": "2026-06-25"
     },
     {
       "id": 11074,
@@ -3489,8 +3491,10 @@
       "date": "2024-04-22T03:12:31",
       "modified": "2024-10-23T08:37:17",
       "link": "https://104.154.140.219/turmeric-with-vitamins/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-25T03:57:24Z",
+      "rewritten_at": "2026-06-25"
     },
     {
       "id": 11050,
@@ -3498,8 +3502,10 @@
       "date": "2024-04-03T02:44:37",
       "modified": "2024-09-04T02:26:34",
       "link": "https://104.154.140.219/211-2/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-25T03:57:24Z",
+      "rewritten_at": "2026-06-25"
     },
     {
       "id": 11018,
@@ -3507,8 +3513,10 @@
       "date": "2024-03-29T05:06:16",
       "modified": "2024-10-24T02:22:07",
       "link": "https://104.154.140.219/metabolism/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-25T03:57:24Z",
+      "rewritten_at": "2026-06-25"
     },
     {
       "id": 10992,
@@ -3516,8 +3524,10 @@
       "date": "2024-03-26T10:29:38",
       "modified": "2024-09-04T03:17:52",
       "link": "https://104.154.140.219/metabolic-syndrome/",
-      "status": "pending",
-      "note": ""
+      "status": "reviewing",
+      "note": "",
+      "reviewed_at": "2026-06-25T03:57:24Z",
+      "rewritten_at": "2026-06-25"
     },
     {
       "id": 10867,
