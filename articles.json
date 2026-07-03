@@ -2,9 +2,9 @@
   "meta": {
     "total": 404,
     "done": 349,
-    "reviewing": 54,
-    "pending": 1,
-    "last_sync": "2026-07-03T07:49:57.009032",
+    "reviewing": 55,
+    "pending": 0,
+    "last_sync": "2026-07-03T07:49:58.788587",
     "last_updated": "2026-06-26"
   },
   "articles": [
@@ -3392,7 +3392,7 @@
       "date": "2024-06-14T12:26:29",
       "modified": "2024-10-24T03:11:08",
       "link": "https://104.154.140.219/turmeric-and-blood-sugar-control/",
-      "status": "pending",
+      "status": "reviewing",
       "note": "全篇改寫（薑黃薑研究敘述保留深度不表格化）：新增16題FAQ；標題改問句；保留13張圖、按鈕與延伸閱讀連結；補修產品名稱美日雙專利→三薑專利葛花薑黃EX黑薑（3處）; [2026-06-26 圖片修正] 修復 13 張舊網域圖片\n結尾沒有補充『三薑專利葛花薑黃EX黑薑」』產品的特色優勢 以及 產品連結按鈕\n結尾還是沒有補充產品的特色優勢介紹\n",
       "reviewed_at": "2026-06-23T11:02:47Z",
       "rewritten_at": "2026-06-23",
