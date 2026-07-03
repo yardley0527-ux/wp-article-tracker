@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 348,
-    "reviewing": 56,
+    "done": 349,
+    "reviewing": 55,
     "pending": 0,
-    "last_sync": "2026-07-03T07:47:59.877056",
+    "last_sync": "2026-07-03T07:48:17.291775",
     "last_updated": "2026-06-26"
   },
   "articles": [
@@ -3380,10 +3380,11 @@
       "date": "2024-06-17T09:34:27",
       "modified": "2024-12-13T03:15:31",
       "link": "https://104.154.140.219/15-health-benefits-of-turmeric/",
-      "status": "reviewing",
+      "status": "done",
       "note": "全篇改寫（15項功效保留原有深度研究敘述不表格化）：新增16題FAQ；標題改問句；保留17張圖、按鈕與延伸閱讀連結；補修產品名稱美日雙專利→三薑專利葛花薑黃EX黑薑（5處） | 補充產品特色優勢段落+連結按鈕",
       "reviewed_at": "2026-06-23T11:02:47Z",
-      "rewritten_at": "2026-07-01"
+      "rewritten_at": "2026-07-01",
+      "approved_at": "2026-07-03 07:48"
     },
     {
       "id": 11485,
