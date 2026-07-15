@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 388,
-    "reviewing": 16,
+    "done": 389,
+    "reviewing": 15,
     "pending": 0,
-    "last_sync": "2026-07-15T08:51:39.122089",
+    "last_sync": "2026-07-15T08:51:40.957730",
     "last_updated": "2026-06-26"
   },
   "articles": [
@@ -3502,10 +3502,11 @@
       "date": "2024-05-07T03:14:16",
       "modified": "2024-10-23T08:17:58",
       "link": "https://104.154.140.219/vitamin-b7-secret-to-beautiful-hair-skin-and-nails/",
-      "status": "reviewing",
+      "status": "done",
       "note": "結尾沒有補充『維生素B鋅C全能膠囊』產品的特色優勢介紹 | [2026-07-14 Della回饋修正] 文末補上具名結語段落點出產品特色優勢; 待審(9250/9192/8746/8138)另補產品連結按鈕",
       "reviewed_at": "2026-06-24T06:22:41Z",
-      "rewritten_at": "2026-06-24"
+      "rewritten_at": "2026-06-24",
+      "approved_at": "2026-07-15 08:51"
     },
     {
       "id": 11229,
