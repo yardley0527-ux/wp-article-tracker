@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 367,
-    "reviewing": 37,
+    "done": 368,
+    "reviewing": 36,
     "pending": 0,
-    "last_sync": "2026-07-15T08:49:32.404033",
+    "last_sync": "2026-07-15T08:49:34.149732",
     "last_updated": "2026-06-26"
   },
   "articles": [
@@ -3849,9 +3849,10 @@
       "date": "2023-12-08T10:14:34",
       "modified": "2024-10-24T03:05:13",
       "link": "https://104.154.140.219/%e6%93%94%e5%bf%83%e3%80%8c%e6%9c%83%e8%b5%b0%e8%b7%af%e7%9a%84%e8%82%ba%e7%82%8e%e3%80%8d%e9%bb%b4%e6%bc%bf%e8%8f%8c%e4%b9%85%e5%92%b3%e4%b8%8d%e5%81%9c%ef%bc%9f%e8%96%91%e9%bb%83%e6%8a%97%e7%99%bc/",
-      "status": "reviewing",
+      "status": "done",
       "note": "[2026-06-26 圖片修正] 修復 12 張舊網域圖片",
-      "updated_at": "2026-06-26T11:42:29Z"
+      "updated_at": "2026-06-26T11:42:29Z",
+      "approved_at": "2026-07-15 08:49"
     },
     {
       "id": 9646,
