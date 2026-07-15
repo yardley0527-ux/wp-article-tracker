@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 377,
-    "reviewing": 27,
+    "done": 378,
+    "reviewing": 26,
     "pending": 0,
-    "last_sync": "2026-07-15T08:49:51.314416",
+    "last_sync": "2026-07-15T08:49:53.098483",
     "last_updated": "2026-06-26"
   },
   "articles": [
@@ -3708,11 +3708,12 @@
       "date": "2024-01-30T02:32:34",
       "modified": "2024-09-04T03:22:35",
       "link": "https://104.154.140.219/enzymes-get-rid-of-constipation/",
-      "status": "reviewing",
+      "status": "done",
       "note": "已修正圖片網域：34.86.39.209（已失效）→ 104.154.140.219; [2026-06-26 圖片修正] 修復 28 張舊網域圖片",
       "reviewed_at": "2026-06-25T05:55:49Z",
       "rewritten_at": "2026-06-25",
-      "updated_at": "2026-06-26T11:42:29Z"
+      "updated_at": "2026-06-26T11:42:29Z",
+      "approved_at": "2026-07-15 08:49"
     },
     {
       "id": 10650,
