@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 357,
-    "reviewing": 47,
+    "done": 358,
+    "reviewing": 46,
     "pending": 0,
-    "last_sync": "2026-07-15T06:26:27.359670",
+    "last_sync": "2026-07-15T06:27:07.297365",
     "last_updated": "2026-06-26"
   },
   "articles": [
@@ -3719,11 +3719,12 @@
       "date": "2024-01-24T10:03:23",
       "modified": "2024-09-04T03:22:41",
       "link": "https://104.154.140.219/the-key-to-seven-year-renewal/",
-      "status": "reviewing",
+      "status": "done",
       "note": "[2026-06-26 圖片修正] 修復 22 張舊網域圖片",
       "reviewed_at": "2026-06-25T05:55:49Z",
       "rewritten_at": "2026-06-25",
-      "updated_at": "2026-06-26T11:42:29Z"
+      "updated_at": "2026-06-26T11:42:29Z",
+      "approved_at": "2026-07-15 06:27"
     },
     {
       "id": 10610,
