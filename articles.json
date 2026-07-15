@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 383,
-    "reviewing": 21,
+    "done": 384,
+    "reviewing": 20,
     "pending": 0,
-    "last_sync": "2026-07-15T08:50:14.467668",
+    "last_sync": "2026-07-15T08:50:34.906341",
     "last_updated": "2026-06-26"
   },
   "articles": [
@@ -3599,11 +3599,12 @@
       "date": "2024-04-22T03:12:31",
       "modified": "2024-10-23T08:37:17",
       "link": "https://104.154.140.219/turmeric-with-vitamins/",
-      "status": "reviewing",
+      "status": "done",
       "note": "2026-06-25 自我複查：補上文末結語段落具名點出產品特色（套用Della當天提出的新規則，避免重蹈覆轍）。; [2026-06-26 圖片修正] 修復 22 張舊網域圖片",
       "reviewed_at": "2026-06-25T03:57:24Z",
       "rewritten_at": "2026-06-25",
-      "updated_at": "2026-06-26T11:42:29Z"
+      "updated_at": "2026-06-26T11:42:29Z",
+      "approved_at": "2026-07-15 08:50"
     },
     {
       "id": 11050,
