@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 376,
-    "reviewing": 28,
+    "done": 377,
+    "reviewing": 27,
     "pending": 0,
-    "last_sync": "2026-07-15T08:49:49.421573",
+    "last_sync": "2026-07-15T08:49:51.314416",
     "last_updated": "2026-06-26"
   },
   "articles": [
@@ -3695,11 +3695,12 @@
       "date": "2024-01-31T10:56:34",
       "modified": "2024-10-24T02:57:36",
       "link": "https://104.154.140.219/adiponectin-and-turmeric/",
-      "status": "reviewing",
+      "status": "done",
       "note": "[2026-06-26 圖片修正] 修復 15 張舊網域圖片",
       "reviewed_at": "2026-06-25T05:55:49Z",
       "rewritten_at": "2026-06-25",
-      "updated_at": "2026-06-26T11:42:29Z"
+      "updated_at": "2026-06-26T11:42:29Z",
+      "approved_at": "2026-07-15 08:49"
     },
     {
       "id": 10685,
