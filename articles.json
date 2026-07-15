@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 380,
-    "reviewing": 24,
+    "done": 381,
+    "reviewing": 23,
     "pending": 0,
-    "last_sync": "2026-07-15T08:49:59.520937",
+    "last_sync": "2026-07-15T08:50:01.766468",
     "last_updated": "2026-06-26"
   },
   "articles": [
@@ -3635,11 +3635,12 @@
       "date": "2024-03-26T10:29:38",
       "modified": "2024-09-04T03:17:52",
       "link": "https://104.154.140.219/metabolic-syndrome/",
-      "status": "reviewing",
+      "status": "done",
       "note": "[2026-06-26 圖片修正] 修復 27 張舊網域圖片",
       "reviewed_at": "2026-06-25T03:57:24Z",
       "rewritten_at": "2026-06-25",
-      "updated_at": "2026-06-26T11:42:29Z"
+      "updated_at": "2026-06-26T11:42:29Z",
+      "approved_at": "2026-07-15 08:50"
     },
     {
       "id": 10867,
