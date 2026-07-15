@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 378,
-    "reviewing": 26,
+    "done": 379,
+    "reviewing": 25,
     "pending": 0,
-    "last_sync": "2026-07-15T08:49:53.098483",
+    "last_sync": "2026-07-15T08:49:55.659484",
     "last_updated": "2026-06-26"
   },
   "articles": [
@@ -3683,11 +3683,12 @@
       "date": "2024-02-02T08:37:02",
       "modified": "2024-09-04T03:21:54",
       "link": "https://104.154.140.219/intermittent-fasting/",
-      "status": "reviewing",
+      "status": "done",
       "note": "[2026-06-26 圖片修正] 修復 21 張舊網域圖片",
       "reviewed_at": "2026-06-25T05:55:49Z",
       "rewritten_at": "2026-06-25",
-      "updated_at": "2026-06-26T11:42:29Z"
+      "updated_at": "2026-06-26T11:42:29Z",
+      "approved_at": "2026-07-15 08:49"
     },
     {
       "id": 10756,
