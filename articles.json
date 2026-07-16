@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 391,
-    "reviewing": 13,
+    "done": 392,
+    "reviewing": 12,
     "pending": 0,
-    "last_sync": "2026-07-15T08:55:33.164610",
+    "last_sync": "2026-07-16T06:59:04.766781",
     "last_updated": "2026-06-26"
   },
   "articles": [
@@ -3289,10 +3289,11 @@
       "date": "2024-06-21T07:18:12",
       "modified": "2024-06-21T07:18:13",
       "link": "https://104.154.140.219/intestinal-congestion-free-combination/",
-      "status": "reviewing",
+      "status": "done",
       "note": "全篇改寫：超商食材組合整理成1張表；新增12題FAQ；標題改問句\n結尾要補充『超纖膠原胜肽EX』的特色優勢 以及最後補充『超纖膠原胜肽EX』的產品連結按鈕\n結尾還是沒有補充產品的特色優勢 以及 產品連結按鈕\n結尾請補充產品的特色優勢 以及 產品連結按鈕\n",
       "reviewed_at": "2026-06-23T11:02:47Z",
-      "rewritten_at": "2026-06-23"
+      "rewritten_at": "2026-06-23",
+      "approved_at": "2026-07-16 06:59"
     },
     {
       "id": 12037,
