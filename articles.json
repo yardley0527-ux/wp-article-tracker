@@ -1,10 +1,10 @@
 {
   "meta": {
     "total": 404,
-    "done": 400,
-    "reviewing": 4,
+    "done": 401,
+    "reviewing": 3,
     "pending": 0,
-    "last_sync": "2026-07-16T07:51:39.664297",
+    "last_sync": "2026-07-16T07:53:34.616551",
     "last_updated": "2026-06-26"
   },
   "articles": [
@@ -3680,11 +3680,12 @@
       "date": "2024-02-16T04:01:37",
       "modified": "2024-09-04T03:21:26",
       "link": "https://104.154.140.219/16-8-intermittent-fasting/",
-      "status": "reviewing",
+      "status": "done",
       "note": "[2026-06-26 圖片修正] 修復 28 張舊網域圖片\n結尾請補充『超纖膠原胜肽EX』的特色優勢，補充內含有15g日本專利膳食纖維幫助控制血糖，以及最後補充『超纖膠原胜肽EX』的產品連結按鈕\n\n",
       "reviewed_at": "2026-06-25T05:55:49Z",
       "rewritten_at": "2026-06-25",
-      "updated_at": "2026-06-26T11:42:29Z"
+      "updated_at": "2026-06-26T11:42:29Z",
+      "approved_at": "2026-07-16 07:53"
     },
     {
       "id": 10836,
